@@ -1,0 +1,21 @@
+---
+layout: page
+status: publish
+published: true
+title: About
+author: wade
+author_login: wade
+author_email: wade@anavidesign.com
+author_url: http://wadeshearer.com
+wordpress_id: 365
+wordpress_url: http://uphpu.org/about/
+date: '2007-11-04 22:29:29 -0600'
+date_gmt: '2007-11-05 04:29:29 -0600'
+categories:
+- Announcements
+tags: []
+---
+<p>Welcome to the Utah PHP Users Group. Our purpose is to promote and support the development and use of PHP and general web-based application development. PHP is a widely-used, robust, general-purpose scripting language that is especially suited for both display and business logic programming.</p>
+<p>If you are new to PHP and want to get some idea of how it works, we're here for that too. We have a mailing list, staff an IRC channel, and meet for presentations on the third Thursday of each month. Membership is free and open to anyone interested.</p>
+<p>To be a member of UPHPU, you should want to learn more about PHP and web development, want to share ideas with others, attend <a href="/events/">events</a> on a regular basis, join our <a href="/mailing-lists/">mailing list</a>, and request an account by posting to the mailing list or contacting an administrator. You do not have to pay membership dues, pay for activities, be a expert or a professional programmer, or understand everything on this web-site.</p>
+<p>We also encourage you to join the <a href="http://www.linkedin.com/e/gis/25209/46099C1DE7D1">UPHPU LinkedIn Group</a>.</p>

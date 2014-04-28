@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: FBI recruiter and PHP Security
+author: wade
+author_login: wade
+author_email: wade@anavidesign.com
+author_url: http://wadeshearer.com
+wordpress_id: 1005
+wordpress_url: http://uphpu.org/?p=1005
+date: '2011-09-01 12:55:49 -0500'
+date_gmt: '2011-09-01 18:55:49 -0500'
+categories:
+- Presentations
+tags: []
+comments:
+- id: 20431
+  author: jmalan
+  author_email: jmalan@phputah.com
+  author_url: http://phputah.com
+  date: '2011-09-30 00:15:58 -0500'
+  date_gmt: '2011-09-30 06:15:58 -0500'
+  content: I wish I wouldn't have missed this meeting. Will there be a followup meeting
+    or are there notes from it somewhere?
+---
+<p>For our September <a href="/events">meeting</a>, first, we'll have a brief presentation from a visitor from the FBI to discuss tech opportunities within their organization. Then, the main event will be Steve Meyers presenting on PHP Security. We will be giving away more UTOS Raffle Tickets.</p>

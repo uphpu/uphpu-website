@@ -3,10 +3,12 @@ layout: default
 title: Home
 generator: pagination
 pagination:
-    max_per_page: 3
+    max_per_page: 500
 use:
     - posts
 ---
+
+        {{ page.pagination.items|length }}
 {% for post in page.pagination.items %}
     <article>
         <header>
