@@ -2,8 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'June 21 Meeting: Easy &amp; Awesome Data with Graphite &amp; StatsD by Justin
-  "Rockstar" Carmony'
+title: 'June 21 Meeting: Easy &amp; Awesome Data with Graphite &amp; StatsD by Justin "Rockstar" Carmony'
 author: macnewbold
 author_login: mac
 author_email: mac@macnewbold.com

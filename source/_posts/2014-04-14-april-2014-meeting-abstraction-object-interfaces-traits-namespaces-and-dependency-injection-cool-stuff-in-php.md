@@ -2,8 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'April 2014 Meeting: Abstraction, Object Interfaces, Traits, Namespaces, and
-  Dependency Injection - Cool Stuff in PHP'
+title: 'April 2014 Meeting: Abstraction, Object Interfaces, Traits, Namespaces, and Dependency Injection - Cool Stuff in PHP'
 author: Justin Carmony
 author_login: justincarmony
 author_email: justin@justincarmony.com

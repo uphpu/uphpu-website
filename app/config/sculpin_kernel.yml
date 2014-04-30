@@ -1,3 +1,12 @@
 sculpin_content_types:
     posts:
         permalink: blog/:year/:month/:day/:filename/
+    meetings:
+        permalink: meeting/:filename/
+        type: path
+        path: _meetings
+        singular_name: meeting
+        layout: meeting
+        enabled: true
+        taxonomies:
+          - tags

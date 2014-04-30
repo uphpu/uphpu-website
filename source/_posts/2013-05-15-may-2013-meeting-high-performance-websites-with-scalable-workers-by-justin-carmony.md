@@ -2,8 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'May 2013 Meeting: "High Performance Websites with Scalable Workers" by Justin
-  Carmony'
+title: 'May 2013 Meeting: "High Performance Websites with Scalable Workers" by Justin Carmony'
 author: Justin Carmony
 author_login: justincarmony
 author_email: justin@justincarmony.com

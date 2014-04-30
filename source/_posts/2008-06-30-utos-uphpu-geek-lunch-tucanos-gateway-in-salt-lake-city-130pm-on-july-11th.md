@@ -2,8 +2,7 @@
 layout: post
 status: publish
 published: true
-title: UTOS / UPHPU Geek Lunch Tucanos @ Gateway in Salt Lake City @ 1:30pm on July
-  11th
+title: UTOS / UPHPU Geek Lunch Tucanos @ Gateway in Salt Lake City @ 1:30pm on July 11th
 author: mindjuju
 author_login: mindjuju
 author_email: vvilla@gmail.com

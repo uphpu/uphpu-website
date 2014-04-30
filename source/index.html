@@ -3,12 +3,68 @@ layout: default
 title: Home
 generator: pagination
 pagination:
-    max_per_page: 500
+    max_per_page: 3
 use:
     - posts
+    - meetings
 ---
+{{ dump(page.meetings) }}
+<section id="welcomeSplash">
+    <div class="logo"></div>
+</section>
 
-        {{ page.pagination.items|length }}
+<section id="homeIntro">
+    <div class="row centered-text">
+        <div class="small-12 columns"><h2><small><em>Connecting members of the PHP community since 2003</em></small></h2></div>
+    </div>
+    <div class="row sections">
+        <div class="medium-4 columns meetings">
+            <div class="image"></div>
+            <h4>Meetings</h4>
+            <div class="text">
+                <p>
+                    <strong>Third thursday of each month</strong> we meet to have a presentation given by one of our
+                    community members. Come learn about a variety of topics and hang out at the After-Party.
+                </p>
+            </div>
+            <h5 class="learn-more"><a href="/meetings/">Learn More</a></h5>
+        </div>
+        <div class="medium-4 columns email">
+            <div class="image"></div>
+            <h4>Mailing List</h4>
+            <div class="text">
+                <p>
+                    <strong>Join the discussion</strong> on our Mailing Lists. Feel free to ask any type of question,
+                    no matter how loosely related to PHP they are. Lists for general discussions and jobs.
+                </p>
+            </div>
+            <h5 class="learn-more"><a href="/meetings/">Learn More</a></h5>
+        </div>
+        <div class="medium-4 columns chat">
+            <div class="image"></div>
+            <h4>IRC - Online Chat</h4>
+            <p>
+                <strong>Get online & chat</strong> on our IRC channel on Freenode.net. It is great for asking questions
+                but also just chatting about anything. You can connect via the web or by an IRC client.
+            </p>
+        </div>
+        <h5 class="learn-more"><a href="/meetings/">Learn More</a></h5>
+    </div>
+</section>
+<section id="upcomingMeetings" class="row">
+    <div class="small-12 columns">
+        <h2>Upcoming Meetings</h2>
+
+    </div>
+    {% for meeting in page.meetings %}
+    <div class="medium-4 columns">
+        <h4>{{ meeting.title }}</h4>
+    </div>
+    {% endfor %}
+</section>
+<section id="latestNews" class="row">
+    <div class="small-12 columns">
+    <h2>Latest News</h2>
 {% for post in page.pagination.items %}
     <article>
         <header>
@@ -33,3 +89,5 @@ use:
         {% if page.pagination.next_page %}<a href="{{ site.url }}{{ page.pagination.next_page.url }}">Older Posts</a>{% endif %}<br />
     </nav>
 {% endif %}
+    </div>
+</section>

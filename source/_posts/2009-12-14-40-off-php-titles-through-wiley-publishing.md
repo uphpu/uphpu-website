@@ -7,7 +7,8 @@ author: wade
 author_login: wade
 author_email: wade@anavidesign.com
 author_url: http://wadeshearer.com
-excerpt: 'Spreading a little Christmas cheer, <a href="http://wiley.com">Wiley Publishing</a>
+excerpt: |
+  'Spreading a little Christmas cheer, <a href="http://wiley.com">Wiley Publishing</a>
   has offered our group 40% on the following PHP titles. Please use promo code PHPH1.
   Offer valid from December 15th, 2009-January 31st, 2010. '
 wordpress_id: 608

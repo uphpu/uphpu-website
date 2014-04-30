@@ -2,8 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'UTOS Geek Lunch :: February 20th @ 12:30p at the Smokehouse pizza & bbq in
-  Orem'
+title: 'UTOS Geek Lunch :: February 20th @ 12:30p at the Smokehouse pizza & bbq incOrem'
 author: mindjuju
 author_login: mindjuju
 author_email: vvilla@gmail.com
@@ -16,7 +15,7 @@ categories:
 tags: []
 ---
 <p>Greets all!</p>
-<p>Itâ€™s that time again to start up Geek Lunches for this year, and weâ€™ve decided to kick them off by having one in Utah County! (I have been sorely chastised for not having more events in Utah County â€“ and look to amend that this year!)</p>
+<p>Itâ€™s that time again to start up Geek Lunches for this year, and we've decided to kick them off by having one in Utah County! (I have been sorely chastised for not having more events in Utah County â€“ and look to amend that this year!)</p>
 <p>This monthâ€™s Geek Lunch is going to be at The Smokehouse Pizza and BBQ in Orem.  </p>
 <p>The event will be Feb 20 at 12:30p.  </p>
 <p>Address below:</p>

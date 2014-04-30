@@ -7,7 +7,8 @@ author: thebigdog
 author_login: bigdog
 author_email: bigdog@venticon.com
 author_url: http://torosys.com
-excerpt: 'I finally got my hands on a copy of the DBVisualizer. I have been ready
+excerpt: |
+  'I finally got my hands on a copy of the DBVisualizer. I have been ready
   to try version 7 out for a long time. It has some new features that I am really
   excited to try out. I have not used the product since version 5; yet, there are
   some killer things that I wanted to try out. I have been looking for a db tool that

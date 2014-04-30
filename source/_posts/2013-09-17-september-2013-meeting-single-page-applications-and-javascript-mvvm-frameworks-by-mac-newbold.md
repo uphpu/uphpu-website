@@ -2,8 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'September 2013 Meeting: Single Page Applications and Javascript MVVM Frameworks
-  by Mac Newbold'
+title: 'September 2013 Meeting: Single Page Applications and Javascript MVVM Frameworks by Mac Newbold'
 author: Justin Carmony
 author_login: justincarmony
 author_email: justin@justincarmony.com

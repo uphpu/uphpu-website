@@ -2,8 +2,7 @@
 layout: post
 status: publish
 published: true
-title: UPHPU Presentation - UPHPU Meeting - High Availability with memcache - Thursday
-  @ 7p - Jeff Sherlock
+title: UPHPU Presentation - UPHPU Meeting - High Availability with memcache - Thursday @ 7p - Jeff Sherlock
 author: mindjuju
 author_login: mindjuju
 author_email: vvilla@gmail.com

@@ -2,8 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'January 2013 Meeting: An Intro to Server Configuration and Remote Management
-  with Salt'
+title: 'January 2013 Meeting: An Intro to Server Configuration and Remote Management with Salt'
 author: Justin Carmony
 author_login: justincarmony
 author_email: justin@justincarmony.com
