@@ -2,7 +2,7 @@ sculpin_content_types:
     posts:
         permalink: blog/:year/:month/:day/:filename/
     meetings:
-        permalink: meeting/:filename/
+        permalink: meeting/:year/:filename/
         type: path
         path: _meetings
         singular_name: meeting

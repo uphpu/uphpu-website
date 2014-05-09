@@ -8,7 +8,7 @@ use:
     - posts
     - meetings
 ---
-{{ dump(page.meetings) }}
+
 <section id="welcomeSplash">
     <div class="logo"></div>
 </section>
@@ -38,33 +38,47 @@ use:
                     no matter how loosely related to PHP they are. Lists for general discussions and jobs.
                 </p>
             </div>
-            <h5 class="learn-more"><a href="/meetings/">Learn More</a></h5>
+            <h5 class="learn-more"><a href="/mailing-lists/">Learn More</a></h5>
         </div>
         <div class="medium-4 columns chat">
             <div class="image"></div>
             <h4>IRC - Online Chat</h4>
-            <p>
+            <div class="text">
+                <p>
                 <strong>Get online & chat</strong> on our IRC channel on Freenode.net. It is great for asking questions
                 but also just chatting about anything. You can connect via the web or by an IRC client.
-            </p>
+                </p>
+            </div>
+            <h5 class="learn-more"><a href="/meetings/">Learn More</a></h5>
         </div>
-        <h5 class="learn-more"><a href="/meetings/">Learn More</a></h5>
-    </div>
-</section>
-<section id="upcomingMeetings" class="row">
-    <div class="small-12 columns">
-        <h2>Upcoming Meetings</h2>
 
     </div>
-    {% for meeting in page.meetings %}
-    <div class="medium-4 columns">
-        <h4>{{ meeting.title }}</h4>
+</section>
+<section id="upcomingMeetings">
+    <div class="row">
+        <div class="small-12 columns">
+            <h2 class="heavy">Upcoming Meetings</h2>
+        </div>
     </div>
-    {% endfor %}
+    <div class="row">
+        {% for meeting in data.meetings|slice(0,3)|reverse %}
+        <div class="medium-4 columns">
+            <h2>{{ meeting.date|date("F Y") }}</h2>
+            <div class="panel">
+            <h5>When: {{ meeting.date|date("F jS @ g:i A") }}</h5>
+            {% if(meeting.presenter) %}
+            <h5>Presenter: {{ meeting.presenter }}</h5>
+            {% endif %}
+            <h4>{{ meeting.title }}</h4>
+            <p>{{ meeting.summary }}</p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
 </section>
 <section id="latestNews" class="row">
     <div class="small-12 columns">
-    <h2>Latest News</h2>
+    <h2 class="heavy">Latest News</h2>
 {% for post in page.pagination.items %}
     <article>
         <header>

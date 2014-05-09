@@ -2,9 +2,13 @@
 layout: post
 status: publish
 published: true
-title: 'April 2014 Meeting: Abstraction, Object Interfaces, Traits, Namespaces, and Dependency Injection - Cool Stuff in PHP'
-presenter: Justin Carmony
-date: '2014-04-14 20:00:00'
+title: 'Advanced OOP in PHP'
+presenter: Mark Niebergall
+date: '2014-04-17 20:00:00'
+summary: |
+    Come learn about abstracts, interfaces, traits, namespaces, and dependency
+    injection. Have you heard of some of these and always wanted to use them in your PHP application but didn't know
+    where to start? You will learn the benefit of each one and when to use them in your existing or new application.
 categories:
 - Presentations
 tags:

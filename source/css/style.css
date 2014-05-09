@@ -90,6 +90,8 @@ footer.container {
     background: url('../images/logo.png') top left no-repeat;
 }
 
+.heavy { font-weight: 800; }
+
 /* Home Page Intro Section */
 
 #homeIntro {
