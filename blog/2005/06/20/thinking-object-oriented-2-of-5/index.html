@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Thinking object-oriented (2 of 5) &mdash; Utah PHP Usergroup &mdash; Where PHP Happens in Utah</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/components/foundation/css/normalize.css" rel="stylesheet" type="text/css" />
+    <link href="/components/foundation/css/foundation.min.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style.css" rel="stylesheet" type="text/css" />
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="/components/modernizr/modernizr-built.js"></script>
+    <link rel="stylesheet" href="/components/highlightjs/styles/github.css" />
+    <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="Utah PHP Usergroup activity feed" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,800' rel='stylesheet' type='text/css'>
+</head>    <body>
+        <div class="contain-to-grid">
+<nav class="top-bar" data-topbar>
+    <ul class="title-area">
+        <li class="name">
+            <h1><a href="/"><span class="utah-php">Utah PHP</span> <span class="usergroup">Usergroup</span></a></h1>
+        </li>
+        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+    </ul>
+
+    <section class="top-bar-section">
+        <!-- Right Nav Section -->
+        <ul class="right">
+            <li><a href="#">About</a></li>
+            <li><a href="#">Meetings</a></li>
+            <li><a href="#">Events</a></li>
+            <li><a href="#">Jobs</a></li>
+            <li class="has-dropdown">
+                <a href="#">Community</a>
+                <ul class="dropdown">
+                    <li><a href="#">Mailing List</a></li>
+                    <li><a href="#">IRC</a></li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+</nav>
+</div>        <div id="omni">
+            <section id="pageContent">
+    <div class="row">
+        <div class="small-12 columns">
+        <header>
+            <h2>Thinking object-oriented (2 of 5)</h2>
+        </header>
+        <div>
+            <p>&lt;</p>
+
+<p>p>This is the second of five articles written on object-oriented programming.  These articles were originally written for <a href="http://www.jacwright.com/" title="Jac Wright, Web Development and Application Design">jacwright.com</a>  This article was going to be entitled <em>Conceptulizing Systems</em>, but was changed to <em>Thinking Object-Oriented</em> as this title better describes the content of the article.  I hope these are of benefit to you.<br />
+<b>Real Power</b></p>
+
+<p>One of the more difficult jumps of the several leaps and bounds from procedural to object-oriented programming is conceptualizing the system you are programming.  <em>Thinking</em> object-oriented is the real power of object-oriented programming, and even if we always program procedurally we may already be thinking object-oriented.  We need to be able to see a system, a problem, or a program in terms of objects and their relationships to one another.  When we do this any program will be much more simple and easy for us to grasp.  It will be easy to picture how it works in our minds.</p>
+
+<p>There are three ways to think object-oriented.  One way it not better then another.  They are all just different and each of them is used as we start use objects appropriately.  I call these three ways the Top Down approach, the Bottom Up approach, and Real World Modeling.</p>
+
+<p>&lt;</p>
+
+<p>p><b>Top Down</b></p>
+
+<p>The Top Down approach in object-oriented programming give us a way to see the system as a whole.  We break the entire system down into related parts.  The Model-View-Controller design pattern (we'll talk about design patterns in a later article) is an example of this.  It breaks the system into three parts: objects related to the business model, display objects, and objects to handle user input.</p>
+
+<p>When we use the Top Down approach we need to think of how the system can be broken up into logical pieces.  We can slice up the entire system like I do a pie.  First I slice the pie in half, then in half again, making four pieces, then in half again.  I end up with nice evenly sized pieces, something I've never been able to do by slicing a piece at a time.  Similarly with a program or system (which might be a small part of a larger system) we break it up into larger pieces, then smaller ones, then even smaller ones, until we have pieces of a manageable size.</p>
+
+<p>We can see the Top Down approach thinking with a short example.  Let's use the oh-so-common ecommerce store.  If we think of the system as a whole we know there will be data to keep, store functionality, and a good looking design that we want to change once in awhile.  We can break our data section down into session management and a database object.  We might break our store functionality into sections like the catalog, product reviews, the shopping cart, and the checkout.  We can have our display section broken down into a general template and a caching template that will cache pages for reuse (so the database doesn't have to work so hard).  We can then go over each of the functionality sections and further break them down into small pieces and objects.</p>
+
+<p>&lt;</p>
+
+<p>p><b>Bottom Up</b></p>
+
+<p>The Bottom Up approach does not look at the system as a whole.  Instead, it concentrates on grouping related functionality together.  We see functions and variables as related and so put them together into an object.  Then we see objects which interact or are related and put them together into a group (called a package, usually put into the same folder etc.)  We can then group those object groups into larger and larger groups until we have the whole system accounted for.</p>
+
+<p>Using this approach to think object-oriented we use two different steps.  The first step is grouping functionality into objects.  The second step is grouping objects into groups.  For step one, we figure out what goes together.  This can be easy if we already group our related procedural code into files.  We may have a file that contains all of our database functions in it.  Instead of having all the functions there sitting in the global scope and the variables they use (perhaps a connection variable, or a record-set variable), we can group it all into a database object, with properties such as the connection reference and functions such as query or closeConnection.</p>
+
+<p>The second step is similar to the Top Down approach, just backwards.  Instead of breaking a system down into parts, we are building it up from the pieces we know we will have.  Grouping objects into larger and larger groups until we have the whole system makes it much easier to picture the internals of a system in our mind, and how things are actually working.  It also allows us and others to easily find pieces of functionality to extend or fix because they are organized into folders and files (packages and objects) in a logical manner.</p>
+
+<p>&lt;</p>
+
+<p>p><b>Model the Real World</b></p>
+
+<p>Finally, Real World Modeling is one of the most powerful aspects of object-oriented programming.  This is making objects that you know in the real world into objects in your system.  Because we all live in the real world, it is easy for others to immediately understand what an object is and does if it is based off of something real world.</p>
+
+<p>A customer, shopping cart, and product in an ecommerce store are immediately recognized and their interactions between each other are understood easily, because we can see the same interaction in our daily lives.  We know that there can be many products in our shopping cart.  We know that each customer may have a shopping cart to put their products in.  We know that customers have names and addresses, and that products have names and prices.  The programmatic shopping cart however may have related functionality that a real shopping cart may not have.  It may be able to tell us the total price of all the products in it, where a real cart can't do anything but roll around (something not needed in an ecommerce store). </p>
+
+<p>The first thing you might do when developing a system is to discover all the real world objects in that system.  Whether it is employees, supplies, offices, text characters, documents, buttons, or trash cans, they all help us think of the system easier and model it better.  We already know many of the objects' interactions and who "owns" what (the customer owns the shopping cart and the cart owns the products).  These real world objects may even be the groupings of objects instead of the objects themselves.  Or they may be objects that help group others.  You might have a department object with its employees and manager.</p>
+
+<p>Once you have the real world objects you can then group them.  The shopping cart, order, and checkout might go into the same section.  You may put products and categories into the catalog group.  Customers and store admin may be their own group.</p>
+
+<p>&lt;</p>
+
+<p>p><b>Object-Oriented Thinking</b></p>
+
+<p>Object-oriented thinking has been around even before object-oriented programming.  People do it without knowing it might be called object-oriented.  It helps us conceptualize a system and better grasp it.  It helps us wrap our mind around a system without blowing a fuse.  It makes programming easier for us and easier for others coming to our code.  Object-oriented <em>programming</em> was created to make it easy to transfer our object-oriented <em>thinking</em> into code, although we can still program procedurally our object-oriented design.  This is the real power of object-oriented programming.</p>
+
+        </div>
+                    <p class="categories">
+            Categories:
+                        <a href="/blog/categories/Articles">Articles</a>                        </p>
+                
+                    <nav class="article">
+                <ul>
+                                            <li>Next: <a class="next" href="/blog/2005/06/21/basic-linux-network-security-troubleshooting-amp-tips" title="Basic Linux network security, troubleshooting and tips"><span class="title">Basic Linux network security, troubleshooting and tips</span></a></li>
+                                                                <li>Previous: <a class="previous" href="/blog/2005/06/15/announcing-the-phlyte-framework-project" title="Announcing the Phlyte framework project"><span class="title">Announcing the Phlyte framework project</span></a></li>
+                                    </ul>
+            </nav>
+                </div>
+    </div>
+</section>
+        </div>
+        <footer class="container">
+    &copy; 2014 Utah PHP Usergroup
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/components/jquery/jquery.min.js"><\/script>')</script>
+<script src="/components/foundation/js/foundation.min.js"></script>
+<script>
+    $(document).foundation();
+</script>
+
+<script src="/components/highlightjs/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>    </body>
+</html>

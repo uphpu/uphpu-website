@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>SQLite, PHP and ALTER TABLE &mdash; Utah PHP Usergroup &mdash; Where PHP Happens in Utah</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/components/foundation/css/normalize.css" rel="stylesheet" type="text/css" />
+    <link href="/components/foundation/css/foundation.min.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style.css" rel="stylesheet" type="text/css" />
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="/components/modernizr/modernizr-built.js"></script>
+    <link rel="stylesheet" href="/components/highlightjs/styles/github.css" />
+    <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="Utah PHP Usergroup activity feed" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,800' rel='stylesheet' type='text/css'>
+</head>    <body>
+        <div class="contain-to-grid">
+<nav class="top-bar" data-topbar>
+    <ul class="title-area">
+        <li class="name">
+            <h1><a href="/"><span class="utah-php">Utah PHP</span> <span class="usergroup">Usergroup</span></a></h1>
+        </li>
+        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+    </ul>
+
+    <section class="top-bar-section">
+        <!-- Right Nav Section -->
+        <ul class="right">
+            <li><a href="#">About</a></li>
+            <li><a href="#">Meetings</a></li>
+            <li><a href="#">Events</a></li>
+            <li><a href="#">Jobs</a></li>
+            <li class="has-dropdown">
+                <a href="#">Community</a>
+                <ul class="dropdown">
+                    <li><a href="#">Mailing List</a></li>
+                    <li><a href="#">IRC</a></li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+</nav>
+</div>        <div id="omni">
+            <section id="pageContent">
+    <div class="row">
+        <div class="small-12 columns">
+        <header>
+            <h2>SQLite, PHP and ALTER TABLE</h2>
+        </header>
+        <div>
+            <p>Since SQLite comes bundled with PHP 5, I thought I'd post this for those interested.</p>
+
+<p>SQLite currently does not support ALTER TABLE statements. This can make developing/modifying an app a bit cumbersome, since modifying a table requires creating a temp table and copying data back and forth. To this end, I've created a PHP wrapper for SQLite that does the dirty work for you and supports all types of ALTER TABLE statements. The source is in the public domain, so you may use it however you like.</p>
+
+<p>Documentation:<br /><a href='http://code.jenseng.com/db/' title='SQLiteDB - SQLite and PHP'>http://code.jenseng.com/db/</a></p>
+
+<p>Source:<br /><a href='http://code.jenseng.com/db/sql.txt' title='SQLiteDB source code'>http://code.jenseng.com/db/sql.txt</a></p>
+
+<p>I will be releasing an optimized version with cleaner code, more comments, and additional functionality (such as RENAME TABLE) in a <a href='http://jenseng.com/archives/000026.html' title='sqlite part II'>few weeks</a>.</p>
+
+        </div>
+                    <p class="categories">
+            Categories:
+                        <a href="/blog/categories/Articles">Articles</a>                        </p>
+                
+                    <nav class="article">
+                <ul>
+                                            <li>Next: <a class="next" href="/blog/2004/08/16/family-barbecue" title="Family barbecue"><span class="title">Family barbecue</span></a></li>
+                                                                <li>Previous: <a class="previous" href="/blog/2004/07/16/web-accessibility" title="Web accessibility"><span class="title">Web accessibility</span></a></li>
+                                    </ul>
+            </nav>
+                </div>
+    </div>
+</section>
+        </div>
+        <footer class="container">
+    &copy; 2014 Utah PHP Usergroup
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/components/jquery/jquery.min.js"><\/script>')</script>
+<script src="/components/foundation/js/foundation.min.js"></script>
+<script>
+    $(document).foundation();
+</script>
+
+<script src="/components/highlightjs/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>    </body>
+</html>

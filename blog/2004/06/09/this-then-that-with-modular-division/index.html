@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>This... then that... with modular division &mdash; Utah PHP Usergroup &mdash; Where PHP Happens in Utah</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/components/foundation/css/normalize.css" rel="stylesheet" type="text/css" />
+    <link href="/components/foundation/css/foundation.min.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style.css" rel="stylesheet" type="text/css" />
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="/components/modernizr/modernizr-built.js"></script>
+    <link rel="stylesheet" href="/components/highlightjs/styles/github.css" />
+    <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="Utah PHP Usergroup activity feed" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,800' rel='stylesheet' type='text/css'>
+</head>    <body>
+        <div class="contain-to-grid">
+<nav class="top-bar" data-topbar>
+    <ul class="title-area">
+        <li class="name">
+            <h1><a href="/"><span class="utah-php">Utah PHP</span> <span class="usergroup">Usergroup</span></a></h1>
+        </li>
+        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+    </ul>
+
+    <section class="top-bar-section">
+        <!-- Right Nav Section -->
+        <ul class="right">
+            <li><a href="#">About</a></li>
+            <li><a href="#">Meetings</a></li>
+            <li><a href="#">Events</a></li>
+            <li><a href="#">Jobs</a></li>
+            <li class="has-dropdown">
+                <a href="#">Community</a>
+                <ul class="dropdown">
+                    <li><a href="#">Mailing List</a></li>
+                    <li><a href="#">IRC</a></li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+</nav>
+</div>        <div id="omni">
+            <section id="pageContent">
+    <div class="row">
+        <div class="small-12 columns">
+        <header>
+            <h2>This... then that... with modular division</h2>
+        </header>
+        <div>
+            <p>A friend taught me something cool today that I thought that I would share with the group. With simple modular division, you can test for evens and odds and "cycle" between different results.<br />
+Follow me through the following scenario. My actual code for this was done in SMARTY, but whether done in a script or the template, it applies the same.</p>
+
+<p>I had an array of values...</p>
+
+<p> $array = array('A4','A6','A8','TT','allroad quattro');</p>
+
+<p>I wanted to loop through them and print out some HTML along with each value in the array. A simple foreach takes care of this nicely, but I needed something more. I wanted to print out a different set of HTML for every other value. In other words, the loop progresses and the values in the array are printed out with/into the HTML, the first would be printed out with/into "HTML chunk A", then the second with/into "HTML chunk B", then the third with/into "HTML chunk A", then the forth with/into "HTML chunk B", and so forth through for all the values. I needed a way to say "this... then that... then this.... then that."</p>
+
+<p>My friend introduced me to modular division. It does some math and returns the remainder of the fraction, making it easy to detect odds or evens. Each item in the array already has a numerical value assigned to it automatically in the array (the key), so I decided to use that to compare against.</p>
+
+<p>So, if my code were in PHP, it would look something like this...</p>
+
+<p> foreach ($array as $key => $value)<br />
+    {<br />
+        if ($key %2) // divide by two; ie, every other<br />
+        {<br />
+            echo 'HTML chunk A' . $value;<br />
+        }<br />
+        else<br />
+        {<br />
+            echo 'HTML chunk B' . $value;<br />
+        }<br />
+    }</p>
+
+<p>And, using this modular division, you would be able test for more than two possibilities as well.</p>
+
+<p>Hope this helps someone,</p>
+
+<p>wade</p>
+
+        </div>
+                    <p class="categories">
+            Categories:
+                        <a href="/blog/categories/Articles">Articles</a>                        </p>
+                
+                    <nav class="article">
+                <ul>
+                                            <li>Next: <a class="next" href="/blog/2004/06/09/dynamic-pdfs-and-images" title="Dynamic PDFs and images"><span class="title">Dynamic PDFs and images</span></a></li>
+                                                                <li>Previous: <a class="previous" href="/blog/2004/06/07/final-vote-on-meeting-location-salt-lake-and-orem-or-potm" title="Final vote on meeting location: Salt Lake and Orem? or POTM?"><span class="title">Final vote on meeting location: Salt Lake and Orem? or POTM?</span></a></li>
+                                    </ul>
+            </nav>
+                </div>
+    </div>
+</section>
+        </div>
+        <footer class="container">
+    &copy; 2014 Utah PHP Usergroup
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/components/jquery/jquery.min.js"><\/script>')</script>
+<script src="/components/foundation/js/foundation.min.js"></script>
+<script>
+    $(document).foundation();
+</script>
+
+<script src="/components/highlightjs/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>    </body>
+</html>
