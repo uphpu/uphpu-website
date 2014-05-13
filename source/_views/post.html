@@ -1,8 +1,10 @@
 {% extends "default" %}
 {% block content_wrapper %}
-    <article>
+<section id="pageContent">
+    <div class="row">
+        <div class="small-12 columns">
         <header>
-            <h2>{{ page.title }} <small>post</small></h2>
+            <h2>{{ page.title }}</h2>
         </header>
         <div>
             {{ page.blocks.content|raw }}
@@ -36,5 +38,7 @@
                 </ul>
             </nav>
         {% endif %}
-    </article>
+        </div>
+    </div>
+</section>
 {% endblock %}
