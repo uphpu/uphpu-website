@@ -6,14 +6,25 @@
 
 echo "Setup"
 
-if [ ! -d "$DIRECTORY" ]; then
-  # Control will enter here if $DIRECTORY doesn't exist.
+if [ ! -d "output_prod" ]; then
+  git clone git@github.com:uphpu/uphpu-website.git output_prod
 fi
+
+cd output_prod
+git reset --hard HEAD
+git checkout generated
+git pull
+cd ..
+
 
 sculpin generate --env=prod
 if [ $? -ne 0 ]; then echo "Could not generate the site"; exit 1; fi
 
+cd output_prod
 
+git add -A
+git commit -am "Generating Website"
+git push
 
-rsync -av output_prod
-if [ $? -ne 0 ]; then echo "Could not publish the site"; exit 1; fi
+cd ..
+
