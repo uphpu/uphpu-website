@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About the Utah PHP Usergroup
-
+title: Current Venue: Needle
 ---
 Here is some information about UPHPU! More details coming soon!

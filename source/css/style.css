@@ -125,3 +125,10 @@ footer.container {
 #homeIntro h4 {
     text-align: center;
 }
+
+/* Pages */
+@media (min-width: 640px) {
+    #pageContent {
+        margin-top:60px;
+    }
+}
