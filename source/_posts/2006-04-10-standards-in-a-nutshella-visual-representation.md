@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Standards in a Nutshellâ€”a visual representation
+title: Standards in a Nutshell&mdash;a visual representation
 author: wade
 author_login: wade
 author_email: wade@anavidesign.com

@@ -14,8 +14,8 @@ categories:
 - Announcements
 tags: []
 ---
-<p>This monthâ€™s Geek Lunch is going to be in downtown SLC at the Rodizio Grill in Trolley Square! </p>
-<p> I have setup reservations for 15 though Iâ€™m pretty sure that will need to increase this.  Please Please Please RSVP so that I can give an accurate count to them.  This is their opening week, in fact, the day after grand opening, so itâ€™ll likely be packed!</p>
+<p>This month's Geek Lunch is going to be in downtown SLC at the Rodizio Grill in Trolley Square! </p>
+<p> I have setup reservations for 15 though I'm pretty sure that will need to increase this.  Please Please Please RSVP so that I can give an accurate count to them.  This is their opening week, in fact, the day after grand opening, so it'll likely be packed!</p>
 <p>Info:<br />
 RSVP : mindjuju at gmail  // please give count of how many are coming with you  or at<br />
 http://upcoming.yahoo.com/event/470822/<br />

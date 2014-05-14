@@ -15,7 +15,7 @@ categories:
 - Articles
 tags: []
 ---
-<p><i>"Javascript is one of very few languages that is used less often than it is abused." â€” mac newbold</i></p>
+<p><i>"Javascript is one of very few languages that is used less often than it is abused." &mdash; mac newbold</i></p>
 <p><a href="http://uphpu.org/pipermail/uphpu/2005-February/thread.html">A recent discussion on the mailing list (subject: "RE: Javascript form validation [was Re: Posting a form]")</a> prompted me to post an article about JavaScript, and how to use it appropriately. I'm not a JavaScript expert, and I don't play one on TV. But I am versed in it and have seen a lot of good and bad things done with it. My main goal in sharing my thoughts on the subject is to help people know when and how JavaScript is the right answer, and make the world a better place. If  talking about things like this can open a dialogue, that would be great, and we can get the word out to help stop people from falling into the trap. Newbies especially can benefit by finding out about the problems before they get into bad habits.</p>
 <p>One of my biggest issues with the way people use Javascript is when they use it for validating form input. It  is one aspect of the problem of using client side programming for things that can only effectively be done on the server side.</p>
 <p>Because Javascript is run on the clientside, it is not guaranteed in any way to be run. It is insecure. It can be faked, skipped, avoided, disabled, and any number of other undesirable things. Search engines don't run any of it either, though that doesn't have much to do with form validation in particular. People can even make a form like yours, but without the javascript, and submit <i>that</i> instead of your form.</p>

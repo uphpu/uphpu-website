@@ -15,8 +15,8 @@ categories:
 tags: []
 ---
 <p>Greets all!</p>
-<p>Itâ€™s that time again to start up Geek Lunches for this year, and we've decided to kick them off by having one in Utah County! (I have been sorely chastised for not having more events in Utah County â€“ and look to amend that this year!)</p>
-<p>This monthâ€™s Geek Lunch is going to be at The Smokehouse Pizza and BBQ in Orem.  </p>
+<p>It's that time again to start up Geek Lunches for this year, and we've decided to kick them off by having one in Utah County! (I have been sorely chastised for not having more events in Utah County &ndash; and look to amend that this year!)</p>
+<p>This month's Geek Lunch is going to be at The Smokehouse Pizza and BBQ in Orem.  </p>
 <p>The event will be Feb 20 at 12:30p.  </p>
 <p>Address below:</p>
 <p>The Smokehouse Pizza and BBQ<br />

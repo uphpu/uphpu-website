@@ -14,8 +14,8 @@ categories:
 - Announcements
 tags: []
 ---
-<p>With Josh Simpson (dataw0lf on the IRC) going to be in town, a bunch of us decided to have an impromptu Geek Lunch!  (who said geeks werenâ€™t spontaneous?!)  And from the response on the IRC, it sounds like everybody is going to be there.</p>
-<p>Soooooâ€¦. Here is the info:</p>
+<p>With Josh Simpson (dataw0lf on the IRC) going to be in town, a bunch of us decided to have an impromptu Geek Lunch!  (who said geeks weren't spontaneous?!)  And from the response on the IRC, it sounds like everybody is going to be there.</p>
+<p>Sooooo&hellip;. Here is the info:</p>
 <p>Geek Lunch:<br />
 <a href="http://www.bucadibeppo.com/locations/location.aspx?location=4501">Buca Dibeppos</a><br />
 October 12 @ 12p<br />
