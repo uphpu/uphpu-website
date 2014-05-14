@@ -16,7 +16,7 @@ categories:
 tags: []
 ---
 <p>After much testing, I have concluded that in order to use <a href="http://jquery.com">jQuery</a> with boolean attributes (and have it work in the big four browsers), the following markup must be used: checked="checked".</p>
-<p>While browsers except any of the followingâ€¦</p>
+<p>While browsers except any of the following&hellip;</p>
 <pre lang="html">
 checked
 checked=""
@@ -24,4 +24,4 @@ checked="true"
 checked="1"
 checked="checked"
 </pre>
-<p>â€¦only the last option works with jQuery in all browsers.</p>
+<p>&hellip;only the last option works with jQuery in all browsers.</p>

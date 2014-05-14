@@ -17,7 +17,7 @@ tags: []
 <p>Travis, a former employee of Authorize.net, will be building his presentation from experience he has with input from current Authorize.net staff.</p>
 <p>He will be presenting on two main topics: coding to Authorize.net and the Business Aspects and opportunities of Authorize.net.</p>
 <p>Coding: </p>
-<p> SIM (Simple Integration Method) â€“ where you calculate the totals  and pass in the credit num, etc, info goes to an authorize.net domain<br />
+<p> SIM (Simple Integration Method) &ndash; where you calculate the totals  and pass in the credit num, etc, info goes to an authorize.net domain<br />
  AIM (Advanced Integration Method) --  more hardcore, Authorize.net is totally masked, the entire transaction appears to be on your domain</p>
 <p>Business:             </p>
 <p> What is merchant account<br />

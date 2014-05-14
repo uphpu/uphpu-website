@@ -15,7 +15,7 @@ categories:
 - Presentations
 tags: []
 ---
-<p>Juneâ€™s UPHPU meeting will be Thursday, June 19th at 7p in Draper (address / map below).</p>
+<p>June's UPHPU meeting will be Thursday, June 19th at 7p in Draper (address / map below).</p>
 <p>We are very pleased to have Travis Barney of Progrexion presenting on QCodo.  </p>
 <p>The Qcodo Development Framework is an open-source PHP 5 framework that focuses on freeing developers from unnecessary tedious, mundane coding.  It is a completely object-oriented framework that takes the best of PHP and provides a truly rapid application development platform. (http://qcodo.com/ )</p>
 <p>Meeting Information:</p>
