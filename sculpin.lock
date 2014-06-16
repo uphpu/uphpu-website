@@ -7,16 +7,16 @@
     "packages": [
         {
             "name": "components/foundation",
-            "version": "5.2.2",
+            "version": "5.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/components/foundation.git",
-                "reference": "2d651b24f177410e58dba3ca25332fcc8abf56a1"
+                "reference": "62fd09db9d4ed9e33825162d7054c43273fcd22e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/components/foundation/zipball/2d651b24f177410e58dba3ca25332fcc8abf56a1",
-                "reference": "2d651b24f177410e58dba3ca25332fcc8abf56a1",
+                "url": "https://api.github.com/repos/components/foundation/zipball/62fd09db9d4ed9e33825162d7054c43273fcd22e",
+                "reference": "62fd09db9d4ed9e33825162d7054c43273fcd22e",
                 "shasum": ""
             },
             "require": {
@@ -62,7 +62,7 @@
                 "css",
                 "foundation"
             ],
-            "time": "2014-04-07 06:13:42"
+            "time": "2014-05-29 09:17:23"
         },
         {
             "name": "components/highlightjs",
@@ -373,20 +373,10 @@
             "time": "2013-08-31 23:46:48"
         }
     ],
-    "packages-dev": [
-
-    ],
-    "aliases": [
-
-    ],
+    "packages-dev": [],
+    "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [
-
-    ],
-    "platform": [
-
-    ],
-    "platform-dev": [
-
-    ]
+    "stability-flags": [],
+    "platform": [],
+    "platform-dev": []
 }
