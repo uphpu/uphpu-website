@@ -2,16 +2,28 @@
 layout: post
 status: publish
 published: true
-title: 'To Be Announced'
-presenter:
+title: 'ReactPHP'
+presenter: Steve Meyers
 date: '2014-06-19 20:00:00'
 summary: |
-    This Meeting will be announced shortly. Are you looking for a chance to speak? Feel free to check out our speaking
-    page.
+    Modern browsers support a new standard called Websockets, which allow persistent connections between a browser and a server.  We'll discuss how to implement Websockets with your client-side Javascript talking to your server-side PHP, using the ReactPHP event-driven framework.
 categories:
 - Presentations
 tags:
   - to be announced
 ---
-This Meeting will be announced shortly. Are you looking for a chance to speak? Feel free to check out our [speaking
-page](/speaking/).
+<p>The meeting will be this Thursday (June 19th) at Needle at 7:00 PM. It will be Steve Meyers talking about "ReactPHP"</p>
+<p><strong>Talk Summary</strong></p>
+<p>"Modern browsers support a new standard called Websockets, which allow persistent connections between a browser and a server.  We'll discuss how to implement Websockets with your client-side Javascript talking to your server-side PHP, using the ReactPHP event-driven framework."</p>
+<p><strong>About Steve Meyers</strong></p>
+<p>Steve has been using PHP for 16 years.  He runs the Ski PHP Conference, assists with the OpenWest Conference, is a core team member of the Utah Open Source Foundation, and runs the Provo Linux User Group.</p>
+<p><strong>The After Party</strong></p>
+<p>The After Party will be at the traditional location of Applebee's in Draper. We typically head over there at about 8:30-9:00, so watch Twitter and we'll announce when we're heading over.</p>
+<p><strong>Meeting Venue: Needle</strong></p>
+<p>The Meetings are still at Needle, their address is: </p>
+<p>Needle Inc.<br />
+14864 Pony Express Road<br />
+Bluffdale, UT 84065</p>
+<p>Look forward to seeing everyone on Thursday!</p>
+<p>Thanks,</p>
+<p>Justin Carmony</p>
