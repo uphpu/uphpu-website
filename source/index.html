@@ -69,7 +69,7 @@ use:
             {% if(meeting.presenter) %}
             <h5>Presenter: {{ meeting.presenter }}</h5>
             {% endif %}
-            <h4>{{ meeting.title }}</h4>
+            <h4><a href="{{ site.url }}{{ meeting.url }}">{{ meeting.title }}</a></h4>
             <p>{{ meeting.summary }}</p>
             </div>
         </div>
