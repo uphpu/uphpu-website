@@ -75,6 +75,26 @@ use:
         </div>
         {% endfor %}
     </div>
+    <div class="row">
+        <div class="small-12 columns">
+            <h2 class="heavy">Previous Meetings</h2>
+        </div>
+    </div>
+    <div class="row">
+        {% for meeting in data.meetings|slice(3,6)|reverse %}
+        <div class="medium-4 columns">
+            <h2>{{ meeting.date|date("F Y") }}</h2>
+            <div class="panel">
+                <h5>When: {{ meeting.date|date("F jS @ g:i A") }}</h5>
+                {% if(meeting.presenter) %}
+                <h5>Presenter: {{ meeting.presenter }}</h5>
+                {% endif %}
+                <h4><a href="{{ site.url }}{{ meeting.url }}">{{ meeting.title }}</a></h4>
+                <p>{{ meeting.summary }}</p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
 </section>
 <section id="latestNews" class="row">
     <div class="small-12 columns">
