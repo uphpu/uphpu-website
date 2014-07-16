@@ -29,7 +29,7 @@
     <section class="top-bar-section">
         <!-- Right Nav Section -->
         <ul class="right">
-            <li><a href="#">About</a></li>
+            <li><a href="/about">About</a></li>
             <li><a href="#">Meetings</a></li>
             <li><a href="#">Events</a></li>
             <li><a href="#">Jobs</a></li>
@@ -43,7 +43,8 @@
         </ul>
     </section>
 </nav>
-</div>        <div id="omni">
+</div>
+        <div id="omni">
             <section id="welcomeSplash">
     <div class="logo"></div>
 </section>
@@ -97,21 +98,12 @@
     </div>
     <div class="row">
                 <div class="medium-4 columns">
-            <h2>June 2014</h2>
-            <div class="panel">
-            <h5>When: June 19th @ 7:00 PM</h5>
-                        <h5>Presenter: Steve Meyers</h5>
-                        <h4><a href="/meeting/2014/react-php">ReactPHP</a></h4>
-            <p>Modern browsers support a new standard called Websockets, which allow persistent connections between a browser and a server.  We&#039;ll discuss how to implement Websockets with your client-side Javascript talking to your server-side PHP, using the ReactPHP event-driven framework.
-</p>
-            </div>
-        </div>
-                <div class="medium-4 columns">
             <h2>July 2014</h2>
             <div class="panel">
             <h5>When: July 17th @ 7:00 PM</h5>
-                        <h4><a href="/meeting/2014/july-meeting">To Be Annouced</a></h4>
-            <p>This meeting will be announced soon. If you are looking for an opportunity to speak feel free to checkout the Speaking page.
+                        <h4><a href="/meeting/2014/july-meeting">Ember, PHP, and Ponies</a></h4>
+            <p>Ember is an amazing front-end javascript framework for creating ambitious web applications upon any backend system.
+I will discuss how to get started using Ember and how to integrate it into your PHP applications.
 </p>
             </div>
         </div>
@@ -124,11 +116,67 @@
 </p>
             </div>
         </div>
+                <div class="medium-4 columns">
+            <h2>September 2014</h2>
+            <div class="panel">
+            <h5>When: September 18th @ 7:00 PM</h5>
+                        <h4><a href="/meeting/2014/september-meeting">To Be Annouced</a></h4>
+            <p>This meeting will be announced soon. If you are looking for an opportunity to speak feel free to checkout the Speaking page.
+</p>
+            </div>
+        </div>
+            </div>
+    <div class="row">
+        <div class="small-12 columns">
+            <h2 class="heavy">Previous Meetings</h2>
+        </div>
+    </div>
+    <div class="row">
+                <div class="medium-4 columns">
+            <h2>April 2014</h2>
+            <div class="panel">
+                <h5>When: April 17th @ 8:00 PM</h5>
+                                <h5>Presenter: Mark Niebergall</h5>
+                                <h4><a href="/meeting/2014/advanced-oop-in-php">Advanced OOP in PHP</a></h4>
+                <p>Come learn about abstracts, interfaces, traits, namespaces, and dependency
+injection. Have you heard of some of these and always wanted to use them in your PHP application but didn&#039;t know
+where to start? You will learn the benefit of each one and when to use them in your existing or new application.
+</p>
+            </div>
+        </div>
+                <div class="medium-4 columns">
+            <h2>May 2014</h2>
+            <div class="panel">
+                <h5>When: May 15th @ 8:00 PM</h5>
+                                <h4><a href="/meeting/2014/no-meeting">No Meeting</a></h4>
+                <p>No meeting wil be held for May due to OpenWest being the week before.
+</p>
+            </div>
+        </div>
+                <div class="medium-4 columns">
+            <h2>June 2014</h2>
+            <div class="panel">
+                <h5>When: June 19th @ 7:00 PM</h5>
+                                <h5>Presenter: Steve Meyers</h5>
+                                <h4><a href="/meeting/2014/react-php">ReactPHP</a></h4>
+                <p>Modern browsers support a new standard called Websockets, which allow persistent connections between a browser and a server.  We&#039;ll discuss how to implement Websockets with your client-side Javascript talking to your server-side PHP, using the ReactPHP event-driven framework.
+</p>
+            </div>
+        </div>
             </div>
 </section>
 <section id="latestNews" class="row">
     <div class="small-12 columns">
     <h2 class="heavy">Latest News</h2>
+    <article>
+        <header>
+            <h2><a href="/blog/2006/07/19/user-interface-design-taking-the-good-with-the-bad">User interface design: Taking the good with the bad</a></h2>
+        </header>
+        <div>
+            <p>Digital Web Magazine published an excellent <a href="http://digital-web.com/articles/user_interface_design_taking_the_good_with_the_bad/">article</a> yesterday by <a href="http://www.webanza.com/">Mike Padilla</a> on user interface design. I would recommend this read to everyone involved in application development, even if you are not a designer. Marketers, engineers, salesmen, and administrators could all benefit from understanding the complexity of designing interfaces and the blancing act required when choosing between costs and benefits. <em>"When evaluating the net usability of one design versus another, a logical process should be followed to effectively evaluate the compromises that accompany each. To judge the good with the bad, you need a UI ruler by which to measure."</em></p>
+
+        </div>
+            </article>
     <article>
         <header>
             <h2><a href="/blog/2006/07/17/interface-development-structure-and-content">Interface development: structure and content</a></h2>
@@ -144,26 +192,6 @@
         </header>
         <div>
             <p>For our <a href="/calendar_event.php?eid=20060514220145851">June meeting</a>, <a href="/users.php?mode=profile&uid=902">John Taber</a> presented on Pear 3D with SVG output.</p>
-
-        </div>
-            </article>
-    <article>
-        <header>
-            <h2><a href="/blog/2006/06/06/sql-injection">SQL Injection</a></h2>
-        </header>
-        <div>
-            <p>Are your apps sufficiently protected against SQL injection? Do you currently validate and sanitize all types (strings, numbers) and methods (forms, cookies, query strings) of user input before using it in a database query? If not, it's only a matter of time before serious pwnage...</p>
-
-<p>This article is good primer for newbies and reminder for gurus...</p>
-
-<p><a href="http://www.unixwiz.net/techtips/sql-injection.html"> SQL Injection Attacks by Example</a></p>
-
-<p>If you aren't already using prepared statements, now's as good a time as any to start:</p>
-
-<ul>
-<li><a href="http://www.php.net/mysqli">mysqli</a></li>
-<li><a href="http://pear.php.net/package/DB">Pear::DB</a></li>
-</ul>
 
         </div>
             </article>

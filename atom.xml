@@ -3,9 +3,22 @@
     <title><![CDATA[Utah PHP Usergroup]]></title>
     <link href="/atom.xml" rel="self"/>
     <link href="/"/>
-    <updated>2014-06-16T12:27:41-06:00</updated>
+    <updated>2014-07-15T21:58:43-06:00</updated>
     <id>/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Welcome to the New UPHPU Website]]></title>
+            <link href="/blog/2014/04/14/welcome-to-the-new-site"/>
+            <updated>2014-04-14T13:16:35-06:00</updated>
+            <id>/blog/2014/04/14/welcome-to-the-new-site</id>
+            <content type="html"><![CDATA[<p>Though it is slightly old news, I thought we should announce that we have a new website for UPHPU! The great thing
+is that it is statically generate, meaning that it is very easy to have anyone contribute. All of the code is up on
+[uphpu-website GitHub repo](</p>
+
+<p>Thanks,
+Justin Carmony</p>
+]]></content>
+        </entry>
             <entry>
             <title type="html"><![CDATA[April 2014 Meeting: Abstraction, Object Interfaces, Traits, Namespaces, and Dependency Injection - Cool Stuff in PHP]]></title>
             <link href="/blog/2014/04/14/april-2014-meeting-abstraction-object-interfaces-traits-namespaces-and-dependency-injection-cool-stuff-in-php"/>
@@ -268,30 +281,6 @@ Bluffdale, UT 84065</p></blockquote>
 <blockquote><p>With a lot of applications being built out for mobile devices or javascript client apps, traditional server side languages and frameworks are becoming more and more often the tools for building web services rather than full stack sites. Slim is a framework that caters specifically to building RESTful web services in PHP.</p></blockquote>
 
 <p>Looking forward to seeing everyone tonight!</p>
-
-<h2>Current Venue: Needle.com</h2>
-
-<p>The current venue for the rest of this year at Needle.com. The great thing is it is in the same building complex as last year's venue, C7. Here is the new address (<a href="http://www.needle.com/contact.html">and map if you like</a>):</p>
-
-<blockquote><p>Needle Inc.<br />
-14864 Pony Express Road<br />
-Bluffdale, UT 84065</p></blockquote>
-
-<p><img class="alignnone" alt="" src="http://df7xs8p1yjitw.cloudfront.net/partners/needle/site/contact-directions.jpg" width="600" height="550" /></p>
-]]></content>
-        </entry>
-            <entry>
-            <title type="html"><![CDATA[May 2013 Meeting: &quot;High Performance Websites with Scalable Workers&quot; by Justin Carmony]]></title>
-            <link href="/blog/2013/05/15/may-2013-meeting-high-performance-websites-with-scalable-workers-by-justin-carmony"/>
-            <updated>2013-05-15T16:01:47-06:00</updated>
-            <id>/blog/2013/05/15/may-2013-meeting-high-performance-websites-with-scalable-workers-by-justin-carmony</id>
-            <content type="html"><![CDATA[<p>This month's presentation will be on "High Performance Websites with Scalable Workers." Â It is important to note we are at ourÂ <strong>new venue so please share thisÂ announcementÂ with people you know who are coming.</strong>Â  It will be at Needle.com at 7:00 PM today <del datetime="2013-06-20T20:35:53+00:00">(May 15th)</del> (ooops, typo. The date is June 20th) and then we'll be meeting at Applebees in Draper for the after-party.</p>
-
-<p>Here is a summary of the talk:</p>
-
-<blockquote><p>There comes a point in time with a website when eventually need to do something in the background. There are always cron jobs, but eventually those either don't scale well, or are not responsive enough. Learn about how to help your website efficiently scale by using workers. We'll discuss the fundamental theory behind workers and how to easily implement them. We'll learn about several different technologies to help manage workers such as Gearman, Supervisord, Redis, and others.</p></blockquote>
-
-<p>I will be giving the presentation, so I guess I better put a bio here. :P Justin Carmony works for Deseret Digital Media as a Director of Development over DeseretNews.com. He has been working in PHP professionally for over 8 years, and has been attending the UPHPU meetings since 2008.</p>
 
 <h2>Current Venue: Needle.com</h2>
 
