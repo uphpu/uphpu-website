@@ -71,8 +71,8 @@ The After Party will be at the traditional location of Applebee's in Draper. We 
 
 The Meetings are still at Needle, their address is:
 
-Needle Inc.
-14864 Pony Express Road
+Needle Inc.<br/>
+14864 Pony Express Road<br/>
 Bluffdale, UT 84065
 
 Look forward to seeing everyone on Thursday!
