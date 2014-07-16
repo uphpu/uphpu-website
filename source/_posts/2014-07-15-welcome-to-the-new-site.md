@@ -17,7 +17,11 @@ tags: []
 ---
 Though it is slightly old news, I thought we should announce that we have a new website for UPHPU! The great thing
 is that it is statically generate, meaning that it is very easy to have anyone contribute. All of the code is up on
-[uphpu-website GitHub repo](
+[uphpu-website GitHub repo](https://github.com/uphpu/uphpu-website) and you can easily create a fork, make some changes,
+and submit a pull request.
+
+While the new design looks awesome, I'm still trying to finish all of the little pages across the site. So if you have
+some time, feel free to hit me up on the IRC channel and ask for any things that need to be done.
 
 Thanks,
 Justin Carmony
