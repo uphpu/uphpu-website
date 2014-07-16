@@ -8,3 +8,4 @@
 s3.conf
 Vagrantfile
 .vagrant
+sculpin.lock
