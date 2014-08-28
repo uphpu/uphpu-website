@@ -1,20 +1,8 @@
 {
-    "name": "sculpin/blog-skeleton",
-    "description": "A Skeleton for a Sculpin Based Blog",
+    "name": "uphpu/uphpu-website",
+    "description": "Sculpin-powered Utah PHP Users group website.",
     "type": "sculpin-skeleton",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Dragonfly Development Inc.",
-            "email": "info@dflydev.com",
-            "homepage": "http://dflydev.com"
-        },
-        {
-            "name": "Beau Simensen",
-            "email": "beau@dflydev.com",
-            "homepage": "http://beausimensen.com"
-        }
-    ],
     "require": {
         "components/foundation": "~5.2",
         "components/jquery": "~1.9.1",
