@@ -14,6 +14,7 @@ cd output_prod
 git reset --hard HEAD
 git checkout generated
 git pull
+git reset --hard HEAD
 cd ..
 
 

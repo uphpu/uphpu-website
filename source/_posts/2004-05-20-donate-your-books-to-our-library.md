@@ -9,7 +9,7 @@ author_email: wade@anavidesign.com
 author_url: http://wadeshearer.com
 wordpress_id: 266
 wordpress_url: http://phlyte.uphpu.org/?p=266
-date: '2004-05-20 22:33:19 -0500'
+date: '2004-05-20'
 date_gmt: '2004-05-21 04:33:19 -0500'
 categories:
 - Announcements
