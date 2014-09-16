@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'To Be Annouced'
+title: 'PHP 5.6: New and Deprecated Features'
 presenter:
 date: '2014-09-18 19:00:00'
 summary: |
