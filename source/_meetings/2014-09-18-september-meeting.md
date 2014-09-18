@@ -3,10 +3,10 @@ layout: post
 status: publish
 published: true
 title: 'PHP 5.6: New and Deprecated Features'
-presenter:
+presenter: 'Mark Niebergall'
 date: '2014-09-18 19:00:00'
 summary: |
-    With PHP 5.6 there are some great new features. We'll go over some of these features and how to use them. This includes variadic functions, constant scalar expressions, exponentiation, splat operator, use const/function, php input, phpdbg, and more. We will also cover deprecated features in PHP 5.6. Want to get involved with upcoming release? I'll show you how you can 'make_test' to start helping out.
+    With PHP 5.6 there are some great new features. We'll go over some of these features and how to use them. We will also cover deprecated features in PHP 5.6. We'll even cover how to help out with the upcoming release.
 categories:
   - Presentations
 tags:
