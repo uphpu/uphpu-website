@@ -81,7 +81,7 @@ use:
         </div>
     </div>
     <div class="row">
-        {% for meeting in data.meetings|slice(3,6)|reverse %}
+        {% for meeting in data.meetings|slice(3,3)|reverse %}
         <div class="medium-4 columns">
             <h2>{{ meeting.date|date("F Y") }}</h2>
             <div class="panel">
