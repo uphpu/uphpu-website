@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Chainlove alerts &mdash; Utah PHP Usergroup &mdash; Where PHP Happens in Utah</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/components/foundation/css/normalize.css" rel="stylesheet" type="text/css" />
+    <link href="/components/foundation/css/foundation.min.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style.css" rel="stylesheet" type="text/css" />
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="/components/modernizr/modernizr-built.js"></script>
+    <link rel="stylesheet" href="/components/highlightjs/styles/github.css" />
+    <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="Utah PHP Usergroup activity feed" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,800' rel='stylesheet' type='text/css'>
+</head>    <body>
+        <div class="contain-to-grid">
+<nav class="top-bar" data-topbar>
+    <ul class="title-area">
+        <li class="name">
+            <h1><a href="/"><span class="utah-php">Utah PHP</span> <span class="usergroup">Usergroup</span></a></h1>
+        </li>
+        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+    </ul>
+
+    <section class="top-bar-section">
+        <!-- Right Nav Section -->
+        <ul class="right">
+            <li><a href="/about/">About</a></li>
+            <li><a href="/meetings/">Meetings</a></li>
+            <li class="has-dropdown">
+                <a href="#">Community</a>
+                <ul class="dropdown">
+                    <li><a href="/mailing-lists/">Mailing List</a></li>
+                    <li><a href="/irc/">IRC</a></li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+</nav>
+</div>
+        <div id="omni">
+            <section id="pageContent">
+    <div class="row">
+        <div class="small-8 small-offset-2 columns">
+        <header>
+            <h2>Chainlove alerts</h2>
+        </header>
+        <div>
+            <p>Any other cyclists out there? You a <a href="http://chainlove.com">chainlove</a> junkie too? After finding myself spending too much time refreshing and refreshing, I wrote the following script to watch the site for things I was interested in and send me a text message when they come up. I put it on my machine that's always on and scheduled it to run every ten minutes with <a href="http://developer.apple.com/macosx/launchd.html">launchd</a>. Hopefully it will save you a little time and sanity as well. (Note the wrapped lines.)</p>
+
+<pre lang="php">
+/* 
+ * CHAINLOVE ALERTS
+ * 
+ * This script scrapes chainlove.com and sends an email when words in 
+ * the "watch list" are included in the current product offering.
+ */
+
+// list of words to watch for
+$watch_list = array('sunglasses', 'warmers', 'jersey', 'giordana');
+
+// cache file (including path)
+$cache_file = '/tmp/chainlove_alerts.cache';
+
+// scrape page
+$ch = curl_init() or die(curl_error()); 
+curl_setopt($ch, CURLOPT_URL, "http://www.chainlove.com"); 
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); 
+$page = curl_exec($ch) or die(curl_error()); 
+curl_close($ch);
+
+// pull out the product details
+preg_match('/<h1 id="item_title">([^<]+)<\/h1>.*<h3 class="price"> Â¬
+   ([^<]+)<\/h3>.*<div id="regular_price">\n*\t*\s*([^<]+)<br \/> Â¬
+   \n\t*\s*([^<]+)<\/div>/sm', $page, $matches);
+
+// compare current product against cache product... if same, exit
+if(!file_exists($cache_file)) {
+   file_put_contents($cache_file, trim($matches[1]));
+} else {
+   $cache_product = file_get_contents($cache_file);
+
+   if($cache_product == trim($matches[1])) {
+      exit();
+   } else {
+      file_put_contents($cache_file, trim($matches[1]));
+   }
+}
+
+// search current product title with "watch list"
+$send_mail = 0;
+foreach($watch_list as $watch_item) {
+   if(stripos($matches[1], $watch_item)) {
+      $send_mail++;
+   }
+}
+
+// send email
+if($send_mail > 0) {
+   $mail['to'] = '8015551212@txt.att.net';
+   $mail['subject'] = trim($matches[1]);
+   $mail['message'] = trim($matches[2]) . ' (' . trim($matches[3]) .
+      ', ' . trim($matches[4]) . ')';
+   $mail['from'] = 'Chainlove Alerts <user@example.com>';
+   $mail['additional_headers'] = 'From: ' . $mail['from'];
+   mail($mail['to'], $mail['subject'], $mail['message'], Â¬
+      $mail['additional_headers']);
+}
+</pre>
+
+        </div>
+                    <p class="categories">
+            Categories:
+                        <a href="/blog/categories/Code">Code</a>                        </p>
+                
+                    <nav class="article">
+                <ul>
+                                            <li>Next: <a class="next" href="/blog/2008/10/19/job-announcement-form-no-longer-requires-account/" title="job announcement form no longer requires account"><span class="title">job announcement form no longer requires account</span></a></li>
+                                                                <li>Previous: <a class="previous" href="/blog/2008/10/02/utos-uphpu-geek-lunch-happy-sumo-the-gateway/" title="UTOS / UPHPU Geek Lunch :: Happy Sumo @ The Gateway"><span class="title">UTOS / UPHPU Geek Lunch :: Happy Sumo @ The Gateway</span></a></li>
+                                    </ul>
+            </nav>
+                </div>
+    </div>
+</section>
+        </div>
+        <div class="row centered-text">
+    <div class="small-12 columns">
+        <footer class="container">
+            &copy; 2015 Utah PHP Usergroup
+        </footer>
+    </div>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/components/jquery/jquery.min.js"><\/script>')</script>
+<script src="/components/foundation/js/foundation.min.js"></script>
+<script>
+    $(document).foundation();
+</script>
+
+<script src="/components/highlightjs/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>    </body>
+</html>
