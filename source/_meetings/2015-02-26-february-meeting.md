@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'The Big \'Why equal doesn't equal\' Quiz'
+title: "The Big 'Why equal doesn't equal' Quiz"
 presenter: 'Juliette Reinders Folmer'
 date: '2015-02-26 19:00:00'
 summary: |
