@@ -3,13 +3,13 @@
     <title><![CDATA[Utah PHP Usergroup]]></title>
     <link href="/atom.xml" rel="self"/>
     <link href="/"/>
-    <updated>2015-02-18T07:55:09+00:00</updated>
+    <updated>2015-04-15T15:12:29-06:00</updated>
     <id>/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
             <title type="html"><![CDATA[Welcome to the New UPHPU Website]]></title>
             <link href="/blog/2014/04/14/welcome-to-the-new-site/"/>
-            <updated>2014-04-14T19:16:35+00:00</updated>
+            <updated>2014-04-14T13:16:35-06:00</updated>
             <id>/blog/2014/04/14/welcome-to-the-new-site/</id>
             <content type="html"><![CDATA[<p>Though it is slightly old news, I thought we should announce that we have a new website for UPHPU! The great thing
 is that it is statically generate, meaning that it is very easy to have anyone contribute. All of the code is up on
@@ -26,7 +26,7 @@ Justin Carmony</p>
             <entry>
             <title type="html"><![CDATA[April 2014 Meeting: Abstraction, Object Interfaces, Traits, Namespaces, and Dependency Injection - Cool Stuff in PHP]]></title>
             <link href="/blog/2014/04/14/april-2014-meeting-abstraction-object-interfaces-traits-namespaces-and-dependency-injection-cool-stuff-in-php/"/>
-            <updated>2014-04-14T19:16:35+00:00</updated>
+            <updated>2014-04-14T13:16:35-06:00</updated>
             <id>/blog/2014/04/14/april-2014-meeting-abstraction-object-interfaces-traits-namespaces-and-dependency-injection-cool-stuff-in-php/</id>
             <content type="html"><![CDATA[<p>The meeting will be this Thursday (April 17th) at Needle at 7:00 PM. It will be Mark Niebergall from i3logix talking
 about "Abstraction, Object Interfaces, Traits, Namespaces, and Dependency Injection: Cool Stuff in PHP."</p>
@@ -66,7 +66,7 @@ Justin Carmony</p>
             <entry>
             <title type="html"><![CDATA[Feb 2014 Meeting: Mentoring Devs Into DevOps]]></title>
             <link href="/blog/2014/02/19/feb-2014-meeting-mentoring-devs-into-devops/"/>
-            <updated>2014-02-19T17:39:26+00:00</updated>
+            <updated>2014-02-19T10:39:26-07:00</updated>
             <id>/blog/2014/02/19/feb-2014-meeting-mentoring-devs-into-devops/</id>
             <content type="html"><![CDATA[<p>The meeting will be this Thursday (Feb. 20th) at Needle at 7:00 PM. It'll be me (Justin Carmony) from Deseret Digital Media talking about "Mentoring Devs Into DevOps." </p>
 
@@ -99,9 +99,9 @@ Bluffdale, UT 84065</p>
         </entry>
             <entry>
             <title type="html"><![CDATA[Happy 10th Anniversary &amp;amp; January&#039;s Meeting!]]></title>
-            <link href="/blog/2014/01/13/happy-10th-anniversary-januarys-meeting/"/>
-            <updated>2014-01-13T05:27:06+00:00</updated>
-            <id>/blog/2014/01/13/happy-10th-anniversary-januarys-meeting/</id>
+            <link href="/blog/2014/01/12/happy-10th-anniversary-januarys-meeting/"/>
+            <updated>2014-01-12T22:27:06-07:00</updated>
+            <id>/blog/2014/01/12/happy-10th-anniversary-januarys-meeting/</id>
             <content type="html"><![CDATA[<p>Everyone, I can't believe it, but this January will mark 10 years of UPHPU meetings! We're so excited, we're having a little bit of a special meeting for the occasion!</p>
 
 <p>The meeting will be this Thursday (Jan. 16th) at Needle at 7:00 PM. It'll be Elizabeth Naramore from GitHub talking about "GitHub: More than Just Code." We will also me slightly modifying the after party location for this month, so read on for the details.</p>
@@ -140,7 +140,7 @@ Bluffdale, UT 84065</p>
             <entry>
             <title type="html"><![CDATA[November 21st Meeting: PHPUnit Code Coverage by Joseph Scott]]></title>
             <link href="/blog/2013/11/19/november-21st-meeting-phpunit-code-coverage-by-joseph-scott/"/>
-            <updated>2013-11-19T15:37:44+00:00</updated>
+            <updated>2013-11-19T08:37:44-07:00</updated>
             <id>/blog/2013/11/19/november-21st-meeting-phpunit-code-coverage-by-joseph-scott/</id>
             <content type="html"><![CDATA[<p>This month's presentation will be by Joseph Scott on "PHPUnit Code Coverage". It will be on November 21st at Needle.com at 7:00 PM and then we'll be meeting at Applebees in Draper for the after-party.</p>
 
@@ -166,7 +166,7 @@ Bluffdale, UT 84065</p></blockquote>
             <entry>
             <title type="html"><![CDATA[October 17th Meeting: Real-Time Data with Redis by Justin Carmony]]></title>
             <link href="/blog/2013/10/15/october-17th-meeting-real-time-data-with-redis-by-justin-carmony/"/>
-            <updated>2013-10-15T15:32:16+00:00</updated>
+            <updated>2013-10-15T09:32:16-06:00</updated>
             <id>/blog/2013/10/15/october-17th-meeting-real-time-data-with-redis-by-justin-carmony/</id>
             <content type="html"><![CDATA[<p>This month's presentation will be a presentation on "Real-Time Data with Redis".Â It will be October 17th at Needle.com at 7:00 PM and then we'll be meeting at Applebees in Draper for the after-party.</p>
 
@@ -194,7 +194,7 @@ Bluffdale, UT 84065</p></blockquote>
             <entry>
             <title type="html"><![CDATA[September 2013 Meeting: Single Page Applications and Javascript MVVM Frameworks by Mac Newbold]]></title>
             <link href="/blog/2013/09/17/september-2013-meeting-single-page-applications-and-javascript-mvvm-frameworks-by-mac-newbold/"/>
-            <updated>2013-09-17T15:46:28+00:00</updated>
+            <updated>2013-09-17T09:46:28-06:00</updated>
             <id>/blog/2013/09/17/september-2013-meeting-single-page-applications-and-javascript-mvvm-frameworks-by-mac-newbold/</id>
             <content type="html"><![CDATA[<p>This month's presentation will be a presentation on Single Page Applications &amp; Javascript MVVM Frameworks by Mac Newbold.Â It is important to note we are at ourÂ <strong>new venue so please share thisÂ announcementÂ with people you know who are coming.</strong>Â  It will be September 19th at Needle.com at 7:00 PM and then we'll be meeting at Applebees in Draper for the after-party.</p>
 
@@ -222,7 +222,7 @@ Bluffdale, UT 84065</p></blockquote>
             <entry>
             <title type="html"><![CDATA[August 2013 Meeting: Show &amp;amp; Tell - Favorite Tools w/ PHP]]></title>
             <link href="/blog/2013/08/14/august-2013-meeting-show-tell-favorite-tools-w-php/"/>
-            <updated>2013-08-14T21:07:49+00:00</updated>
+            <updated>2013-08-14T15:07:49-06:00</updated>
             <id>/blog/2013/08/14/august-2013-meeting-show-tell-favorite-tools-w-php/</id>
             <content type="html"><![CDATA[<p>This month's meeting on August 15th will be a slightly different format. Instead of a traditional presentation, we will be having an open discussion night with the theme: "Show &amp; Tell your Favorite Tools for PHP."</p>
 
@@ -244,7 +244,7 @@ Bluffdale, UT 84065</p></blockquote>
             <entry>
             <title type="html"><![CDATA[July 18th 2013 Meeting: Kohana Framework by Will Smith]]></title>
             <link href="/blog/2013/07/17/july-18th-2013-meeting-kohana-framework-by-will-smith/"/>
-            <updated>2013-07-17T16:06:19+00:00</updated>
+            <updated>2013-07-17T10:06:19-06:00</updated>
             <id>/blog/2013/07/17/july-18th-2013-meeting-kohana-framework-by-will-smith/</id>
             <content type="html"><![CDATA[<p>This month's presentation will be an introduction to the Kohana Framework by Will Smith.Â It is important to note we are at ourÂ <strong>new venue so please share thisÂ announcementÂ with people you know who are coming.</strong>Â  It will be July 18th at Needle.com at 7:00 PM and then we'll be meeting at Applebees in Draper for the after-party.</p>
 
@@ -276,7 +276,7 @@ Bluffdale, UT 84065</p></blockquote>
             <entry>
             <title type="html"><![CDATA[June 2013 Meeting: Building RESTful API&#039;s in Slim Framework by Noah Goodrich]]></title>
             <link href="/blog/2013/06/20/june-2013-meeting-building-restful-apis-in-slim-framework-by-noah-goodrich/"/>
-            <updated>2013-06-20T19:37:44+00:00</updated>
+            <updated>2013-06-20T13:37:44-06:00</updated>
             <id>/blog/2013/06/20/june-2013-meeting-building-restful-apis-in-slim-framework-by-noah-goodrich/</id>
             <content type="html"><![CDATA[<p>This month's presentation will be on "Building RESTful API's in Slim Framework" by Noah Goodrich.Â It is important to note we are at ourÂ <strong>new venue so please share thisÂ announcementÂ with people you know who are coming.</strong>Â  It will be at Needle.com at 7:00 PM tomorrow (May 15th) and then we'll be meeting at Applebees in Draper for the after-party.</p>
 
