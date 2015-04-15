@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <title>Using MongoDB with PHP &mdash; Utah PHP Usergroup &mdash; Where PHP Happens in Utah</title>
+    <title>UPHPU Job Postings &mdash; Utah PHP Usergroup &mdash; Where PHP Happens in Utah</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="/components/foundation/css/normalize.css" rel="stylesheet" type="text/css" />
@@ -46,46 +46,60 @@
             <section id="pageContent">
     <div class="row">
         <div class="small-8 small-offset-2 columns">
-        <header>
-            <h2>Using MongoDB with PHP</h2>
-        </header>
-        <div>
-            <h2 id="talk-description">Talk Description</h2>
+    <header>
+        <h2>UPHPU Job Postings</h2>
+    </header>
+    <div>
+        <p>Moderated and focused on a specific industry, the UPHPU job announcement list provides a value that no other channel can offer by broadcasting relavent and trusted announcements directly to interested individuals. Instead of passively waiting for your position to be noticed, email Utah's best directly.</p>
 
-<p>MongoDB is a NoSQL database whose design enables flexibility in how your web applications store and use data. Learn how to use MongoDB to manage sessions, user authentication, and store large files.  MongoDB may just be the tool you have been looking for to enable that functionality you’ve wanted.</p>
+<h2 id="subscribe">Subscribe</h2>
 
-<h2 id="christopher-hopkins%27s-bio">Christopher Hopkins's Bio</h2>
+<p>Subscribe to the job announcement list to receive notifications of both for full time employment and consultant requests by entering your email address below. You may also use the advanced form for more options, to unsubscribe, or to request a password reminder. Access the archives to browse past posts.</p>
 
-<p>Christopher Hopkins is a web developer for a real estate company in Utah county.  Chris is interested in programming, information security, and online privacy.</p>
-
-<h2 id="the-after-party">The After Party</h2>
-
-<p>The After Party will be at the traditional location of Applebee's in Draper. We typically head over there at about
-8:30-9:00, so watch Twitter and we'll announce when we're heading over.</p>
-
-<h2 id="meeting-venue%3A-needle">Meeting Venue: Needle</h2>
-
-<p>The Meetings are still at Needle, their address is:</p>
-
-<p>Needle Inc.<br/>
-14864 Pony Express Road<br/>
-Bluffdale, UT 84065</p>
-
-<p>Look forward to seeing everyone on Thursday!</p>
-
-<p>Thanks,</p>
-
-<p>Justin Carmony</p>
-
+<form id="subcribeJobs" action="/mailman/subscribe/uphpu-jobs" method="POST">
+<div class="row">
+    <div class="large-12 columns">
+      <div class="row collapse">
+        <div class="small-9 columns">
+          <input name="email" type="text" placeholder="Your Email Address: i.e. rasmus@php.net">
         </div>
-                    <p class="categories">
-            Categories:
-                        <a href="/blog/categories/Presentations">Presentations</a>                        </p>
-                            <p class="tags">
-            Tags:
-                        <a href="/blog/tags/php">php</a>,                         <a href="/blog/tags/events">events</a>                        </p>
-        
-                </div>
+        <div class="small-3 columns">
+          <a name="email-button" value="subscribe" href="#" onclick="document.getElementById('subcribeJobs').submit();" class="button postfix">Subscribe</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</form>
+
+<h2 id="submit-a-job-posting">Submit a Job Posting</h2>
+
+<p>Employers or clients interested in contacting our members regarding employment opportunities may submit job postings to our job announcement list through the form below.</p>
+
+<div id="wufoo-z1in2f9v0ytxleg">
+Fill out my <a href="https://uphpu.wufoo.com/forms/z1in2f9v0ytxleg">online form</a>.
+</div>
+
+<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">HTML Forms powered by <a href="http://www.wufoo.com">Wufoo</a>.</div>
+
+<script type="text/javascript">var z1in2f9v0ytxleg;(function(d, t) {
+var s = d.createElement(t), options = {
+'userName':'uphpu',
+'formHash':'z1in2f9v0ytxleg',
+'autoResize':true,
+'height':'1151',
+'async':true,
+'host':'wufoo.com',
+'header':'show',
+'ssl':true};
+s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
+s.onload = s.onreadystatechange = function() {
+var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+try { z1in2f9v0ytxleg = new WufooForm();z1in2f9v0ytxleg.initialize(options);z1in2f9v0ytxleg.display(); } catch (e) {}};
+var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+})(document, 'script');</script>
+
+    </div>
+            </div>
     </div>
 </section>
         </div>
