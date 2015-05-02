@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "PHP ArrayIterator Interface"
+title: "PHP ArrayIterator Class"
 presenter: 'Walter Scott'
 date: '2015-06-18 19:00:00'
 summary: |
@@ -17,10 +17,9 @@ tags:
 
 Talk Description To Be Added
 
-## Tom Anderson's Bio
+## Walter Scott's Bio
 
-Bio To Be Added
-
+Walter Scott is in his 8th year of working as a software developer in The Center for High Performance Computing at The University of Utah. His web development focuses on PHP, MySQL, and Javascript. He enjoys long walks on the beach and staying out of the rain.
 
 ## The After Party
 
