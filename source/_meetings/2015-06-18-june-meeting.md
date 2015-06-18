@@ -2,11 +2,11 @@
 layout: post
 status: publish
 published: true
-title: "PHP ArrayIterator Interface"
+title: "PHP Looping & Iteration"
 presenter: 'Walter Scott'
 date: '2015-06-18 19:00:00'
 summary: |
-    Summary to be added soon.
+    In this talk, we'll be discussing looping and iteration. We'll start with traditional for loops then work our way through foreach then a couple of array functions. Finally, we'll finish up with a discussion of iterators and generators.
 categories:
   - Presentations
 tags:
@@ -15,11 +15,11 @@ tags:
 ---
 ## Talk Description
 
-Talk Description To Be Added
+In this talk, we'll be discussing looping and iteration. We'll start with traditional for loops then work our way through foreach then a couple of array functions. Finally, we'll finish up with a discussion of iterators and generators.
 
-## Tom Anderson's Bio
+## Walter Scott's Bio
 
-Bio To Be Added
+Walter Scott is in his 8th year of working as a software developer in The Center for High Performance Computing at The University of Utah. His web development focuses on PHP, MySQL, and Javascript. He enjoys long walks on the beach and staying out of the rain.
 
 
 ## The After Party
