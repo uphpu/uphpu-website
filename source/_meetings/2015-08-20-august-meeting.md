@@ -2,11 +2,11 @@
 layout: post
 status: publish
 published: true
-title: "To Be Annouced"
-presenter: ''
+title: "Measuring Web Performance with WebPageTest"
+presenter: 'Joseph Scott'
 date: '2015-08-20 19:00:00'
 summary: |
-    Summary to be added soon.
+    Learn about the features provided by WebPageTest and how to use that information to improve the performance of your website. This will include the general structure of WebPageTest, the performance features that are tested, and tips on how to setup a private instance of WebPageTest.
 categories:
   - Presentations
 tags:
@@ -15,7 +15,11 @@ tags:
 ---
 ## Talk Description
 
-TBA
+Learn about the features provided by WebPageTest and how to use that information to improve the performance of your website. This will include the general structure of WebPageTest, the performance features that are tested, and tips on how to setup a private instance of WebPageTest.
+
+## About Joseph Scott
+
+Joseph has worked at Automattic since 2007. His current focus is on web performance, while still sporting the “Bug Exorcist” job title.
 
 ## The After Party
 
