@@ -4,7 +4,7 @@ status: publish
 published: true
 title: "NEW VENUE - Access Control Models"
 presenter: 'Justin Carmony'
-date: '2015-09-17 19:00:00'
+date: '2015-11-19 19:00:00'
 summary: |
     Learn how to use Asynchronous Workers to scale your web application. Wether it is sendings emails,
     running reports, or batching jobs, Async workers can make your application amazing.
