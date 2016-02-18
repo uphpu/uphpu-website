@@ -3,11 +3,10 @@ layout: post
 status: publish
 published: true
 title: "NEW VENUE - Access Control Models"
-presenter: 'Justin Carmony'
+presenter: 'Mark Niebergall'
 date: '2015-11-19 19:00:00'
 summary: |
-    Learn how to use Asynchronous Workers to scale your web application. Wether it is sendings emails,
-    running reports, or batching jobs, Async workers can make your application amazing.
+    There are various access control models, each with a specific intent and purpose. Determining the ideal model for an application can help ensure proper authorization to application resources. Each of the primary models will be covered, including the MAC, DAC, RBAC, and ABAC Access Control models. Examples, challenges, and benefits of each will be discussed to provide a further insight into which solution may best serve an application. Application sensitivity, regulations, and privacy may drive which model is selected.
 categories:
   - Presentations
 tags:
@@ -32,7 +31,7 @@ The After Party will be at the traditional location of Applebee's in Draper. We 
 
 ## Meeting Venue: Vivint @ Thanksgiving Point
 
-The Meetings are still at Needle, their address is:
+The Meetings have moved! We are now meeting at the Vivint offices at Thanksgiving Point. Their address is:
 
 Vivint<br/>
 3401 Ashton Blvd<br/>
