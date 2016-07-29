@@ -28,7 +28,6 @@ Tom is Zend Certified PHP and a certified Zend Framework 2 Engineer.  He has wor
 
 We have a new sponsor: JetBrains! At the end of the presentation, one random lucky winner will win a free 1 year individual subscription to any single JetBrains Toolbox product. Choices includes PhpStorm, WebStorm, DataGrip, or others seen at https://www.jetbrains.com/products.html. Thanks JetBrains!
 
-<a href="https://www.jetbrains.com/"><img alt="JetBrains" src="../images/logo_JetBrains_4.png"></a>
 
 ## Venue: Vivint
 
