@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Object Relational Mapping and it's place in APIs'
+title: 'Object Relational Mapping and it\'s place in APIs'
 presenter: Tom Anderson
 date: '2016-08-18 19:00:00'
 summary: |
