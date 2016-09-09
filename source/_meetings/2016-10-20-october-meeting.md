@@ -2,11 +2,12 @@
 layout: post
 status: publish
 published: true
-title: 'To Be Announced'
+title: 'How To Get Noticed'
+presenter: Patricia Witt
 presenter: 
 date: '2016-10-20 19:00:00'
 summary: |
-    We are still looking for a presenter for this October! If you have an idea, technology, tool, etc. you'd like to present to our group, please let us know!
+    Patricia Witt will be speaking on how to get noticed for a new position or promotion. More details to come.
 categories:
   - Presentations
 tags:
@@ -14,4 +15,6 @@ tags:
   - events
 ---
 
-To Be Annouced
+We will be meeting at Vivint in Lehi by Thanksgiving Point.
+
+Patricia Witt will be speaking on how to get noticed for a new position or promotion. More details to come.
