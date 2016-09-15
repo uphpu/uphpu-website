@@ -22,7 +22,7 @@ Correctly understanding the eight data types in PHP is essential to a solid foun
 
 ## Mark Niebergall
 
-Mark Niebergall is a passionate PHP software engineer with over a decade of hands-on experience working on PHP projects. He leads a team working on an occupational health screening project that is revolutionizing drug testing. Mark has a Masters degree in Management Information Systems, is SSCP and CSSLP certified, and volunteers for (ISC)2 exam development. Mark is an active UPHPU member and often speaks at user groups and conferences. Mark is an expert drone pilot, casual gamer, and proudly teaching his kids how to push buttons and use technology.
+Mark Niebergall is a passionate PHP software engineer with over a decade of hands-on experience working on PHP projects. He is the Utah PHP Users Group President and often speaks at user groups and conferences. Mark leads a team working on an occupational health screening project that is revolutionizing drug testing. Mark has a Masters degree in Management Information Systems, is SSCP and CSSLP certified, and volunteers for (ISC)2 exam development. Mark is an expert drone pilot, casual gamer, and proudly teaching his kids how to push buttons and use technology.
 
 ## Swag Alert
 
