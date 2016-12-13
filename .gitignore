@@ -9,3 +9,5 @@ s3.conf
 Vagrantfile
 .vagrant
 sculpin.lock
+.idea/
+sculpin.phar
