@@ -2,11 +2,11 @@
 layout: post
 status: publish
 published: true
-title: "Websockets and Event-driven Programming with ReactPHP"
-presenter: Steve Meyers
-date: '2017-01-19 19:00:00'
+title: "Looking For A Speaker"
+presenter: TBD
+date: '2017-03-16 19:00:00'
 summary: |
-    "Modern browsers support a new standard call Websockets, which allow persistent connections between a browser and a server. We'll discuss how to implement Websockets with your client-side Javascript talking to your server-side PHP, using the ReactPHP framework."
+    "March 2017 UPHPU"
 categories:
   - Presentations
 tags:
@@ -14,11 +14,11 @@ tags:
   - events
 ---
 
-Modern browsers support a new standard call Websockets, which allow persistent connections between a browser and a server. We'll discuss how to implement Websockets with your client-side Javascript talking to your server-side PHP, using the ReactPHP framework.
+Interested in speaking at UPHPU? Please contact Mark Niebergall to speak.
 
-## Steve Meyers
+## Speaker: TBD
 
-Steve Meyers has worked as a PHP and MySQL scalability expert for the last 16 years at such companies as Omniture (now part of Adobe), Spark Networks (owner of jDate.com), and CrimeReports. He now runs some of the largest independent online communities of college sports fans. When he's not too busy with all of that, he runs the Ski PHP Conference, assists with the OpenWest Conference, is a core team member of the Utah Open Source Foundation, and runs the Provo Linux User Group.
+Looking for a speaker
 
 ## Swag Alert
 

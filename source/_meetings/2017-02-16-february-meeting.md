@@ -2,11 +2,11 @@
 layout: post
 status: publish
 published: true
-title: "Looking for a speaker"
-presenter: TBD
+title: "Security in PHP Applications: An absolute must!"
+presenter: Mark Niebergall
 date: '2017-02-16 19:00:00'
 summary: |
-    "February 2017 UPHPU"
+    "Applying proven security measures based on the OWASP top 10 can help make your PHP application more secure. We will focus on secure coding practices and discuss topics including SQL injection, XSS, CSRF, user authentication, and data validation. We will discuss how to bake security into an application and how to convince management that security issues must be addressed."
 categories:
   - Presentations
 tags:
@@ -14,15 +14,11 @@ tags:
   - events
 ---
 
-We will be meeting at Vivint in Lehi by Thanksgiving Point.
+Applying proven security measures based on the OWASP top 10 can help make your PHP application more secure. We will focus on secure coding practices and discuss topics including SQL injection, XSS, CSRF, user authentication, and data validation. We will discuss how to bake security into an application and how to convince management that security issues must be addressed.
 
-## Looking for Speaker
+## Mark Niebergall
 
-Interested in speaking at UPHPU? Please contact Mark Niebergall to speak.
-
-## Speaker: TBD
-
-Looking for a speaker
+Mark Niebergall is a passionate security-minded PHP software engineer with over a decade of hands-on experience working on PHP projects. He is the Utah PHP Users Group President and often speaks at user groups and conferences. Mark has a Masters degree in MIS, minor in CS, is SSCP and CSSLP certified, and volunteers for (ISC)2 exam development. Mark is an expert drone pilot, casual gamer, and proudly teaching his kids how to push buttons and use technology.
 
 ## Swag Alert
 
