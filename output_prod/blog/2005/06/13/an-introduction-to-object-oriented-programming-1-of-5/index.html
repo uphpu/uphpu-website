@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>An introduction to object-oriented programming (1 of 5) &mdash; Utah PHP Usergroup &mdash; Where PHP Happens in Utah</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/components/foundation/css/normalize.css" rel="stylesheet" type="text/css" />
+    <link href="/components/foundation/css/foundation.min.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style.css" rel="stylesheet" type="text/css" />
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="/components/modernizr/modernizr-built.js"></script>
+    <link rel="stylesheet" href="/components/highlightjs/styles/github.css" />
+    <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="Utah PHP Usergroup activity feed" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,800' rel='stylesheet' type='text/css'>
+</head>    <body>
+        <div class="contain-to-grid">
+<nav class="top-bar" data-topbar>
+    <ul class="title-area">
+        <li class="name">
+            <h1><a href="/"><span class="utah-php">Utah PHP</span> <span class="usergroup">Usergroup</span></a></h1>
+        </li>
+        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+    </ul>
+
+    <section class="top-bar-section">
+        <!-- Right Nav Section -->
+        <ul class="right">
+            <li><a href="/about/">About</a></li>
+            <li><a href="/meetings/">Meetings</a></li>
+            <li><a href="/employment/">Employment</a></li>
+            <li class="has-dropdown">
+                <a href="#">Community</a>
+                <ul class="dropdown">
+                    <li><a href="/mailing-lists/">Mailing List</a></li>
+                    <li><a href="/irc/">IRC</a></li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+</nav>
+</div>
+        <div id="omni">
+            <section id="pageContent">
+    <div class="row">
+        <div class="small-8 small-offset-2 columns">
+        <header>
+            <h2>An introduction to object-oriented programming (1 of 5)</h2>
+        </header>
+        <div>
+            <p>This is the first of five articles on object oriented-programming from <a href="http://www.jacwright.com/">Jacob Wright</a>.</p>
+
+<ul>
+<li>An Introduction to Object-Oriented Programming </li>
+<li>Conceptualizing Systems</li>
+<li>Planning an Application</li>
+<li>Creating Objects</li>
+<li>Making Objects Reusable</li>
+</ul>
+
+<p>An Introduction to Object-Oriented Programming will give a brief overview of why there is such a thing as object-oriented programming.  Conceptualizing Systems will help us to better picture a system in terms of objects and how the relate to each other.  Planning an Application will teach us the importance of planning and what we should do to plan.  Creating Objects explains how the objects in our application are born, and how they should be structured.  Making Objects Reusable covers some more advanced topics and allows us to reuse what weï¿½ve already created in good ways.  My hope is that these Monday morning articles will help others through the transition from procedural programming to object-oriented programming.</p>
+
+<p>&lt;</p>
+
+<p>p><b>Why Does Object-Oriented Programming Exist?</b></p>
+
+<p>Back in the olden-days, way back when our dinosaurs were young and our parents roamed the earth, there was programming.  Yes, hard to believe it was invented by that time.  Back then, things were simpler.  Maybe people had to walk uphill both ways to school then, but programs were smaller, less complex.  Programming languages executed line by line.  They had ï¿½go-toï¿½ statements that let them go to another line for execution, and that was nice, but they didnï¿½t need a whole lot anyway.</p>
+
+<p>Industrialization came along however.  Change was happening.  Programs became more complex.  It was hard to wrap the mind around a complex program and write it line by line.  Procedural programming was born.  Procedures or functions allowed a programmer to more easily conceptualize a system.  It allowed them to reuse code.  It was easier to program.</p>
+
+<p>Object-oriented programming (OOP) came about the same way.  When programs became larger and consequently more complex, it became very difficult to wrap oneï¿½s mind around them.  Object-oriented programming made programming a system easier.  It made life simpler again.</p>
+
+<p>&lt;</p>
+
+<p>p><b>Function, Function, Whoï¿½s Got the Function?</b></p>
+
+<p>Many times procedural programming is referred to as ï¿½spaghetti code.ï¿½  Why is it called spaghetti code?  Because there are functions being called throughout the system and we canï¿½t know where they are coming from.  If we follow the flow of a procedural program, we can find ourselves looping in and out of functions and throughout scripts very much like a bowl of spaghetti.  There is not (inherently) much structure.  There is not much organization.  Object-oriented programming becomes more like building blocks we can build with instead of spaghetti.  It provides organization and we can know exactly where a given function is.  This also makes it easier to know where a bug is coming from.</p>
+
+<p>&lt;</p>
+
+<p>p><b>What Does Object-Oriented Programming Allow Us To Do?</b></p>
+
+<p>Object-oriented programming allows us to reuse code.  It gives us a ï¿½packageï¿½ of related functions and their related variables that we can pass around or reuse in other systems.  These functions and variables that are all related are called methods and properties in an object.  Object-oriented programming can also enable the use of complicated code by everyone.  It not only ports the methods and properties together, but also allows us to use them without figuring out how they work internally.</p>
+
+<p>&lt;</p>
+
+<p>p><b>When Should We Use Object-Oriented Programming?</b></p>
+
+<p>Object-oriented programming was conceived to allow us to create larger projects more simply.  Thus, it is very helpful in our larger projects that we do.  I can also be nice in smaller projects, especially once we get the hang of it.  Small projects are easily done in procedural programming though, and even once we learn how to program object-oriented we may still find ourselves using procedural at times.</p>
+
+<p>Is it ok to mix objects with our procedural code?  Of course!  Many feel that if they are going to program object-oriented that they need to jump into the deep end and just start swimming.  That is just not true.  It would be much better to start using objects bit by bit, more and more, than to just not use them at all because we feel that it is too much for us.  Also, for small scripts it may just be easier to do them procedurally.</p>
+
+<p>&lt;</p>
+
+<p>p><b>So What Is Object-Oriented Programming?</b></p>
+
+<p>Object-oriented programming is a way to think.  To conceptualize a system or a program.  It is not the classes, syntax, encapsulation, or other big words that we will learn about in following articles.  The true purpose of OOP is the empowering it gives us to see our programs in a new light, a higher view, a clearer picture.  It is hard to go back once youï¿½ve had a taste.</p>
+
+        </div>
+                    <p class="categories">
+            Categories:
+                        <a href="/blog/categories/Articles">Articles</a>                        </p>
+                
+                    <nav class="article">
+                <ul>
+                                            <li>Next: <a class="next" href="/blog/2005/06/15/announcing-the-phlyte-framework-project" title="Announcing the Phlyte framework project"><span class="title">Announcing the Phlyte framework project</span></a></li>
+                                                                <li>Previous: <a class="previous" href="/blog/2005/06/09/phlyte-group-project-meeting-june-9-2005" title="Phlyte group project meeting, June 9, 2005"><span class="title">Phlyte group project meeting, June 9, 2005</span></a></li>
+                                    </ul>
+            </nav>
+                </div>
+    </div>
+</section>
+        </div>
+        <div class="row centered-text">
+    <div class="small-12 columns">
+        <footer class="container">
+            &copy; 2017 Utah PHP Usergroup
+        </footer>
+    </div>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/components/jquery/jquery.min.js"><\/script>')</script>
+<script src="/components/foundation/js/foundation.min.js"></script>
+<script>
+    $(document).foundation();
+</script>
+
+<script src="/components/highlightjs/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>    </body>
+</html>

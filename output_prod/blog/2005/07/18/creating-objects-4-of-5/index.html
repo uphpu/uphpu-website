@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Creating objects (4 of 5) &mdash; Utah PHP Usergroup &mdash; Where PHP Happens in Utah</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/components/foundation/css/normalize.css" rel="stylesheet" type="text/css" />
+    <link href="/components/foundation/css/foundation.min.css" rel="stylesheet" type="text/css" />
+    <link href="/css/style.css" rel="stylesheet" type="text/css" />
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="/components/modernizr/modernizr-built.js"></script>
+    <link rel="stylesheet" href="/components/highlightjs/styles/github.css" />
+    <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="Utah PHP Usergroup activity feed" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,800' rel='stylesheet' type='text/css'>
+</head>    <body>
+        <div class="contain-to-grid">
+<nav class="top-bar" data-topbar>
+    <ul class="title-area">
+        <li class="name">
+            <h1><a href="/"><span class="utah-php">Utah PHP</span> <span class="usergroup">Usergroup</span></a></h1>
+        </li>
+        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+    </ul>
+
+    <section class="top-bar-section">
+        <!-- Right Nav Section -->
+        <ul class="right">
+            <li><a href="/about/">About</a></li>
+            <li><a href="/meetings/">Meetings</a></li>
+            <li><a href="/employment/">Employment</a></li>
+            <li class="has-dropdown">
+                <a href="#">Community</a>
+                <ul class="dropdown">
+                    <li><a href="/mailing-lists/">Mailing List</a></li>
+                    <li><a href="/irc/">IRC</a></li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+</nav>
+</div>
+        <div id="omni">
+            <section id="pageContent">
+    <div class="row">
+        <div class="small-8 small-offset-2 columns">
+        <header>
+            <h2>Creating objects (4 of 5)</h2>
+        </header>
+        <div>
+            <p>&lt;</p>
+
+<p>p>In the previous three object oriented programming articles written for <a href="http://www.jacwright.com/" title="Jac Wright, Web Development and Application Design">jacwright.com</a>, we <a href="http://www.jacwright.com/blog/18/an-introduction-to-object-oriented-programming/" title="Introduction to Object Oriented Programming">introduced</a> object oriented programming, spoke of <a href="http://www.jacwright.com/blog/19/thinking-object-oriented/" title="Thinking Object Oriented">thinking</a> about a system object oriented, and discussed the importance of <a href="http://www.jacwright.com/blog/20/planning-systems/" title="Planning Systems">planning</a>, even if only in one's head. The next two articles, Creating Objects and Reusing Objects, delve into the meatier subject of writing objects. We will be discussing how to implement the plans we've made and the systems we've conceptualized. Without these principles, object oriented programming can become a mess instead of a blessing.<br />
+<b>Encapsulate, Encapsulate, Dance to the Music <a href="http://www.twin-music.com/azlyrics/t_file/songs/3dn/cel.html" title="Three Dog Night">(lyrics)</a></b></p>
+
+<p>Encapsulation means keeping your business to yourself. Objects can't be bothering others with their issues. Other objects have their own stuff to worry about. When we create an object it needs to have methods for other objects to speak with it, but it should rely on others as little as possible. There are two terms we use to describe how encapsulated an object is: "<a href="http://en.wikipedia.org/wiki/Black_box" title="Black Box">black box</a>" and "<a href="http://en.wikipedia.org/wiki/White_box" title="White Box">white box</a>".</p>
+
+<p>Black box describes an object that is completely encapsulated, closed up, secretive. We don't know anything that's going on inside of this type of object. We also can't see anything inside it. We must ask it for anything and everything we want to know about it. For example, a black box object has "getters" and "setters" to access it's properties. A getter or setter is simply a method that returns the object's properties. So instead of looking at the object's properties directly, we must request the properties through these methods.</p>
+
+<p>White box describes an object that is not quite so into security. It doesn't care if other's know what it likes for breakfast or it's favorite color. Often we access it's properties directly. It may also require us to know more about it in order to use, making it not as easy to use. It may be more needy than a black box object, wanting us to find out about it. We may need to pass it's properties around to it's methods and/or call several of its methods to accomplish one task.</p>
+
+<p>&lt;</p>
+
+<p>p><b>It's Not Just Black and White</b></p>
+
+<p>Although these terms, black box and white box, help give us a way to describe objects, it's not so black and white. There are varying shades of gray in between. But black box is best, right? Well, again, things aren't so simple. Writing a black box objects means that we need to take more time to write it's getters and setters and make sure only necessary methods are publicly accessible. White box objects can be quicker to build and give us more control over the object. They also don't have to be written to be needy. Black is generally more user friendly (because we don't need to know more than we have to) and white is generally more flexible (because we have more control outside the object).</p>
+
+<p>When is a good time to use black box, and when should we use white box then? Good question, glad I asked. If we are creating an object that we will be releasing to the world, or an object that is going to be reused over and over, or an object that we want to be used in just the right way and not any other, we would probably go with a darker shade of box. If the object in question is only going to be used once, if it will only be used by us, or if we want the object to be as flexible as possible.</p>
+
+<p>&lt;</p>
+
+<p>p><b>Extend</b></p>
+
+<p>Extending an object is having sub-objects based off of the parent. It helps us reuse code, but at the expense of greater portability. We may have a person class with child classes extending it of customer and employee. We may put the similar code in person that customer and employee both share, such as name, address, and a method to store the object. We can then put the unique code in the child classes. Employee will have payroll information and maybe a method to give a bonus. Customer will have a shopping cart and maybe an account.</p>
+
+<p>Extending is a great way to reuse code, and it makes good sense. We are able to reuse code effectivly between related objects, and if there needs to be a change (for example, we now want to keep track of first name and last name seperatly for all people in our database) then we only need to change it in one place. We also can make the child objects fully black box so that nothing need be known about it. However, if we ever wanted to use our Employee class in another system, we would need to make sure we brought it as well as it's parent class, Person, over to the new system.</p>
+
+<p>&lt;</p>
+
+<p>p><b>Beware Family Trees</b></p>
+
+<p>There is a caution to be added here. It may sometimes become tempting to create whole family trees, reusing code from the whole system. This is generally a bad idea. Inheritance may work best when it is only a few generations. The reason for this is simple. As stated above, if we wanted to reuse an object in another system, we would have to bring the whole tree over with the object. It also can start to become confusing with so many classes dependant on others. The only time I would suggest extending more than a few generations is when creating a system such as a framework, a component set, a module or something else that would always be packaged together. Even in these situations, there may be a better way to use functionality if it makes sense, and that is object composition. </p>
+
+<p>&lt;</p>
+
+<p>p><b>Compose</b></p>
+
+<p>Object composition is another way to reuse code. Unlike extending where we inherit methods and properties from parent classes, with composition we make an object with other objects. This could be likened to the human body, one complete object made up of many other objects. The body ties everything together, helping the heart, the braing, the lungs to all work together. The customer's shopping cart in the previous example could become a seperate object that belongs to the customer. This may make more sense, to keep objects more simple. It increases organization. Of course, like anything else, to much of a good thing can be bad. We wouldn't want the customer to have a name object which contains his first name and last name. We would start to have more objects than we knew what to do with if we were breaking them down so small.</p>
+
+<p>Composition is used very often, most any object oriented programs. Larger objects are made up of smaller pieces. It also can be more reusable. The employee object could be used without needing his payroll object and other (non-essential) objects that make him up.</p>
+
+<p>&lt;</p>
+
+<p>p><b>Object Creation</b></p>
+
+<p>Creating objects is a balancing act. Many decisions are made (often subconsiously) about how encapsulated to make an object, how to extend it, and how to compose it. The road to becoming proficient at object oriented programming may often start out with too few of these principles implemented. Then, once they are learned, it may become overused, making systems too complex. Finally, a middle ground will be found when it is remembered that the underlying purpose of object oriented programming is not to reuse but to simplify and organize.</p>
+
+        </div>
+                    <p class="categories">
+            Categories:
+                        <a href="/blog/categories/Articles">Articles</a>                        </p>
+                
+                    <nav class="article">
+                <ul>
+                                            <li>Next: <a class="next" href="/blog/2005/07/21/2005-bbq" title="2005 BBQ"><span class="title">2005 BBQ</span></a></li>
+                                                                <li>Previous: <a class="previous" href="/blog/2005/07/13/phlyte-meeting-july-14-2005" title="Phlyte Meeting, July 14, 2005"><span class="title">Phlyte Meeting, July 14, 2005</span></a></li>
+                                    </ul>
+            </nav>
+                </div>
+    </div>
+</section>
+        </div>
+        <div class="row centered-text">
+    <div class="small-12 columns">
+        <footer class="container">
+            &copy; 2017 Utah PHP Usergroup
+        </footer>
+    </div>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/components/jquery/jquery.min.js"><\/script>')</script>
+<script src="/components/foundation/js/foundation.min.js"></script>
+<script>
+    $(document).foundation();
+</script>
+
+<script src="/components/highlightjs/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>    </body>
+</html>

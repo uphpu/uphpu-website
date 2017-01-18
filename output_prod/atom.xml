@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Utah PHP Usergroup]]></title>
+    <link href="/atom.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2017-01-18T11:07:33-07:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Welcome to the New UPHPU Website]]></title>
+            <link href="/blog/2014/04/14/welcome-to-the-new-site"/>
+            <updated>2014-04-14T13:16:35-06:00</updated>
+            <id>/blog/2014/04/14/welcome-to-the-new-site</id>
+            <content type="html"><![CDATA[<p>Though it is slightly old news, I thought we should announce that we have a new website for UPHPU! The great thing
+is that it is statically generate, meaning that it is very easy to have anyone contribute. All of the code is up on
+<a href="https://github.com/uphpu/uphpu-website">uphpu-website GitHub repo</a> and you can easily create a fork, make some changes,
+and submit a pull request.</p>
+
+<p>While the new design looks awesome, I'm still trying to finish all of the little pages across the site. So if you have
+some time, feel free to hit me up on the IRC channel and ask for any things that need to be done.</p>
+
+<p>Thanks,
+Justin Carmony</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[April 2014 Meeting: Abstraction, Object Interfaces, Traits, Namespaces, and Dependency Injection - Cool Stuff in PHP]]></title>
+            <link href="/blog/2014/04/14/april-2014-meeting-abstraction-object-interfaces-traits-namespaces-and-dependency-injection-cool-stuff-in-php"/>
+            <updated>2014-04-14T13:16:35-06:00</updated>
+            <id>/blog/2014/04/14/april-2014-meeting-abstraction-object-interfaces-traits-namespaces-and-dependency-injection-cool-stuff-in-php</id>
+            <content type="html"><![CDATA[<p>The meeting will be this Thursday (April 17th) at Needle at 7:00 PM. It will be Mark Niebergall from i3logix talking
+about "Abstraction, Object Interfaces, Traits, Namespaces, and Dependency Injection: Cool Stuff in PHP."</p>
+
+<h2 id="talk-summary">Talk Summary</h2>
+
+<p>This presentation will focus on some of the really cool stuff in PHP that you may not know of or not know quite how to
+use. There will be examples and discussion regarding abstracts, interfaces, traits, namespaces, and dependency
+injection. Have you heard of some of these and always wanted to use them in your PHP application but didn't know where
+to start? You will learn the benefit of each one and when to use them in your existing or new application. This will be
+a perfect presentation to help you advance your skill-set to include these tools to make your code even more clean,
+structured, and awesome!</p>
+
+<h2 id="about-mark-niebergall">About Mark Niebergall</h2>
+
+<p>Mark started coding in PHP in 2005 and works for a company based in Denver called i3logix on an occupational health
+screening project for employers to drug test employees and candidates. He spends his days coding in PHP, MySQL, and
+JavaScript.</p>
+
+<h2 id="the-after-party">The After Party</h2>
+
+<p>The After Party will be at the traditional location of Applebee's in Draper. We typically head over there at about 8:30-9:00, so watch Twitter and we'll announce when we're heading over.</p>
+
+<h2 id="meeting-venue%3A-needle">Meeting Venue: Needle</h2>
+
+<p>The Meetings are still at Needle, their address is:<br />
+Needle Inc.<br />
+14864 Pony Express Road<br />
+Bluffdale, UT 84065</p>
+
+<p>Look forward to seeing everyone on Thursday!</p>
+
+<p>Thanks,
+Justin Carmony</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Feb 2014 Meeting: Mentoring Devs Into DevOps]]></title>
+            <link href="/blog/2014/02/19/feb-2014-meeting-mentoring-devs-into-devops"/>
+            <updated>2014-02-19T10:39:26-07:00</updated>
+            <id>/blog/2014/02/19/feb-2014-meeting-mentoring-devs-into-devops</id>
+            <content type="html"><![CDATA[<p>The meeting will be this Thursday (Feb. 20th) at Needle at 7:00 PM. It'll be me (Justin Carmony) from Deseret Digital Media talking about "Mentoring Devs Into DevOps." </p>
+
+<p><strong>Talk Summary</strong></p>
+
+<p>"Lets set aside the buzzword for a moment and have an honest discussion about DevOps. There is the idea of putting more Dev into Ops, but just a crucial (if not more crucial) is getting your Devs to think more like Ops. Most developers have little to no experience dealing with production environments, and helping them add value to your DevOps efforts can be difficult.</p>
+
+<p>"We'll discuss practical ways of mentoring Devs into more DevOps skills and responsibilities. We'll share past experiences &amp; ways to help your Devs gain more insight to the health of production. Ultimately, our goal is to help your Devs gain the skills to help your team achieve better application performance &amp; uptimes. Finally, we'll talk about how Salt can play a major role in increasing insight in your production environment for your Devs."</p>
+
+<p><strong>About Justin Carmony</strong></p>
+
+<p>I work for DDM, been involved with the Utah PHP Usergroup for about 5 years now, and I use PHP on a daily basis. Currently at work we operate KSL.com, DeseretNews.com, Ok.com, and many others.</p>
+
+<p>The After Party will be at the traditional location of Applebee's in Draper. We typically head over there at about 8:30-9:00, so watch Twitter and we'll announce when we're heading over.</p>
+
+<p><strong>Meeting Venue: Needle</strong></p>
+
+<p>The Meetings are still at Needle, their address is: </p>
+
+<p>Needle Inc.<br />
+14864 Pony Express Road<br />
+Bluffdale, UT 84065</p>
+
+<p>Look forward to seeing everyone on Thursday!</p>
+
+<p>Thanks,</p>
+
+<p>Justin Carmony</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Happy 10th Anniversary &amp;amp; January&#039;s Meeting!]]></title>
+            <link href="/blog/2014/01/12/happy-10th-anniversary-januarys-meeting"/>
+            <updated>2014-01-12T22:27:06-07:00</updated>
+            <id>/blog/2014/01/12/happy-10th-anniversary-januarys-meeting</id>
+            <content type="html"><![CDATA[<p>Everyone, I can't believe it, but this January will mark 10 years of UPHPU meetings! We're so excited, we're having a little bit of a special meeting for the occasion!</p>
+
+<p>The meeting will be this Thursday (Jan. 16th) at Needle at 7:00 PM. It'll be Elizabeth Naramore from GitHub talking about "GitHub: More than Just Code." We will also me slightly modifying the after party location for this month, so read on for the details.</p>
+
+<p><strong>Talk Summary</strong></p>
+
+<p>"It's no secret that at GitHub, we use GitHub to write the code that runs GitHub. But what you may not know is that we also use GitHub to manage GitHub the company. In this talk, I'll show you practical ways that we use our own system in a non-code context. You'll learn how we track projects and to-do lists, discuss and collaborate on corporate policies, communicate news to a highly distributed company, coordinate events, update and collaborate on internal and external documentation, and even onboard new Hubbers. You'll come away from this talk with a whole new perspective on using GitHub."</p>
+
+<p><strong>About Elizabeth Naramore</strong></p>
+
+<p>Elizabeth is an author, speaker, mentor, and recovering PHP developer. She currently works on the Community Team at GitHub, and loves finding new solutions to old problems.</p>
+
+<p>After Party:  Belgian Waffle &amp; Omelet Inn 9:00 PM</p>
+
+<p>For this meeting only, we'll be moving the after party to the Belgian Waffle &amp; Omelet Inn in Midvale (details &amp; map: https://www.skiphp.com/mingle/waffle) I also believe that the food will be covered by Jared Smith from Blue Host, who is one of the original members from back in the day. :)</p>
+
+<p><strong>Ski PHP</strong></p>
+
+<p>You've all likely have heard that Utah is having it's first regional PHP conference, Ski PHP! (https://www.skiphp.com/) It is great to see how awesome our community has grown over the last 10 years, and that our user group is one of the oldest PHP user groups today. If you haven't had a chance to sign up to attend, I highly recommend you give it a shot.</p>
+
+<p><strong>Meeting Venue: Needle</strong></p>
+
+<p>The Meetings are still at Needle, their address is: </p>
+
+<p>Needle Inc.<br />
+14864 Pony Express Road<br />
+Bluffdale, UT 84065</p>
+
+<p>Look forward to seeing everyone on Thursday! Thank you everyone for making this user group so great and amazing. I feel grateful every day for the friends I've made with all of you. :)</p>
+
+<p>Thanks,</p>
+
+<p>Justin Carmony</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[November 21st Meeting: PHPUnit Code Coverage by Joseph Scott]]></title>
+            <link href="/blog/2013/11/19/november-21st-meeting-phpunit-code-coverage-by-joseph-scott"/>
+            <updated>2013-11-19T08:37:44-07:00</updated>
+            <id>/blog/2013/11/19/november-21st-meeting-phpunit-code-coverage-by-joseph-scott</id>
+            <content type="html"><![CDATA[<p>This month's presentation will be by Joseph Scott on "PHPUnit Code Coverage". It will be on November 21st at Needle.com at 7:00 PM and then we'll be meeting at Applebees in Draper for the after-party.</p>
+
+<p>Talk Summary:</p>
+
+<blockquote><p>
+You've been writing unit tests for your PHP code, but how sure are you that they cover every line of code.  We'll go over generating code coverage analysis reports using PHPUnit so that you can see exactly how much of your code your unit tests cover.
+</p></blockquote>
+
+<p>Joseph is the team lead for VaultPress, a WordPress backup and security service by Automattic. </p>
+
+<h2>Current Venue: Needle.com</h2>
+
+<p>The current venue for this year at Needle.com. Here is the address (<a href="http://www.needle.com/contact.html">and map if you like</a>):</p>
+
+<blockquote><p>Needle Inc.<br />
+14864 Pony Express Road<br />
+Bluffdale, UT 84065</p></blockquote>
+
+<p><img class="alignnone" alt="" src="http://df7xs8p1yjitw.cloudfront.net/partners/needle/site/contact-directions.jpg" width="600" height="550" /></p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[October 17th Meeting: Real-Time Data with Redis by Justin Carmony]]></title>
+            <link href="/blog/2013/10/15/october-17th-meeting-real-time-data-with-redis-by-justin-carmony"/>
+            <updated>2013-10-15T09:32:16-06:00</updated>
+            <id>/blog/2013/10/15/october-17th-meeting-real-time-data-with-redis-by-justin-carmony</id>
+            <content type="html"><![CDATA[<p>This month's presentation will be a presentation on "Real-Time Data with Redis".Â It will be October 17th at Needle.com at 7:00 PM and then we'll be meeting at Applebees in Draper for the after-party.</p>
+
+<p>Talk summary: </p>
+
+<blockquote><p>
+There are many fast data stores, and then there is Redis. Learn about this excellent NoSQL solution that is a powerful in-memory key-value store. Learn how to solve traditionally difficult problems with Redis, and how you can benefit from 100,000 reads/writes a second on commodity hardware. We'll discuss how and when to use the different datatypes and commands to fit your needs. We'll discuss the different PHP libraries with their pros and cons. We'll then show some live examples on we use Redis at work to handle large volumes of data that is constantly being updated. Time permitting we'll end with a live benchmark of Redis to see just how many Req/s we can do.
+</p></blockquote>
+
+<p>The speaker this time will be myself, Justin Carmony, and it'll be a trial run of the talk before I go to TrueNorthPHP and other conferences speaking on it.</p>
+
+<p>See you there!</p>
+
+<h2>Current Venue: Needle.com</h2>
+
+<p>The current venue for the rest of this year at Needle.com. The great thing is it is in the same building complex as last year's venue, C7. Here is the new address (<a href="http://www.needle.com/contact.html">and map if you like</a>):</p>
+
+<blockquote><p>Needle Inc.<br />
+14864 Pony Express Road<br />
+Bluffdale, UT 84065</p></blockquote>
+
+<p><img class="alignnone" alt="" src="http://df7xs8p1yjitw.cloudfront.net/partners/needle/site/contact-directions.jpg" width="600" height="550" /></p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[September 2013 Meeting: Single Page Applications and Javascript MVVM Frameworks by Mac Newbold]]></title>
+            <link href="/blog/2013/09/17/september-2013-meeting-single-page-applications-and-javascript-mvvm-frameworks-by-mac-newbold"/>
+            <updated>2013-09-17T09:46:28-06:00</updated>
+            <id>/blog/2013/09/17/september-2013-meeting-single-page-applications-and-javascript-mvvm-frameworks-by-mac-newbold</id>
+            <content type="html"><![CDATA[<p>This month's presentation will be a presentation on Single Page Applications &amp; Javascript MVVM Frameworks by Mac Newbold.Â It is important to note we are at ourÂ <strong>new venue so please share thisÂ announcementÂ with people you know who are coming.</strong>Â  It will be September 19th at Needle.com at 7:00 PM and then we'll be meeting at Applebees in Draper for the after-party.</p>
+
+<p>Talk summary: </p>
+
+<blockquote><p>
+For many years, we've been building web applications in more or less the same way. The tools have changed, but the architecture has mostly remained the same. Single page applications are a newer approach that can simplify your development and provide a better user experience, especially for mobile devices. This talk discusses what single page apps are, how you build one, and lessons learned in a team that has built several in a variety of different ways. We will also discuss the role that Javascript MVVM frameworks can play in Single Page Applications.
+</p></blockquote>
+
+<p>Mac Newbold has been involved in the Utah Open Source scene for a very long time, and previously was our Utah PHP Usergroup President. He currently is a Principle Developer at Vivint. To be honest, he is a pretty darn smart guy and always gives a good presentation. :) </p>
+
+<p>See you there!</p>
+
+<h2>Current Venue: Needle.com</h2>
+
+<p>The current venue for the rest of this year at Needle.com. The great thing is it is in the same building complex as last year's venue, C7. Here is the new address (<a href="http://www.needle.com/contact.html">and map if you like</a>):</p>
+
+<blockquote><p>Needle Inc.<br />
+14864 Pony Express Road<br />
+Bluffdale, UT 84065</p></blockquote>
+
+<p><img class="alignnone" alt="" src="http://df7xs8p1yjitw.cloudfront.net/partners/needle/site/contact-directions.jpg" width="600" height="550" /></p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[August 2013 Meeting: Show &amp;amp; Tell - Favorite Tools w/ PHP]]></title>
+            <link href="/blog/2013/08/14/august-2013-meeting-show-tell-favorite-tools-w-php"/>
+            <updated>2013-08-14T15:07:49-06:00</updated>
+            <id>/blog/2013/08/14/august-2013-meeting-show-tell-favorite-tools-w-php</id>
+            <content type="html"><![CDATA[<p>This month's meeting on August 15th will be a slightly different format. Instead of a traditional presentation, we will be having an open discussion night with the theme: "Show &amp; Tell your Favorite Tools for PHP."</p>
+
+<p>It will be an open discussion with a little structure of people showing some of their favorite tools they use while working with PHP. Whether it is a PHP Library, Editor, Debugger, or even favorite git command, it'll be a chance to see what people find useful while working with PHP. So if you have anything interesting to share, please feel free to show it off and talk just a little bit about why it is awesome.</p>
+
+<p>There will be free pizza like usual, and we're hoping that everyone will be able to walk away with a slightly fuller brain and stomach. :)</p>
+
+<h2>Current Venue: Needle.com</h2>
+
+<p>The current venue for the rest of this year at Needle.com. The great thing is it is in the same building complex as last year's venue, C7. Here is the new address (<a href="http://www.needle.com/contact.html">and map if you like</a>):</p>
+
+<blockquote><p>Needle Inc.<br />
+14864 Pony Express Road<br />
+Bluffdale, UT 84065</p></blockquote>
+
+<p><img class="alignnone" alt="" src="http://df7xs8p1yjitw.cloudfront.net/partners/needle/site/contact-directions.jpg" width="600" height="550" /></p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[July 18th 2013 Meeting: Kohana Framework by Will Smith]]></title>
+            <link href="/blog/2013/07/17/july-18th-2013-meeting-kohana-framework-by-will-smith"/>
+            <updated>2013-07-17T10:06:19-06:00</updated>
+            <id>/blog/2013/07/17/july-18th-2013-meeting-kohana-framework-by-will-smith</id>
+            <content type="html"><![CDATA[<p>This month's presentation will be an introduction to the Kohana Framework by Will Smith.Â It is important to note we are at ourÂ <strong>new venue so please share thisÂ announcementÂ with people you know who are coming.</strong>Â  It will be July 18th at Needle.com at 7:00 PM and then we'll be meeting at Applebees in Draper for the after-party.</p>
+
+<p>Be cause Will is a man of many words, he gave me this very lengthy summary of his talk:</p>
+
+<p>Here is a summary of the talk:</p>
+
+<blockquote><p>Kohana is a lightweight open source PHP5 framework that is easy to learn and very flexible. In this presentation we will introduce key concepts.</p></blockquote>
+
+<p>The Bio he sent was every more lengthy!</p>
+
+<blockquote><p>Will Smith: Utah native. Family man. Mortician. SysAdmin. Open Source advocate.</p></blockquote>
+
+<p>I'll see if you can notice which one of those credentials is not like the other. :P But Will is an excellent speaker who is very fun to listen to. He has served on the Utah Open Source Foundation's Core Team and Board of Directors.</p>
+
+<p>Looking forward to seeing everyone there at the meeting!</p>
+
+<h2>Current Venue: Needle.com</h2>
+
+<p>The current venue for the rest of this year at Needle.com. The great thing is it is in the same building complex as last year's venue, C7. Here is the new address (<a href="http://www.needle.com/contact.html">and map if you like</a>):</p>
+
+<blockquote><p>Needle Inc.<br />
+14864 Pony Express Road<br />
+Bluffdale, UT 84065</p></blockquote>
+
+<p><img class="alignnone" alt="" src="http://df7xs8p1yjitw.cloudfront.net/partners/needle/site/contact-directions.jpg" width="600" height="550" /></p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[June 2013 Meeting: Building RESTful API&#039;s in Slim Framework by Noah Goodrich]]></title>
+            <link href="/blog/2013/06/20/june-2013-meeting-building-restful-apis-in-slim-framework-by-noah-goodrich"/>
+            <updated>2013-06-20T13:37:44-06:00</updated>
+            <id>/blog/2013/06/20/june-2013-meeting-building-restful-apis-in-slim-framework-by-noah-goodrich</id>
+            <content type="html"><![CDATA[<p>This month's presentation will be on "Building RESTful API's in Slim Framework" by Noah Goodrich.Â It is important to note we are at ourÂ <strong>new venue so please share thisÂ announcementÂ with people you know who are coming.</strong>Â  It will be at Needle.com at 7:00 PM tomorrow (May 15th) and then we'll be meeting at Applebees in Draper for the after-party.</p>
+
+<p>Here is a summary of the talk:</p>
+
+<blockquote><p>With a lot of applications being built out for mobile devices or javascript client apps, traditional server side languages and frameworks are becoming more and more often the tools for building web services rather than full stack sites. Slim is a framework that caters specifically to building RESTful web services in PHP.</p></blockquote>
+
+<p>Looking forward to seeing everyone tonight!</p>
+
+<h2>Current Venue: Needle.com</h2>
+
+<p>The current venue for the rest of this year at Needle.com. The great thing is it is in the same building complex as last year's venue, C7. Here is the new address (<a href="http://www.needle.com/contact.html">and map if you like</a>):</p>
+
+<blockquote><p>Needle Inc.<br />
+14864 Pony Express Road<br />
+Bluffdale, UT 84065</p></blockquote>
+
+<p><img class="alignnone" alt="" src="http://df7xs8p1yjitw.cloudfront.net/partners/needle/site/contact-directions.jpg" width="600" height="550" /></p>
+]]></content>
+        </entry>
+    </feed>
