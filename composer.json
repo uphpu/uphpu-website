@@ -1,0 +1,34 @@
+{
+    "name": "uphpu/uphpu-website",
+    "description": "Sculpin-powered Utah PHP Users group website.",
+    "type": "sculpin-skeleton",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Carmony",
+            "email": "justin@justincarmony.com",
+            "homepage": "http://dflydev.com"
+        }
+    ],
+    "require": {
+	  "sculpin/sculpin": "^2.1@dev",
+	  "dflydev/embedded-composer": "^1.0@dev",
+      "kriswallsmith/assetic": "1.1.2",
+      "components/foundation": "~5.2",
+      "components/jquery": "^3.1",
+      "components/highlightjs": "^9.7"
+    },
+    "config": {
+        "component-dir": "source/components",
+        "components": [
+            "components/foundation",
+            "components/jquery",
+            "components/highlightjs"
+        ]
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "ComponentManager\\ComponentManager::postComposerInstall"
+        ]
+    }
+}

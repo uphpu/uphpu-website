@@ -11,3 +11,4 @@ Vagrantfile
 sculpin.lock
 .idea/
 sculpin.phar
+vendor/
