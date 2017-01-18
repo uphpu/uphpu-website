@@ -6,7 +6,8 @@
 
 echo "Setup"
 
-if [ ! -d "output_prod" ]; then
+if [ ! -d "output_prod/.git" ]; then
+  rm -rf output_prod
   git clone git@github.com:uphpu/uphpu-website.git output_prod
 fi
 
@@ -18,7 +19,7 @@ git reset --hard HEAD
 cd ..
 
 
-sculpin generate --env=prod
+vendor/bin/sculpin generate --env=prod
 if [ $? -ne 0 ]; then echo "Could not generate the site"; exit 1; fi
 
 cd output_prod
