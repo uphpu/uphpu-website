@@ -2,11 +2,11 @@
 layout: post
 status: publish
 published: true
-title: "Traits: When, Where, Why, and How"
-presenter: H Hatfield
-date: '2017-03-16 19:00:00'
+title: "Implementing a Restful API with Lumen"
+presenter: Kyle Waters
+date: '2017-04-20 19:00:00'
 summary: |
-    "Traits were added to PHP in version 5.4 as another tool to use to create clean code. We’ll take a look at what traits are and how they help solve the problems they are intended to help solve. We’ll also explore some things to watch out for and how to figure out where traits could be introduced into your codebase."
+    "Due to the rise of mobile application restful back ends are in high demand. There are several PHP frameworks that promise to make this simpler.  In this presentation we'll use Lumen to implement and test a simple restful API with authentication. We'll also cover aspects of the Eloquent ORM."
 categories:
   - Presentations
 tags:
@@ -14,15 +14,15 @@ tags:
   - events
 ---
 
-Traits were added to PHP in version 5.4 as another tool to use to create clean code. We’ll take a look at what traits are and how they help solve the problems they are intended to help solve. We’ll also explore some things to watch out for and how to figure out where traits could be introduced into your codebase.
+Due to the rise of mobile application restful back ends are in high demand. There are several PHP frameworks that promise to make this simpler.  In this presentation we'll use Lumen to implement and test a simple restful API with authentication. We'll also cover aspects of the Eloquent ORM.
 
-## H Hatfield
+## Kyle Waters
 
-H Hatfield has been developing in PHP since version 3 and is starting to get the hang of it. He is currently the Director of Development at Rain Retail. He spends whatever spare time he finds with his wife and four-year-old twins.
+Kyle Waters is the Lead Software Architect at Venture Data LLC. He has over a decade experience programming in PHP and also works with javascript, css, postgresql, perl, c++, and java. Kyle is currently finishing the Wheel Of Time Series (Book 13).
 
 ## Pizza!
 
-We have a new sponsor - Microsoft Technical Communities - that is sponsoring pizza. There will be pizza, drinks, and even desserts delivered from Dominos.
+Our sponsor Microsoft Technical Communities is providing food! There will be pizza, drinks, and even desserts delivered from Dominos.
 
 ## Swag Alert
 

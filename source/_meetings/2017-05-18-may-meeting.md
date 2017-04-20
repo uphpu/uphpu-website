@@ -2,11 +2,11 @@
 layout: post
 status: publish
 published: true
-title: "Traits: When, Where, Why, and How"
-presenter: H Hatfield
-date: '2017-03-16 19:00:00'
+title: "Contributing to Official PHP Projects"
+presenter: Levi Morrison
+date: '2017-05-18 19:00:00'
 summary: |
-    "Traits were added to PHP in version 5.4 as another tool to use to create clean code. We’ll take a look at what traits are and how they help solve the problems they are intended to help solve. We’ll also explore some things to watch out for and how to figure out where traits could be introduced into your codebase."
+    "The speaker will share their experience contributing to several official PHP projects and talk about how you can contribute too! They will also cover guidelines for contributing and low-hanging fruit for projects such as the documentation, php.net and of course PHP itself."
 categories:
   - Presentations
 tags:
@@ -14,15 +14,15 @@ tags:
   - events
 ---
 
-Traits were added to PHP in version 5.4 as another tool to use to create clean code. We’ll take a look at what traits are and how they help solve the problems they are intended to help solve. We’ll also explore some things to watch out for and how to figure out where traits could be introduced into your codebase.
+The speaker will share their experience contributing to several official PHP projects and talk about how you can contribute too! They will also cover guidelines for contributing and low-hanging fruit for projects such as the documentation, php.net and of course PHP itself.
 
-## H Hatfield
+## Levi Morrison
 
-H Hatfield has been developing in PHP since version 3 and is starting to get the hang of it. He is currently the Director of Development at Rain Retail. He spends whatever spare time he finds with his wife and four-year-old twins.
+Speaker bio coming soon!
 
 ## Pizza!
 
-We have a new sponsor - Microsoft Technical Communities - that is sponsoring pizza. There will be pizza, drinks, and even desserts delivered from Dominos.
+Our sponsor Microsoft Technical Communities is providing food! There will be pizza, drinks, and even desserts delivered from Dominos.
 
 ## Swag Alert
 
