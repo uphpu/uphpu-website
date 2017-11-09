@@ -6,7 +6,7 @@ title: "Getting Started with Big Data using BigQuery & PHP"
 presenter: Justin Carmony
 date: '2017-11-16 19:00:00'
 summary: |
-    "Everyone is talking about \"Big Data\" but it can be daunting to know where to start. Learn how to get started with Big Data in minutes using Google Cloud's BigQuery for extremely fast results. We will discuss how BigQuery can tackle very big problems in a cost effective with data sets ranging from gigabytes to petabytes. We'll show how to easily load data into BigQuery, execute ad-hoc queries through the Web UI, and how to programmatically manage everything with PHP. Using the GitHub.com dataset, we'll show analyzing 2TB+ of data in 30 seconds or less. So stop wondering \"how can I collect all my data effectively\" and start getting the most out of your data today."
+    "Everyone is talking about "Big Data" but it can be daunting to know where to start. Learn how to get started with Big Data in minutes using Google Cloud's BigQuery for extremely fast results. We will discuss how BigQuery can tackle very big problems in a cost effective with data sets ranging from gigabytes to petabytes. We'll show how to easily load data into BigQuery, execute ad-hoc queries through the Web UI, and how to programmatically manage everything with PHP. Using the GitHub.com dataset, we'll show analyzing 2TB+ of data in 30 seconds or less. So stop wondering "how can I collect all my data effectively" and start getting the most out of your data today."
 categories:
   - Presentations
 tags:
