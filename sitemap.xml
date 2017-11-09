@@ -2,1807 +2,1807 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc></loc>
-    <lastmod>2017-08-03</lastmod>
+    <lastmod>2017-11-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
     <url>
     <loc>/blog/2014/04/14/welcome-to-the-new-site/</loc>
-    <lastmod>2014-04-14T21:16:35+02:00</lastmod>
+    <lastmod>2014-04-14T19:16:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2014/04/14/april-2014-meeting-abstraction-object-interfaces-traits-namespaces-and-dependency-injection-cool-stuff-in-php/</loc>
-    <lastmod>2014-04-14T21:16:35+02:00</lastmod>
+    <lastmod>2014-04-14T19:16:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2014/02/19/feb-2014-meeting-mentoring-devs-into-devops/</loc>
-    <lastmod>2014-02-19T18:39:26+01:00</lastmod>
+    <lastmod>2014-02-19T17:39:26+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2014/01/13/happy-10th-anniversary-januarys-meeting/</loc>
-    <lastmod>2014-01-13T06:27:06+01:00</lastmod>
+    <lastmod>2014-01-13T05:27:06+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2013/11/19/november-21st-meeting-phpunit-code-coverage-by-joseph-scott/</loc>
-    <lastmod>2013-11-19T16:37:44+01:00</lastmod>
+    <lastmod>2013-11-19T15:37:44+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2013/10/15/october-17th-meeting-real-time-data-with-redis-by-justin-carmony/</loc>
-    <lastmod>2013-10-15T17:32:16+02:00</lastmod>
+    <lastmod>2013-10-15T15:32:16+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2013/09/17/september-2013-meeting-single-page-applications-and-javascript-mvvm-frameworks-by-mac-newbold/</loc>
-    <lastmod>2013-09-17T17:46:28+02:00</lastmod>
+    <lastmod>2013-09-17T15:46:28+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2013/08/14/august-2013-meeting-show-tell-favorite-tools-w-php/</loc>
-    <lastmod>2013-08-14T23:07:49+02:00</lastmod>
+    <lastmod>2013-08-14T21:07:49+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2013/07/17/july-18th-2013-meeting-kohana-framework-by-will-smith/</loc>
-    <lastmod>2013-07-17T18:06:19+02:00</lastmod>
+    <lastmod>2013-07-17T16:06:19+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2013/06/20/june-2013-meeting-building-restful-apis-in-slim-framework-by-noah-goodrich/</loc>
-    <lastmod>2013-06-20T21:37:44+02:00</lastmod>
+    <lastmod>2013-06-20T19:37:44+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2013/05/16/may-2013-meeting-high-performance-websites-with-scalable-workers-by-justin-carmony/</loc>
-    <lastmod>2013-05-16T00:01:47+02:00</lastmod>
+    <loc>/blog/2013/05/15/may-2013-meeting-high-performance-websites-with-scalable-workers-by-justin-carmony/</loc>
+    <lastmod>2013-05-15T22:01:47+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2013/04/17/april-2013-meeting-scaling-from-2-to-6-by-h-hatfield/</loc>
-    <lastmod>2013-04-17T22:37:13+02:00</lastmod>
+    <lastmod>2013-04-17T20:37:13+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2013/03/19/march-2013-meeting-kss-php-by-russell-ahlstrom/</loc>
-    <lastmod>2013-03-19T21:04:22+01:00</lastmod>
+    <lastmod>2013-03-19T20:04:22+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2013/02/21/february-2013-meeting-selenium-by-jon-st-john/</loc>
-    <lastmod>2013-02-21T06:12:04+01:00</lastmod>
+    <lastmod>2013-02-21T05:12:04+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2013/01/15/january-2013-meeting-an-intro-to-server-configuration-and-remote-management-with-salt/</loc>
-    <lastmod>2013-01-15T06:48:24+01:00</lastmod>
+    <lastmod>2013-01-15T05:48:24+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2012/11/14/november-15th-meeting-steve-meyers-on-responsive-design/</loc>
-    <lastmod>2012-11-14T17:31:43+01:00</lastmod>
+    <lastmod>2012-11-14T16:31:43+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2012/10/17/seeking-panelists-the-great-vcs-debate-nov-2012-edition/</loc>
-    <lastmod>2012-10-17T22:14:01+02:00</lastmod>
+    <lastmod>2012-10-17T20:14:01+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2012/10/17/october-17th-meeting-bryan-petty-on-unit-testing-and-continuous-integration/</loc>
-    <lastmod>2012-10-17T22:09:46+02:00</lastmod>
+    <lastmod>2012-10-17T20:09:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2012/09/20/sept-20th-meeting-justin-carmony-on-refactoring/</loc>
-    <lastmod>2012-09-20T17:27:55+02:00</lastmod>
+    <lastmod>2012-09-20T15:27:55+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2012/08/02/august-16th-meeting-randy-secrist-an-intro-to-riak-and-php/</loc>
-    <lastmod>2012-08-02T00:30:18+02:00</lastmod>
+    <loc>/blog/2012/08/01/august-16th-meeting-randy-secrist-an-intro-to-riak-and-php/</loc>
+    <lastmod>2012-08-01T22:30:18+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2012/07/23/php-tutorial-recomendations/</loc>
-    <lastmod>2012-07-23T18:50:50+02:00</lastmod>
+    <lastmod>2012-07-23T16:50:50+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2012/07/16/july-19-meeting-css-hat-by-cole-joplin/</loc>
-    <lastmod>2012-07-16T18:28:02+02:00</lastmod>
+    <lastmod>2012-07-16T16:28:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2012/06/18/june-21-meeting-easy-awesome-data-with-graphite-statsd-by-justin-rockstar-carmony/</loc>
-    <lastmod>2012-06-18T23:41:22+02:00</lastmod>
+    <lastmod>2012-06-18T21:41:22+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2012/05/18/how-to-fix-the-default-apache-etag-confi/</loc>
-    <lastmod>2012-05-18T07:30:38+02:00</lastmod>
+    <lastmod>2012-05-18T05:30:38+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2012/05/01/meeting-on-may-17-agile-responsive-design-by-wade-shearer/</loc>
-    <lastmod>2012-05-01T20:20:01+02:00</lastmod>
+    <lastmod>2012-05-01T18:20:01+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2012/03/29/the-meeting-for-this-month-is-tonight-m/</loc>
-    <lastmod>2012-03-29T17:53:38+02:00</lastmod>
+    <lastmod>2012-03-29T15:53:38+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2012/03/15/meeting-tonight-has-been-postponed-due-t/</loc>
-    <lastmod>2012-03-15T22:46:49+01:00</lastmod>
+    <lastmod>2012-03-15T21:46:49+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2012/02/22/is-anyone-having-a-problem-posting-on-th/</loc>
-    <lastmod>2012-02-22T00:16:59+01:00</lastmod>
+    <loc>/blog/2012/02/21/is-anyone-having-a-problem-posting-on-th/</loc>
+    <lastmod>2012-02-21T23:16:59+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2012/02/17/great-meeting-winner-of-book-giveaway/</loc>
-    <lastmod>2012-02-17T16:35:15+01:00</lastmod>
+    <lastmod>2012-02-17T15:35:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2012/02/13/meeting-thursday-216-intro-to-lithium-the-most-rad-php-framework/</loc>
-    <lastmod>2012-02-13T17:14:16+01:00</lastmod>
+    <lastmod>2012-02-13T16:14:16+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2012/01/16/best-accounting-practices-for-web-development-joanna-carmony/</loc>
-    <lastmod>2012-01-16T17:49:58+01:00</lastmod>
+    <lastmod>2012-01-16T16:49:58+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/12/15/blazing-data-with-redis/</loc>
-    <lastmod>2011-12-15T02:46:22+01:00</lastmod>
+    <lastmod>2011-12-15T01:46:22+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/11/17/what-time-does-meeting-start-tonight-7/</loc>
-    <lastmod>2011-11-17T21:45:30+01:00</lastmod>
+    <lastmod>2011-11-17T20:45:30+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/11/14/designing-with-scalability-platforms-in-mind/</loc>
-    <lastmod>2011-11-14T17:56:59+01:00</lastmod>
+    <lastmod>2011-11-14T16:56:59+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/10/27/i-have-a-client-with-500-employees-we/</loc>
-    <lastmod>2011-10-27T21:19:13+02:00</lastmod>
+    <lastmod>2011-10-27T19:19:13+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/10/17/scale-or-fail-give-your-app-the-speed-it-needs-in-the-cloud-2/</loc>
-    <lastmod>2011-10-17T17:43:35+02:00</lastmod>
+    <lastmod>2011-10-17T15:43:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/10/14/i-have-been-out-of-programming-for-about/</loc>
-    <lastmod>2011-10-14T19:32:56+02:00</lastmod>
+    <lastmod>2011-10-14T17:32:56+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2011/10/04/php-web-entrepreneurs/</loc>
-    <lastmod>2011-10-04T00:00:53+02:00</lastmod>
+    <loc>/blog/2011/10/03/php-web-entrepreneurs/</loc>
+    <lastmod>2011-10-03T22:00:53+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2011/09/07/hi-i-have-created-a-soap-server-which-re/</loc>
-    <lastmod>2011-09-07T00:45:55+02:00</lastmod>
+    <loc>/blog/2011/09/06/hi-i-have-created-a-soap-server-which-re/</loc>
+    <lastmod>2011-09-06T22:45:55+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/09/01/scale-or-fail-give-your-app-the-speed-it-needs-in-the-cloud/</loc>
-    <lastmod>2011-09-01T19:57:47+02:00</lastmod>
+    <lastmod>2011-09-01T17:57:47+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/09/01/fbi-recruiter-and/</loc>
-    <lastmod>2011-09-01T19:55:49+02:00</lastmod>
+    <lastmod>2011-09-01T17:55:49+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/08/17/any-word-on-the-august-meeting/</loc>
-    <lastmod>2011-08-17T21:52:54+02:00</lastmod>
+    <lastmod>2011-08-17T19:52:54+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/08/11/any-news-on-the-august-meeting-are-you/</loc>
-    <lastmod>2011-08-11T05:40:10+02:00</lastmod>
+    <lastmod>2011-08-11T03:40:10+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/07/18/php-profiling/</loc>
-    <lastmod>2011-07-18T19:26:38+02:00</lastmod>
+    <lastmod>2011-07-18T17:26:38+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/07/18/any-word-on-a-july-meeting/</loc>
-    <lastmod>2011-07-18T18:26:43+02:00</lastmod>
+    <lastmod>2011-07-18T16:26:43+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/07/18/we-are-looking-at-starting-a-salt-lake-j/</loc>
-    <lastmod>2011-07-18T16:45:08+02:00</lastmod>
+    <lastmod>2011-07-18T14:45:08+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/07/12/last-october-i-had-an-opportunity-to-tak/</loc>
-    <lastmod>2011-07-12T17:09:14+02:00</lastmod>
+    <lastmod>2011-07-12T15:09:14+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/06/14/meeting-thursay-june-16-mysql-forks-which-one-is-right-for-me/</loc>
-    <lastmod>2011-06-14T17:33:00+02:00</lastmod>
+    <lastmod>2011-06-14T15:33:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/06/07/what-time-are-the-meetings-every-3rd-thu/</loc>
-    <lastmod>2011-06-07T16:23:21+02:00</lastmod>
+    <lastmod>2011-06-07T14:23:21+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/05/15/glad-to-see-a-group-here-in-utah-that-su/</loc>
-    <lastmod>2011-05-15T04:16:05+02:00</lastmod>
+    <lastmod>2011-05-15T02:16:05+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/05/12/frameworks-and-content-management/</loc>
-    <lastmod>2011-05-12T18:40:40+02:00</lastmod>
+    <lastmod>2011-05-12T16:40:40+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/05/09/hi-all-im-looking-for-feedback-for-ou/</loc>
-    <lastmod>2011-05-09T23:20:34+02:00</lastmod>
+    <lastmod>2011-05-09T21:20:34+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/04/21/april-meeting-running-php-in-production/</loc>
-    <lastmod>2011-04-21T17:59:33+02:00</lastmod>
+    <lastmod>2011-04-21T15:59:33+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/04/06/new-meeting-location-starting-in-may/</loc>
-    <lastmod>2011-04-06T16:28:00+02:00</lastmod>
+    <lastmod>2011-04-06T14:28:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/04/02/im-a-student-at-byu-right-now-and-a-fr/</loc>
-    <lastmod>2011-04-02T21:48:55+02:00</lastmod>
+    <lastmod>2011-04-02T19:48:55+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/03/14/so-one-can-learn-php-on-their-own-i-supp/</loc>
-    <lastmod>2011-03-14T17:57:28+01:00</lastmod>
+    <lastmod>2011-03-14T16:57:28+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/03/14/greetings-have-posted-opportunity-for-p/</loc>
-    <lastmod>2011-03-14T05:25:48+01:00</lastmod>
+    <lastmod>2011-03-14T04:25:48+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2011/03/04/some-of-you-have-come-across-raifbot-on/</loc>
-    <lastmod>2011-03-04T00:50:19+01:00</lastmod>
+    <loc>/blog/2011/03/03/some-of-you-have-come-across-raifbot-on/</loc>
+    <lastmod>2011-03-03T23:50:19+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2011/02/27/what-time-are-those-meetings-on-the-3rd/</loc>
-    <lastmod>2011-02-27T00:48:03+01:00</lastmod>
+    <loc>/blog/2011/02/26/what-time-are-those-meetings-on-the-3rd/</loc>
+    <lastmod>2011-02-26T23:48:03+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/02/26/hello-php-utah-long-time-coder-first-t/</loc>
-    <lastmod>2011-02-26T08:25:47+01:00</lastmod>
+    <lastmod>2011-02-26T07:25:47+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/02/23/i-was-wondering-if-you-any-of-you-have-e/</loc>
-    <lastmod>2011-02-23T22:57:51+01:00</lastmod>
+    <lastmod>2011-02-23T21:57:51+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/02/21/im-converting-video-for-html5-ive-b/</loc>
-    <lastmod>2011-02-21T17:44:50+01:00</lastmod>
+    <lastmod>2011-02-21T16:44:50+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2011/02/21/awesome-wade-excited-to-plug-into-the-g/</loc>
-    <lastmod>2011-02-21T00:31:04+01:00</lastmod>
+    <loc>/blog/2011/02/20/awesome-wade-excited-to-plug-into-the-g/</loc>
+    <lastmod>2011-02-20T23:31:04+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/02/20/a-new-uphpu-org/</loc>
-    <lastmod>2011-02-20T20:03:12+01:00</lastmod>
+    <lastmod>2011-02-20T19:03:12+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2011/02/20/login/</loc>
-    <lastmod>2011-02-20T19:08:42+01:00</lastmod>
+    <lastmod>2011-02-20T18:08:42+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2010/11/19/meetings-cancelled-for-the-holidays/</loc>
-    <lastmod>2010-11-19T03:08:42+01:00</lastmod>
+    <lastmod>2010-11-19T02:08:42+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2010/10/16/lessons-learned-from-surviving-high-traffic-campaigns/</loc>
-    <lastmod>2010-10-16T04:39:31+02:00</lastmod>
+    <lastmod>2010-10-16T02:39:31+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2010/09/11/job-announcements/</loc>
-    <lastmod>2010-09-11T03:52:42+02:00</lastmod>
+    <lastmod>2010-09-11T01:52:42+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2010/09/11/php-debugging/</loc>
-    <lastmod>2010-09-11T03:47:46+02:00</lastmod>
+    <lastmod>2010-09-11T01:47:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2010/08/19/zend-framework-quickstart/</loc>
-    <lastmod>2010-08-19T19:56:05+02:00</lastmod>
+    <lastmod>2010-08-19T17:56:05+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2010/07/16/php-fundamentals/</loc>
-    <lastmod>2010-07-16T01:06:19+02:00</lastmod>
+    <loc>/blog/2010/07/15/php-fundamentals/</loc>
+    <lastmod>2010-07-15T23:06:19+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2010/07/13/monthly-presentations-now-at-code-greene-in-salt-lake/</loc>
-    <lastmod>2010-07-13T19:34:16+02:00</lastmod>
+    <lastmod>2010-07-13T17:34:16+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2010/05/17/php-security/</loc>
-    <lastmod>2010-05-17T04:50:11+02:00</lastmod>
+    <lastmod>2010-05-17T02:50:11+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2010/04/09/uphpu-april-meeting-7pm-april-15-anatomy-of-a-php-request-joseph-scott-php-fundamentals-with-justin-carmony/</loc>
-    <lastmod>2010-04-09T02:05:51+02:00</lastmod>
+    <lastmod>2010-04-09T00:05:51+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2010/03/17/special-uphpu-meeting-thursday-mar-18-7pm-cal-evans-5-things-i-wish-they-had-told-me-before-i-started-programming-in-php/</loc>
-    <lastmod>2010-03-17T23:12:21+01:00</lastmod>
+    <lastmod>2010-03-17T22:12:21+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2010/02/24/product-review-dbvisualizer-7/</loc>
-    <lastmod>2010-02-24T02:56:46+01:00</lastmod>
+    <lastmod>2010-02-24T01:56:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2010/02/16/uphpu-meeting-thursday-7pm-phpfundamentals-topic-cookies-sessions-in-php-maintopic-php-business-specialpresentation-stackable-com/</loc>
-    <lastmod>2010-02-16T22:47:54+01:00</lastmod>
+    <lastmod>2010-02-16T21:47:54+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2010/01/18/rtfm-and-basic-linux-server-administration/</loc>
-    <lastmod>2010-01-18T17:27:18+01:00</lastmod>
+    <lastmod>2010-01-18T16:27:18+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2010/01/18/a-new-year-a-new-start-and-a-new-way-to-do-things/</loc>
-    <lastmod>2010-01-18T17:09:17+01:00</lastmod>
+    <lastmod>2010-01-18T16:09:17+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2010/01/01/read-boolean-html-attributes-with-jquery/</loc>
-    <lastmod>2010-01-01T20:02:26+01:00</lastmod>
+    <lastmod>2010-01-01T19:02:26+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2009/12/31/display-12-readwrite-24-timepicker-jquery-plugin/</loc>
-    <lastmod>2009-12-31T00:47:15+01:00</lastmod>
+    <loc>/blog/2009/12/30/display-12-readwrite-24-timepicker-jquery-plugin/</loc>
+    <lastmod>2009-12-30T23:47:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/12/14/40-off-php-titles-through-wiley-publishing/</loc>
-    <lastmod>2009-12-14T20:53:41+01:00</lastmod>
+    <lastmod>2009-12-14T19:53:41+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/11/16/november-uphpu-meeting-methods-for-mockups-a-geeks-guide-to-design-velda-harper-christensen-thursday-7p/</loc>
-    <lastmod>2009-11-16T15:38:47+01:00</lastmod>
+    <lastmod>2009-11-16T14:38:47+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/10/27/sams-teach-yourself-php-mysql-and-apache-by-julie-melonie/</loc>
-    <lastmod>2009-10-27T04:34:26+01:00</lastmod>
+    <lastmod>2009-10-27T03:34:26+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/10/15/post-to-group-through-google-wave/</loc>
-    <lastmod>2009-10-15T23:34:23+02:00</lastmod>
+    <lastmod>2009-10-15T21:34:23+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/10/15/high-availability-figlet-applications-using-goto/</loc>
-    <lastmod>2009-10-15T17:57:35+02:00</lastmod>
+    <lastmod>2009-10-15T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/09/14/css-live-coding-demonstration/</loc>
-    <lastmod>2009-09-14T15:55:23+02:00</lastmod>
+    <lastmod>2009-09-14T13:55:23+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/08/25/effective-caching-with-php-memcache/</loc>
-    <lastmod>2009-08-25T20:42:42+02:00</lastmod>
+    <lastmod>2009-08-25T18:42:42+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/07/13/meeting-this-thursday-7p-josh-fenio-a-web-developers-guide-to-system-security/</loc>
-    <lastmod>2009-07-13T20:35:55+02:00</lastmod>
+    <lastmod>2009-07-13T18:35:55+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/07/13/php-fundamentals-presentation-posted/</loc>
-    <lastmod>2009-07-13T15:03:29+02:00</lastmod>
+    <lastmod>2009-07-13T13:03:29+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/06/16/fundamentals-of-php/</loc>
-    <lastmod>2009-06-16T23:47:57+02:00</lastmod>
+    <lastmod>2009-06-16T21:47:57+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/06/15/10-advanced-php-tips-revisted/</loc>
-    <lastmod>2009-06-15T19:23:45+02:00</lastmod>
+    <lastmod>2009-06-15T17:23:45+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/05/21/uphpu-meeting-thursday-may-21-7p-security-php-by-erik-johnson/</loc>
-    <lastmod>2009-05-21T18:09:49+02:00</lastmod>
+    <lastmod>2009-05-21T16:09:49+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/04/14/meeting-thursday-7pm-lonnie-olson-presents-on-ssl-apache/</loc>
-    <lastmod>2009-04-14T05:51:08+02:00</lastmod>
+    <lastmod>2009-04-14T03:51:08+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/04/10/hate-reading-and-writing-html/</loc>
-    <lastmod>2009-04-10T21:16:20+02:00</lastmod>
+    <lastmod>2009-04-10T19:16:20+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2009/04/01/open-source-bridge/</loc>
-    <lastmod>2009-04-01T01:11:39+02:00</lastmod>
+    <loc>/blog/2009/03/31/open-source-bridge/</loc>
+    <lastmod>2009-03-31T23:11:39+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/03/27/uphpu-on-twitter/</loc>
-    <lastmod>2009-03-27T21:08:57+01:00</lastmod>
+    <lastmod>2009-03-27T20:08:57+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/03/19/meeting-tonight-fun-with-sql-presented-by-josh-tolley-7p-bgm-joint-udbug-uphpu-meeting/</loc>
-    <lastmod>2009-03-19T17:25:42+01:00</lastmod>
+    <lastmod>2009-03-19T16:25:42+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2009/02/14/uphpu-meeting-thursday-7pm-joseph-scott-presenting-on-wordpress-apis-xml-rpc-atompub/</loc>
-    <lastmod>2009-02-14T00:20:01+01:00</lastmod>
+    <loc>/blog/2009/02/13/uphpu-meeting-thursday-7pm-joseph-scott-presenting-on-wordpress-apis-xml-rpc-atompub/</loc>
+    <lastmod>2009-02-13T23:20:01+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2009/02/14/utos-geek-lunch-february-20th-1230p-at-the-smokehouse-pizza-bbq-in-orem/</loc>
-    <lastmod>2009-02-14T00:18:17+01:00</lastmod>
+    <loc>/blog/2009/02/13/utos-geek-lunch-february-20th-1230p-at-the-smokehouse-pizza-bbq-in-orem/</loc>
+    <lastmod>2009-02-13T23:18:17+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/01/16/branching-and-merging-best-practices/</loc>
-    <lastmod>2009-01-16T22:03:02+01:00</lastmod>
+    <lastmod>2009-01-16T21:03:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2009/01/15/meeting-january-15-7p-php-with-cakephp/</loc>
-    <lastmod>2009-01-15T18:09:55+01:00</lastmod>
+    <lastmod>2009-01-15T17:09:55+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2009/01/10/web-performance-with-steve-souders/</loc>
-    <lastmod>2009-01-10T00:25:28+01:00</lastmod>
+    <loc>/blog/2009/01/09/web-performance-with-steve-souders/</loc>
+    <lastmod>2009-01-09T23:25:28+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2008/12/13/zebra-striping-across-rowspan/</loc>
-    <lastmod>2008-12-13T17:46:27+01:00</lastmod>
+    <lastmod>2008-12-13T16:46:27+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2008/11/13/uphpu-meeting-1120-7pm-streamlined-web-development-using-a-vcs-and-trac/</loc>
-    <lastmod>2008-11-13T19:19:49+01:00</lastmod>
+    <lastmod>2008-11-13T18:19:49+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2008/10/20/job-announcement-form-no-longer-requires-account/</loc>
-    <lastmod>2008-10-20T01:47:56+02:00</lastmod>
+    <loc>/blog/2008/10/19/job-announcement-form-no-longer-requires-account/</loc>
+    <lastmod>2008-10-19T23:47:56+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2008/10/13/chainlove-alerts/</loc>
-    <lastmod>2008-10-13T04:02:08+02:00</lastmod>
+    <lastmod>2008-10-13T02:02:08+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2008/10/02/utos-uphpu-geek-lunch-happy-sumo-the-gateway/</loc>
-    <lastmod>2008-10-02T19:29:04+02:00</lastmod>
+    <lastmod>2008-10-02T17:29:04+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2008/09/25/400/</loc>
-    <lastmod>2008-09-25T23:42:18+02:00</lastmod>
+    <lastmod>2008-09-25T21:42:18+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2008/09/15/uphpu-meeting-thursday-php-pgsql-combined-uphpu-and-udbug/</loc>
-    <lastmod>2008-09-15T15:34:41+02:00</lastmod>
+    <lastmod>2008-09-15T13:34:41+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2008/08/21/no-august-uphpu-meeting-utos-conference-in-1-week/</loc>
-    <lastmod>2008-08-21T17:23:46+02:00</lastmod>
+    <lastmod>2008-08-21T15:23:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2008/07/16/introducing-the-utah-apple-users-group/</loc>
-    <lastmod>2008-07-16T18:58:03+02:00</lastmod>
+    <lastmod>2008-07-16T16:58:03+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2008/07/16/uphpu-meeting-thursday-7pm-error-handling-and-debugging-with-php-kevin-carter/</loc>
-    <lastmod>2008-07-16T15:26:21+02:00</lastmod>
+    <lastmod>2008-07-16T13:26:21+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2008/06/30/utos-uphpu-geek-lunch-tucanos-gateway-in-salt-lake-city-130pm-on-july-11th/</loc>
-    <lastmod>2008-06-30T17:04:55+02:00</lastmod>
+    <lastmod>2008-06-30T15:04:55+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2008/06/12/june-uphpu-meeting/</loc>
-    <lastmod>2008-06-12T19:08:22+02:00</lastmod>
+    <lastmod>2008-06-12T17:08:22+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2008/04/14/april-geek-lunch-at-tucanos-in-slc-on-418-1p/</loc>
-    <lastmod>2008-04-14T17:34:07+02:00</lastmod>
+    <lastmod>2008-04-14T15:34:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2008/04/14/uphpu-presentation-uphpu-meeting-high-availability-with-memcache-thursday-7p-jeff-sherlock/</loc>
-    <lastmod>2008-04-14T17:28:17+02:00</lastmod>
+    <lastmod>2008-04-14T15:28:17+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2008/03/18/uphpu-presentation-php-and-asterisk-thursday-march-20th-7p/</loc>
-    <lastmod>2008-03-18T04:52:31+01:00</lastmod>
+    <lastmod>2008-03-18T03:52:31+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2008/03/13/march-geek-lunch-at-new-location-brickoven-in-provo-at-1230p/</loc>
-    <lastmod>2008-03-13T20:28:21+01:00</lastmod>
+    <lastmod>2008-03-13T19:28:21+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2008/01/29/geek-lunch-lorenas-20108-1230pm/</loc>
-    <lastmod>2008-01-29T20:15:44+01:00</lastmod>
+    <lastmod>2008-01-29T19:15:44+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2008/01/12/php-and-ecomm-using-authorizenet/</loc>
-    <lastmod>2008-01-12T01:42:20+01:00</lastmod>
+    <lastmod>2008-01-12T00:42:20+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/12/06/december-geek-lunch-shanghai-cafe-1230p/</loc>
-    <lastmod>2007-12-06T23:11:29+01:00</lastmod>
+    <lastmod>2007-12-06T22:11:29+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/12/06/looking-for-good-intro-programming-training-and-theory/</loc>
-    <lastmod>2007-12-06T23:11:23+01:00</lastmod>
+    <lastmod>2007-12-06T22:11:23+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/11/26/404-car-not-found/</loc>
-    <lastmod>2007-11-26T17:40:29+01:00</lastmod>
+    <lastmod>2007-11-26T16:40:29+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/11/15/rich-internet-applications-with-php-rest-and/</loc>
-    <lastmod>2007-11-15T22:31:17+01:00</lastmod>
+    <lastmod>2007-11-15T21:31:17+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/11/12/uosf-sponsors-geek-paintball-game/</loc>
-    <lastmod>2007-11-12T06:08:46+01:00</lastmod>
+    <lastmod>2007-11-12T05:08:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/11/05/policies/</loc>
-    <lastmod>2007-11-05T05:30:09+01:00</lastmod>
+    <lastmod>2007-11-05T04:30:09+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/11/05/about/</loc>
-    <lastmod>2007-11-05T05:29:29+01:00</lastmod>
+    <lastmod>2007-11-05T04:29:29+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/11/05/mailing-lists-and-irc/</loc>
-    <lastmod>2007-11-05T05:29:22+01:00</lastmod>
+    <lastmod>2007-11-05T04:29:22+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/11/05/publishers/</loc>
-    <lastmod>2007-11-05T05:27:02+01:00</lastmod>
+    <lastmod>2007-11-05T04:27:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/11/05/employment/</loc>
-    <lastmod>2007-11-05T05:26:48+01:00</lastmod>
+    <lastmod>2007-11-05T04:26:48+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/11/05/members/</loc>
-    <lastmod>2007-11-05T05:26:08+01:00</lastmod>
+    <lastmod>2007-11-05T04:26:08+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/11/05/events/</loc>
-    <lastmod>2007-11-05T05:25:54+01:00</lastmod>
+    <lastmod>2007-11-05T04:25:54+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/11/05/local-groups/</loc>
-    <lastmod>2007-11-05T05:25:07+01:00</lastmod>
+    <lastmod>2007-11-05T04:25:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/11/05/library/</loc>
-    <lastmod>2007-11-05T05:23:03+01:00</lastmod>
+    <lastmod>2007-11-05T04:23:03+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/11/05/books/</loc>
-    <lastmod>2007-11-05T05:20:01+01:00</lastmod>
+    <lastmod>2007-11-05T04:20:01+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2007/10/17/meeting-thursday-svnlogbrowser/</loc>
-    <lastmod>2007-10-17T00:41:46+02:00</lastmod>
+    <loc>/blog/2007/10/16/meeting-thursday-svnlogbrowser/</loc>
+    <lastmod>2007-10-16T22:41:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/10/09/impromptu-geek-lunch-this-friday/</loc>
-    <lastmod>2007-10-09T19:04:32+02:00</lastmod>
+    <lastmod>2007-10-09T17:04:32+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/09/25/uphpu-linkedin-group/</loc>
-    <lastmod>2007-09-25T17:57:38+02:00</lastmod>
+    <lastmod>2007-09-25T15:57:38+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/09/14/sql-and-php/</loc>
-    <lastmod>2007-09-14T18:38:32+02:00</lastmod>
+    <lastmod>2007-09-14T16:38:32+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/09/12/new-horizons-announces-mysqlphp-fundamentals-class/</loc>
-    <lastmod>2007-09-12T22:06:02+02:00</lastmod>
+    <lastmod>2007-09-12T20:06:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/09/11/geek-lunch-at-chipolte/</loc>
-    <lastmod>2007-09-11T23:13:27+02:00</lastmod>
+    <lastmod>2007-09-11T21:13:27+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/08/30/book-review-professional-search-engine-optimization-with-php/</loc>
-    <lastmod>2007-08-30T05:22:21+02:00</lastmod>
+    <lastmod>2007-08-30T03:22:21+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/08/16/search-engine-optimization-and-php/</loc>
-    <lastmod>2007-08-16T17:27:38+02:00</lastmod>
+    <lastmod>2007-08-16T15:27:38+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/08/08/defcon-15-report/</loc>
-    <lastmod>2007-08-08T18:09:52+02:00</lastmod>
+    <lastmod>2007-08-08T16:09:52+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/08/08/geek-lunch-at-the-pie/</loc>
-    <lastmod>2007-08-08T18:02:16+02:00</lastmod>
+    <lastmod>2007-08-08T16:02:16+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/07/18/dynamic-pdf-generation/</loc>
-    <lastmod>2007-07-18T18:23:13+02:00</lastmod>
+    <lastmod>2007-07-18T16:23:13+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2007/07/01/geek-lunch-at-buca-di-beppo/</loc>
-    <lastmod>2007-07-01T01:39:36+02:00</lastmod>
+    <loc>/blog/2007/06/30/geek-lunch-at-buca-di-beppo/</loc>
+    <lastmod>2007-06-30T23:39:36+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/06/18/service-oriented-web-architecture/</loc>
-    <lastmod>2007-06-18T16:26:12+02:00</lastmod>
+    <lastmod>2007-06-18T14:26:12+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/06/04/geek-lunch-at-thanksgiving-point/</loc>
-    <lastmod>2007-06-04T16:27:44+02:00</lastmod>
+    <lastmod>2007-06-04T14:27:44+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/05/16/introduction-to-dojo-dhtml-toolkit/</loc>
-    <lastmod>2007-05-16T22:08:30+02:00</lastmod>
+    <lastmod>2007-05-16T20:08:30+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/04/17/icalendar-standard-and-php/</loc>
-    <lastmod>2007-04-17T13:56:22+02:00</lastmod>
+    <lastmod>2007-04-17T11:56:22+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/04/16/selecting-a-few-unique-random-array-items-by-shuffling-keys/</loc>
-    <lastmod>2007-04-16T03:42:51+02:00</lastmod>
+    <lastmod>2007-04-16T01:42:51+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/04/06/mozy-coding-deathmatch-offers-20000-in-cash-prizes/</loc>
-    <lastmod>2007-04-06T18:24:48+02:00</lastmod>
+    <lastmod>2007-04-06T16:24:48+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/04/03/utah-graphic-artists-forum-launched/</loc>
-    <lastmod>2007-04-03T05:59:39+02:00</lastmod>
+    <lastmod>2007-04-03T03:59:39+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/03/28/delphi-for-php-demo/</loc>
-    <lastmod>2007-03-28T23:34:08+02:00</lastmod>
+    <lastmod>2007-03-28T21:34:08+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/03/28/geek-lunch-friday-6-april/</loc>
-    <lastmod>2007-03-28T23:26:09+02:00</lastmod>
+    <lastmod>2007-03-28T21:26:09+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/03/16/call-for-presentors/</loc>
-    <lastmod>2007-03-16T08:58:08+01:00</lastmod>
+    <lastmod>2007-03-16T07:58:08+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/03/16/march-meeting-cancelled/</loc>
-    <lastmod>2007-03-16T08:47:30+01:00</lastmod>
+    <lastmod>2007-03-16T07:47:30+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/03/12/automated-testing/</loc>
-    <lastmod>2007-03-12T20:40:05+01:00</lastmod>
+    <lastmod>2007-03-12T19:40:05+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/03/01/zend-php-5-certification-study-guide/</loc>
-    <lastmod>2007-03-01T17:02:24+01:00</lastmod>
+    <lastmod>2007-03-01T16:02:24+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/02/26/owasps-webscarab/</loc>
-    <lastmod>2007-02-26T17:15:18+01:00</lastmod>
+    <lastmod>2007-02-26T16:15:18+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/01/27/oalug-uphpu-meeting-location-changed-please-read/</loc>
-    <lastmod>2007-01-27T03:15:58+01:00</lastmod>
+    <lastmod>2007-01-27T02:15:58+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/01/03/january-geek-lunch-kyoto-japanese-restaurant/</loc>
-    <lastmod>2007-01-03T05:49:52+01:00</lastmod>
+    <lastmod>2007-01-03T04:49:52+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2007/01/01/php-workshop-with-oalug/</loc>
-    <lastmod>2007-01-01T18:25:08+01:00</lastmod>
+    <lastmod>2007-01-01T17:25:08+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/12/19/rss-parsing-with-php5-vs-php4/</loc>
-    <lastmod>2006-12-19T19:42:27+01:00</lastmod>
+    <lastmod>2006-12-19T18:42:27+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/11/14/database-design/</loc>
-    <lastmod>2006-11-14T23:09:30+01:00</lastmod>
+    <lastmod>2006-11-14T22:09:30+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/11/08/jon-jensen-a-mozy-deathmatch-winner-with-php/</loc>
-    <lastmod>2006-11-08T22:03:30+01:00</lastmod>
+    <lastmod>2006-11-08T21:03:30+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/10/19/flashphp-communications-2/</loc>
-    <lastmod>2006-10-19T16:18:27+02:00</lastmod>
+    <lastmod>2006-10-19T14:18:27+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/09/26/geek-lunch-friday-29-september/</loc>
-    <lastmod>2006-09-26T23:22:03+02:00</lastmod>
+    <lastmod>2006-09-26T21:22:03+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/09/13/introduction-to-flash-actionscript/</loc>
-    <lastmod>2006-09-13T22:38:03+02:00</lastmod>
+    <lastmod>2006-09-13T20:38:03+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/09/06/updates-to-uphpu-syndication/</loc>
-    <lastmod>2006-09-06T14:12:17+02:00</lastmod>
+    <lastmod>2006-09-06T12:12:17+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/09/06/hello-world/</loc>
-    <lastmod>2006-09-06T06:29:51+02:00</lastmod>
+    <lastmod>2006-09-06T04:29:51+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2006/08/11/internationalization-and-localization/</loc>
-    <lastmod>2006-08-11T01:16:04+02:00</lastmod>
+    <loc>/blog/2006/08/10/internationalization-and-localization/</loc>
+    <lastmod>2006-08-10T23:16:04+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2006/08/11/flashphp-communications/</loc>
-    <lastmod>2006-08-11T01:02:15+02:00</lastmod>
+    <loc>/blog/2006/08/10/flashphp-communications/</loc>
+    <lastmod>2006-08-10T23:02:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2006/08/11/intro-to-flash-actionscript/</loc>
-    <lastmod>2006-08-11T01:00:08+02:00</lastmod>
+    <loc>/blog/2006/08/10/intro-to-flash-actionscript/</loc>
+    <lastmod>2006-08-10T23:00:08+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/07/19/web-frameworks-the-quixote-search/</loc>
-    <lastmod>2006-07-19T20:40:18+02:00</lastmod>
+    <lastmod>2006-07-19T18:40:18+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/07/19/user-interface-design-taking-the-good-with-the-bad/</loc>
-    <lastmod>2006-07-19T20:16:02+02:00</lastmod>
+    <lastmod>2006-07-19T18:16:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/07/17/interface-development-structure-and-content/</loc>
-    <lastmod>2006-07-17T16:13:55+02:00</lastmod>
+    <lastmod>2006-07-17T14:13:55+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/06/15/pear-3d-with-svg-output/</loc>
-    <lastmod>2006-06-15T07:09:03+02:00</lastmod>
+    <lastmod>2006-06-15T05:09:03+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/06/07/sql-injection/</loc>
-    <lastmod>2006-06-07T03:55:20+02:00</lastmod>
+    <lastmod>2006-06-07T01:55:20+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2006/05/17/night-of-code/</loc>
-    <lastmod>2006-05-17T01:30:11+02:00</lastmod>
+    <loc>/blog/2006/05/16/night-of-code/</loc>
+    <lastmod>2006-05-16T23:30:11+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/05/07/php-and-the-quotquot-operator/</loc>
-    <lastmod>2006-05-07T23:56:56+02:00</lastmod>
+    <lastmod>2006-05-07T21:56:56+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/04/28/8-free-apress-ebooks/</loc>
-    <lastmod>2006-04-28T22:35:00+02:00</lastmod>
+    <lastmod>2006-04-28T20:35:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2006/04/18/introduction-to-sqlite/</loc>
-    <lastmod>2006-04-18T01:06:36+02:00</lastmod>
+    <loc>/blog/2006/04/17/introduction-to-sqlite/</loc>
+    <lastmod>2006-04-17T23:06:36+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/04/11/using-php-mysql-with-dates-and-times/</loc>
-    <lastmod>2006-04-11T04:31:00+02:00</lastmod>
+    <lastmod>2006-04-11T02:31:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/04/11/standards-in-a-nutshella-visual-representation/</loc>
-    <lastmod>2006-04-11T03:55:35+02:00</lastmod>
+    <lastmod>2006-04-11T01:55:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2006/04/11/a-designers-guide-to-prototyping-ajax/</loc>
-    <lastmod>2006-04-11T00:56:20+02:00</lastmod>
+    <loc>/blog/2006/04/10/a-designers-guide-to-prototyping-ajax/</loc>
+    <lastmod>2006-04-10T22:56:20+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2006/04/07/great-article-on-dovecot/</loc>
-    <lastmod>2006-04-07T00:02:00+02:00</lastmod>
+    <loc>/blog/2006/04/06/great-article-on-dovecot/</loc>
+    <lastmod>2006-04-06T22:02:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/04/06/css-pushpin-header-cody-lindley/</loc>
-    <lastmod>2006-04-06T06:17:11+02:00</lastmod>
+    <lastmod>2006-04-06T04:17:11+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/03/23/zend-eclipse-php-ide-plugin/</loc>
-    <lastmod>2006-03-23T03:18:00+01:00</lastmod>
+    <lastmod>2006-03-23T02:18:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/03/21/uphpu-eclipse-php-development/</loc>
-    <lastmod>2006-03-21T01:01:00+01:00</lastmod>
+    <lastmod>2006-03-21T00:01:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/03/20/codeigniter-the-php-answer/</loc>
-    <lastmod>2006-03-20T13:32:53+01:00</lastmod>
+    <lastmod>2006-03-20T12:32:53+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/03/20/eclipse-ajax-tools/</loc>
-    <lastmod>2006-03-20T12:51:06+01:00</lastmod>
+    <lastmod>2006-03-20T11:51:06+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/02/17/apache-404-handler-scripts/</loc>
-    <lastmod>2006-02-17T09:00:19+01:00</lastmod>
+    <lastmod>2006-02-17T08:00:19+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/02/11/ajax-in-action/</loc>
-    <lastmod>2006-02-11T02:15:25+01:00</lastmod>
+    <lastmod>2006-02-11T01:15:25+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/01/28/my-little-toolbox/</loc>
-    <lastmod>2006-01-28T04:29:00+01:00</lastmod>
+    <lastmod>2006-01-28T03:29:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/01/25/php-and-json/</loc>
-    <lastmod>2006-01-25T04:43:00+01:00</lastmod>
+    <lastmod>2006-01-25T03:43:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2006/01/21/new-firefox-extension-firebug/</loc>
-    <lastmod>2006-01-21T00:36:00+01:00</lastmod>
+    <loc>/blog/2006/01/20/new-firefox-extension-firebug/</loc>
+    <lastmod>2006-01-20T23:36:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/01/18/model-view-controller-frameworks/</loc>
-    <lastmod>2006-01-18T05:50:07+01:00</lastmod>
+    <lastmod>2006-01-18T04:50:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/01/11/utah-asterisk-users-group-formed/</loc>
-    <lastmod>2006-01-11T20:06:58+01:00</lastmod>
+    <lastmod>2006-01-11T19:06:58+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2006/01/09/php-easter-eggs/</loc>
-    <lastmod>2006-01-09T22:36:34+01:00</lastmod>
+    <lastmod>2006-01-09T21:36:34+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2005/12/15/open-laszlo-and-rich-web-applications/</loc>
-    <lastmod>2005-12-15T00:19:28+01:00</lastmod>
+    <loc>/blog/2005/12/14/open-laszlo-and-rich-web-applications/</loc>
+    <lastmod>2005-12-14T23:19:28+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/12/06/10-reasons-to-use-web-standards/</loc>
-    <lastmod>2005-12-06T22:23:59+01:00</lastmod>
+    <lastmod>2005-12-06T21:23:59+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/11/28/valid-xhtml-re-code-case-study/</loc>
-    <lastmod>2005-11-28T13:22:56+01:00</lastmod>
+    <lastmod>2005-11-28T12:22:56+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/11/26/geek-dinner-with-dr-phil-windley-keynote/</loc>
-    <lastmod>2005-11-26T04:26:37+01:00</lastmod>
+    <lastmod>2005-11-26T03:26:37+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/11/15/the-key-to-harnessing-the-value-of-arrays/</loc>
-    <lastmod>2005-11-15T03:27:53+01:00</lastmod>
+    <lastmod>2005-11-15T02:27:53+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/11/05/mailing-list-archives-now-searchable/</loc>
-    <lastmod>2005-11-05T10:13:58+01:00</lastmod>
+    <lastmod>2005-11-05T09:13:58+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2005/10/19/ajax/</loc>
-    <lastmod>2005-10-19T00:26:24+02:00</lastmod>
+    <loc>/blog/2005/10/18/ajax/</loc>
+    <lastmod>2005-10-18T22:26:24+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/09/27/uphpu-welcomes-its-400th-member/</loc>
-    <lastmod>2005-09-27T23:37:54+02:00</lastmod>
+    <lastmod>2005-09-27T21:37:54+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2005/09/27/amazon-web-services-fueling-innovation-and-entrepreneurship/</loc>
-    <lastmod>2005-09-27T00:23:03+02:00</lastmod>
+    <loc>/blog/2005/09/26/amazon-web-services-fueling-innovation-and-entrepreneurship/</loc>
+    <lastmod>2005-09-26T22:23:03+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/07/21/2005-bbq/</loc>
-    <lastmod>2005-07-21T08:20:00+02:00</lastmod>
+    <lastmod>2005-07-21T06:20:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/07/18/creating-objects-4-of-5/</loc>
-    <lastmod>2005-07-18T22:59:09+02:00</lastmod>
+    <lastmod>2005-07-18T20:59:09+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2005/07/14/phlyte-meeting-july-14-2005/</loc>
-    <lastmod>2005-07-14T00:46:58+02:00</lastmod>
+    <loc>/blog/2005/07/13/phlyte-meeting-july-14-2005/</loc>
+    <lastmod>2005-07-13T22:46:58+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/06/28/phlyte-meeting-june-30/</loc>
-    <lastmod>2005-06-28T23:50:42+02:00</lastmod>
+    <lastmod>2005-06-28T21:50:42+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/06/28/planning-systems-3-of-5/</loc>
-    <lastmod>2005-06-28T02:24:44+02:00</lastmod>
+    <lastmod>2005-06-28T00:24:44+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/06/24/uphpu-eclipse-linux-release/</loc>
-    <lastmod>2005-06-24T11:00:00+02:00</lastmod>
+    <lastmod>2005-06-24T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/06/23/php-vulnerability-containment/</loc>
-    <lastmod>2005-06-23T02:01:33+02:00</lastmod>
+    <lastmod>2005-06-23T00:01:33+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/06/22/basic-linux-network-security-troubleshooting-amp-tips/</loc>
-    <lastmod>2005-06-22T02:26:23+02:00</lastmod>
+    <lastmod>2005-06-22T00:26:23+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/06/20/thinking-object-oriented-2-of-5/</loc>
-    <lastmod>2005-06-20T22:34:20+02:00</lastmod>
+    <lastmod>2005-06-20T20:34:20+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/06/16/announcing-the-phlyte-framework-project/</loc>
-    <lastmod>2005-06-16T02:17:22+02:00</lastmod>
+    <lastmod>2005-06-16T00:17:22+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/06/14/an-introduction-to-object-oriented-programming-1-of-5/</loc>
-    <lastmod>2005-06-14T05:11:45+02:00</lastmod>
+    <lastmod>2005-06-14T03:11:45+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/06/10/phlyte-group-project-meeting-june-9-2005/</loc>
-    <lastmod>2005-06-10T04:04:26+02:00</lastmod>
+    <lastmod>2005-06-10T02:04:26+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/06/08/10-years-since-php-10-was-released/</loc>
-    <lastmod>2005-06-08T22:44:08+02:00</lastmod>
+    <lastmod>2005-06-08T20:44:08+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/05/26/comparison-mysql-vs-postgresql/</loc>
-    <lastmod>2005-05-26T21:35:09+02:00</lastmod>
+    <lastmod>2005-05-26T19:35:09+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/05/24/holy-uber-css-batman/</loc>
-    <lastmod>2005-05-24T21:20:45+02:00</lastmod>
+    <lastmod>2005-05-24T19:20:45+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/05/06/barcodes-with-php-and-pear/</loc>
-    <lastmod>2005-05-06T04:56:25+02:00</lastmod>
+    <lastmod>2005-05-06T02:56:25+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2005/05/06/apress-free-a-programmers-guide-to-php-40/</loc>
-    <lastmod>2005-05-06T01:47:00+02:00</lastmod>
+    <loc>/blog/2005/05/05/apress-free-a-programmers-guide-to-php-40/</loc>
+    <lastmod>2005-05-05T23:47:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/05/04/css-amp-xhtml-standards-theory-and-design/</loc>
-    <lastmod>2005-05-04T04:13:36+02:00</lastmod>
+    <lastmod>2005-05-04T02:13:36+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2005/05/01/spring-into-php5-addison-wesley/</loc>
-    <lastmod>2005-05-01T00:00:00+02:00</lastmod>
+    <loc>/blog/2005/04/30/spring-into-php5-addison-wesley/</loc>
+    <lastmod>2005-04-30T22:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/04/29/university-of-utah-contiuning-education-offers-php-classes/</loc>
-    <lastmod>2005-04-29T23:45:57+02:00</lastmod>
+    <lastmod>2005-04-29T21:45:57+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/04/29/linux-quick-fix-notebook-prentice-hall/</loc>
-    <lastmod>2005-04-29T15:06:00+02:00</lastmod>
+    <lastmod>2005-04-29T13:06:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/04/29/practical-c-programming-oreilly/</loc>
-    <lastmod>2005-04-29T08:26:11+02:00</lastmod>
+    <lastmod>2005-04-29T06:26:11+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/04/24/the-zen-of-css-design-peach-pit/</loc>
-    <lastmod>2005-04-24T09:35:09+02:00</lastmod>
+    <lastmod>2005-04-24T07:35:09+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/04/23/php-training-classes-and-group-project-coming-soon/</loc>
-    <lastmod>2005-04-23T05:01:26+02:00</lastmod>
+    <lastmod>2005-04-23T03:01:26+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/04/19/php-and-gtk/</loc>
-    <lastmod>2005-04-19T03:00:32+02:00</lastmod>
+    <lastmod>2005-04-19T01:00:32+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/04/16/additional-meetings-and-training-courses-considered/</loc>
-    <lastmod>2005-04-16T03:42:17+02:00</lastmod>
+    <lastmod>2005-04-16T01:42:17+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/04/14/php-5-power-programming-pdf-free/</loc>
-    <lastmod>2005-04-14T20:28:44+02:00</lastmod>
+    <lastmod>2005-04-14T18:28:44+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2005/03/15/debugging-php/</loc>
-    <lastmod>2005-03-15T00:54:44+01:00</lastmod>
+    <loc>/blog/2005/03/14/debugging-php/</loc>
+    <lastmod>2005-03-14T23:54:44+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/03/08/apache-virtual-hosts-without-specifying-ip-address/</loc>
-    <lastmod>2005-03-08T13:25:38+01:00</lastmod>
+    <lastmod>2005-03-08T12:25:38+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/02/26/professional-php5-wrox/</loc>
-    <lastmod>2005-02-26T12:11:21+01:00</lastmod>
+    <lastmod>2005-02-26T11:11:21+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2005/02/26/javascript-how-to-use-it-without-abusing-it/</loc>
-    <lastmod>2005-02-26T00:25:22+01:00</lastmod>
+    <loc>/blog/2005/02/25/javascript-how-to-use-it-without-abusing-it/</loc>
+    <lastmod>2005-02-25T23:25:22+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/02/12/object-oriented-php-and-objectrelational-abstraction/</loc>
-    <lastmod>2005-02-12T16:30:30+01:00</lastmod>
+    <lastmod>2005-02-12T15:30:30+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/02/12/non-shell-chrooted-secure-server-access/</loc>
-    <lastmod>2005-02-12T13:54:56+01:00</lastmod>
+    <lastmod>2005-02-12T12:54:56+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/02/07/server-purchased-final-call-for-donations/</loc>
-    <lastmod>2005-02-07T10:27:05+01:00</lastmod>
+    <lastmod>2005-02-07T09:27:05+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/02/05/miller-business-innovation-center-genus-breakfast/</loc>
-    <lastmod>2005-02-05T06:21:09+01:00</lastmod>
+    <lastmod>2005-02-05T05:21:09+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/01/31/new-features-tools-or-services-what-do-you-want/</loc>
-    <lastmod>2005-01-31T13:41:50+01:00</lastmod>
+    <lastmod>2005-01-31T12:41:50+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/01/31/donations-requested-to-keep-uphpu-online/</loc>
-    <lastmod>2005-01-31T13:24:10+01:00</lastmod>
+    <lastmod>2005-01-31T12:24:10+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/01/28/new-user-accounts-lost-please-reregister/</loc>
-    <lastmod>2005-01-28T23:45:42+01:00</lastmod>
+    <lastmod>2005-01-28T22:45:42+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/01/18/strings-and-regular-expressions-in-php/</loc>
-    <lastmod>2005-01-18T23:30:53+01:00</lastmod>
+    <lastmod>2005-01-18T22:30:53+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2005/01/07/verifying-email-addresses-in-php/</loc>
-    <lastmod>2005-01-07T05:25:16+01:00</lastmod>
+    <lastmod>2005-01-07T04:25:16+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/12/22/php-extensions/</loc>
-    <lastmod>2004-12-22T09:00:02+01:00</lastmod>
+    <lastmod>2004-12-22T08:00:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/12/10/three-tier-development-with-php-5/</loc>
-    <lastmod>2004-12-10T21:47:41+01:00</lastmod>
+    <lastmod>2004-12-10T20:47:41+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/11/16/ldap/</loc>
-    <lastmod>2004-11-16T20:01:46+01:00</lastmod>
+    <lastmod>2004-11-16T19:01:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/11/11/eclipse-in-action-manning/</loc>
-    <lastmod>2004-11-11T17:42:00+01:00</lastmod>
+    <lastmod>2004-11-11T16:42:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/10/23/learning-xml-oreilly/</loc>
-    <lastmod>2004-10-23T19:37:00+02:00</lastmod>
+    <lastmod>2004-10-23T17:37:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/10/19/php-the-hottest-thing-in-hosting/</loc>
-    <lastmod>2004-10-19T21:41:17+02:00</lastmod>
+    <lastmod>2004-10-19T19:41:17+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2004/10/15/developing-applications-on-the-ebay-platform-with-php/</loc>
-    <lastmod>2004-10-15T01:39:36+02:00</lastmod>
+    <loc>/blog/2004/10/14/developing-applications-on-the-ebay-platform-with-php/</loc>
+    <lastmod>2004-10-14T23:39:36+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2004/10/14/new-php-statistics-posted/</loc>
-    <lastmod>2004-10-14T00:03:35+02:00</lastmod>
+    <loc>/blog/2004/10/13/new-php-statistics-posted/</loc>
+    <lastmod>2004-10-13T22:03:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/09/26/apache-the-definitive-guide-3rd-ed-oreilly/</loc>
-    <lastmod>2004-09-26T07:52:00+02:00</lastmod>
+    <lastmod>2004-09-26T05:52:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/09/23/thanks-for-the-donations-we-have-our-new-server/</loc>
-    <lastmod>2004-09-23T23:28:36+02:00</lastmod>
+    <lastmod>2004-09-23T21:28:36+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2004/09/22/uphpu-one-year-anniversary/</loc>
-    <lastmod>2004-09-22T01:09:04+02:00</lastmod>
+    <loc>/blog/2004/09/21/uphpu-one-year-anniversary/</loc>
+    <lastmod>2004-09-21T23:09:04+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/09/11/xml-rpc-soap/</loc>
-    <lastmod>2004-09-11T12:57:14+02:00</lastmod>
+    <lastmod>2004-09-11T10:57:14+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/09/03/the-top-seven-mysql-licensing-questions-answered/</loc>
-    <lastmod>2004-09-03T20:29:48+02:00</lastmod>
+    <lastmod>2004-09-03T18:29:48+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2004/09/02/use-soap-and-php-to-access-j2ee-components/</loc>
-    <lastmod>2004-09-02T00:26:47+02:00</lastmod>
+    <loc>/blog/2004/09/01/use-soap-and-php-to-access-j2ee-components/</loc>
+    <lastmod>2004-09-01T22:26:47+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/08/27/php-form-handling/</loc>
-    <lastmod>2004-08-27T20:37:44+02:00</lastmod>
+    <lastmod>2004-08-27T18:37:44+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/08/19/parsing-bad-xml-in-php-51/</loc>
-    <lastmod>2004-08-19T20:50:17+02:00</lastmod>
+    <lastmod>2004-08-19T18:50:17+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/08/17/family-barbecue/</loc>
-    <lastmod>2004-08-17T06:41:08+02:00</lastmod>
+    <lastmod>2004-08-17T04:41:08+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2004/08/05/sqlite-php-and-alter-table/</loc>
-    <lastmod>2004-08-05T00:19:55+02:00</lastmod>
+    <loc>/blog/2004/08/04/sqlite-php-and-alter-table/</loc>
+    <lastmod>2004-08-04T22:19:55+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/07/17/web-accessibility/</loc>
-    <lastmod>2004-07-17T05:20:10+02:00</lastmod>
+    <lastmod>2004-07-17T03:20:10+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/07/13/family-barbecue-giveaways/</loc>
-    <lastmod>2004-07-13T21:58:28+02:00</lastmod>
+    <lastmod>2004-07-13T19:58:28+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/07/13/how-linux-boots/</loc>
-    <lastmod>2004-07-13T21:37:51+02:00</lastmod>
+    <lastmod>2004-07-13T19:37:51+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/07/13/icalendar-event-syndication/</loc>
-    <lastmod>2004-07-13T05:26:04+02:00</lastmod>
+    <lastmod>2004-07-13T03:26:04+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2004/06/30/how-php-is-helping-to-save-lives/</loc>
-    <lastmod>2004-06-30T00:43:20+02:00</lastmod>
+    <loc>/blog/2004/06/29/how-php-is-helping-to-save-lives/</loc>
+    <lastmod>2004-06-29T22:43:20+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2004/06/30/interview-zeev-and-andi-php-developers/</loc>
-    <lastmod>2004-06-30T00:33:02+02:00</lastmod>
+    <loc>/blog/2004/06/29/interview-zeev-and-andi-php-developers/</loc>
+    <lastmod>2004-06-29T22:33:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/06/19/uphpu-welcomes-its-100th-member/</loc>
-    <lastmod>2004-06-19T21:17:18+02:00</lastmod>
+    <lastmod>2004-06-19T19:17:18+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/06/16/backing-up-and-restoring-your-mysql-database/</loc>
-    <lastmod>2004-06-16T21:37:00+02:00</lastmod>
+    <lastmod>2004-06-16T19:37:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2004/06/12/php-security-mistakes/</loc>
-    <lastmod>2004-06-12T01:31:49+02:00</lastmod>
+    <loc>/blog/2004/06/11/php-security-mistakes/</loc>
+    <lastmod>2004-06-11T23:31:49+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/06/11/inactive-user-accounts-to-be-purged/</loc>
-    <lastmod>2004-06-11T02:21:40+02:00</lastmod>
+    <lastmod>2004-06-11T00:21:40+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>/blog/2004/06/10/dynamic-pdfs-and-images/</loc>
-    <lastmod>2004-06-10T01:57:00+02:00</lastmod>
+    <loc>/blog/2004/06/09/dynamic-pdfs-and-images/</loc>
+    <lastmod>2004-06-09T23:57:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/06/09/this-then-that-with-modular-division/</loc>
-    <lastmod>2004-06-09T10:28:05+02:00</lastmod>
+    <lastmod>2004-06-09T08:28:05+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/06/08/final-vote-on-meeting-location-salt-lake-and-orem-or-potm/</loc>
-    <lastmod>2004-06-08T02:54:00+02:00</lastmod>
+    <lastmod>2004-06-08T00:54:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/06/01/uphpuorg-ranks-number-five-on-google-for-php-user-groups/</loc>
-    <lastmod>2004-06-01T12:04:12+02:00</lastmod>
+    <lastmod>2004-06-01T10:04:12+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/05/31/accelerating-php-applications/</loc>
-    <lastmod>2004-05-31T05:53:34+02:00</lastmod>
+    <lastmod>2004-05-31T03:53:34+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/05/24/uphpu-makes-phpnet-calendar/</loc>
-    <lastmod>2004-05-24T21:19:28+02:00</lastmod>
+    <lastmod>2004-05-24T19:19:28+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/05/23/2004-group-volunteers-announced/</loc>
-    <lastmod>2004-05-23T22:37:00+02:00</lastmod>
+    <lastmod>2004-05-23T20:37:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/05/23/mailing-list-to-become-more-focused-with-new-website/</loc>
-    <lastmod>2004-05-23T03:11:38+02:00</lastmod>
+    <lastmod>2004-05-23T01:11:38+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/05/23/new-section-for-publishing-reviews/</loc>
-    <lastmod>2004-05-23T03:06:43+02:00</lastmod>
+    <lastmod>2004-05-23T01:06:43+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/05/22/new-forum-for-publishing-articles/</loc>
-    <lastmod>2004-05-22T07:10:49+02:00</lastmod>
+    <lastmod>2004-05-22T05:10:49+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/05/22/uphpu-content-syndication/</loc>
-    <lastmod>2004-05-22T06:41:58+02:00</lastmod>
+    <lastmod>2004-05-22T04:41:58+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/05/21/welcome-to-the-new-site/</loc>
-    <lastmod>2004-05-21T22:46:00+02:00</lastmod>
+    <lastmod>2004-05-21T20:46:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/05/21/mays-meeting-presentation-notesslides/</loc>
-    <lastmod>2004-05-21T05:35:29+02:00</lastmod>
+    <lastmod>2004-05-21T03:35:29+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/05/21/2004-volunteer-elections/</loc>
-    <lastmod>2004-05-21T05:34:00+02:00</lastmod>
+    <lastmod>2004-05-21T03:34:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/05/20/donate-your-books-to-our-library/</loc>
-    <lastmod>2004-05-20T00:00:00+02:00</lastmod>
+    <lastmod>2004-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/05/19/mysql/</loc>
-    <lastmod>2004-05-19T08:00:04+02:00</lastmod>
+    <lastmod>2004-05-19T06:00:04+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/04/21/xml/</loc>
-    <lastmod>2004-04-21T08:00:29+02:00</lastmod>
+    <lastmod>2004-04-21T06:00:29+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/03/17/smarty/</loc>
-    <lastmod>2004-03-17T09:00:21+01:00</lastmod>
+    <lastmod>2004-03-17T08:00:21+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/02/18/xslt/</loc>
-    <lastmod>2004-02-18T09:00:17+01:00</lastmod>
+    <lastmod>2004-02-18T08:00:17+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/01/21/php-sessions/</loc>
-    <lastmod>2004-01-21T09:00:21+01:00</lastmod>
+    <lastmod>2004-01-21T08:00:21+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
     <loc>/blog/2004/01/01/presentation-topic-ideas-and-volunteers/</loc>
-    <lastmod>2004-01-01T14:00:17+01:00</lastmod>
+    <lastmod>2004-01-01T13:00:17+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
