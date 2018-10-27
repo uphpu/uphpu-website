@@ -4,7 +4,7 @@ status: publish
 published: true
 title: "GraphQL Implemented for Doctrine by Tom Anderson with Free Food"
 presenter: Tom Anderson
-date: '2018-09-20 19:00:00'
+date: '2018-10-18 19:00:00'
 summary: |
     "GraphQL Implemented for Doctrine by Tom Anderson with Free Food"
 categories:
