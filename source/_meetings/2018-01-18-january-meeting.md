@@ -14,19 +14,21 @@ tags:
   - events
 ---
 
-Kyle Waters will be presenting in January.
+An overview of object oriented programming in PHP. Inheritance, polymorphism, abstract classes, and factories, come learn how and why to use them.
 
 ### About Kyle Waters
 
-Kyle Waters is the Lead Software Architect at Venture Data LLC. He has over a decade experience programming in PHP and also works with javascript, css, postgresql, perl, c++, and java. Kyle is currently finishing the Wheel Of Time Series (Book 13).
+Kyle Waters is the Lead Software Architect at Venturedata LLC. He works with php, javascript, postgresql, c++ and Linux.
 
 ## Pizza!
 
-Our sponsor Alex Clark with TEKsystems is providing food! There will be pizza, drinks, and even desserts delivered from Dominos.
+Pizza will be provided by Alex Clark with TEKsystems. Reach out to her with your career needs.
 
 ## Swag Alert
 
-At the end of the presentation, two ZendCon 2017 t-shirts will be handed out and one random lucky winner will win a free 1 year individual subscription to any single JetBrains Toolbox product. Choices includes PhpStorm, WebStorm, DataGrip, or others seen at https://www.jetbrains.com/products.html. Thanks JetBrains!
+At the end of the presentation, one random lucky winner will win a free 1 year individual subscription to any single JetBrains Toolbox product. Choices includes PhpStorm, WebStorm, DataGrip, or others seen at https://www.jetbrains.com/products.html. Thanks JetBrains!
+
+There will also be a few other items to handout, including a denim elephpant, fidget spinners and t-shirts.
 
 ## Venue: Vivint
 
