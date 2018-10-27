@@ -4,7 +4,7 @@ status: publish
 published: true
 title: "OOP Done Right Through SOLID by Will Shaw with Free Food"
 presenter: Will Shaw
-date: '2018-07-19 19:00:00'
+date: '2018-08-16 19:00:00'
 summary: |
     "OOP Done Right Through SOLID by Will Shaw with Free Food"
 categories:
