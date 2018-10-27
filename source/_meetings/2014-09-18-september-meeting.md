@@ -15,13 +15,15 @@ tags:
 ---
 This month we will have Mark Niebergall giving us a talk on the new features to PHP 5.6:
 
-> With PHP 5.6 there are some great new features. We'll go over 
-> some of these features and how to use them. This includes variadic 
-> functions, constant scalar expressions, exponentiation, splat 
-> operator, use const/function, php input, phpdbg, and more. We will 
-> also cover deprecated features in PHP 5.6. Want to get involved with 
-> upcoming release? I'll show you how you can 'make_test' to start 
+> With PHP 5.6 there are some great new features. We'll go over
+> some of these features and how to use them. This includes variadic
+> functions, constant scalar expressions, exponentiation, splat
+> operator, use const/function, php input, phpdbg, and more. We will
+> also cover deprecated features in PHP 5.6. Want to get involved with
+> upcoming release? I'll show you how you can 'make_test' to start
 > helping out.
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/Ldar2VYPiEE" frameborder="0" allowfullscreen></iframe>
 
 ## The After Party
 
