@@ -2,11 +2,11 @@
 layout: post
 status: publish
 published: true
-title: "An overview of object oriented programming in PHP by Kyle Waters"
-presenter: Kyle Waters
-date: '2018-01-18 19:00:00'
+title: "ECMAScript 2015: What you missed while writing the superhero app by Matthew Hill"
+presenter: Matthew Hill
+date: '2018-02-15 19:00:00'
 summary: |
-    "An overview of object oriented programming in PHP by Kyle Waters"
+    "ECMAScript 2015: What you missed while writing the superhero app by Matthew Hill"
 categories:
   - Presentations
 tags:
@@ -14,11 +14,11 @@ tags:
   - events
 ---
 
-An overview of object oriented programming in PHP. Inheritance, polymorphism, abstract classes, and factories, come learn how and why to use them.
+Technology moves fast, and a busy PHP developer has their hands full keeping up within their own ecosystem: Nginx, PHP-FPM, XDebug, REST, OWASP, TheCloud, PSR-X, interfaces, traits, Composer, Packagist... it is hard to keep track of it all! Outside of PHP, a little-known language called Javascript has become a BIG DEAL™. We will discuss the changes that have made JS fun again, both on the client and the server. A brief look into the why, what, and how of ECMAScript 2015.
 
-### About Kyle Waters
+### About Matthew Hill
 
-Kyle Waters is the Lead Software Architect at Venturedata LLC. He works with php, javascript, postgresql, c++ and Linux.
+Matthew Hill has been an itinerant hacker-for-hire for a few years. He currently enjoys writing REST consumers (nom-nom), building Cloud solutions, and experimenting with Raspberry Pis. He hopes one day to catch up with an ever-growing Steam backlog.
 
 ## Pizza!
 
@@ -28,7 +28,7 @@ Pizza will be provided by Alex Clark with TEKsystems. Reach out to her with your
 
 At the end of the presentation, one random lucky winner will win a free 1 year individual subscription to any single JetBrains Toolbox product. Choices includes PhpStorm, WebStorm, DataGrip, or others seen at https://www.jetbrains.com/products.html. Thanks JetBrains!
 
-There will also be a few other items to handout, including a denim elephpant, fidget spinners and t-shirts.
+There will also be a few other items to handout.
 
 ## Venue: Vivint
 
