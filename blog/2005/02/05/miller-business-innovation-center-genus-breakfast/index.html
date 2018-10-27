@@ -102,6 +102,26 @@ Take I-15 North to Exit 297 (10600 South) after exiting, turn right (east) and p
     $(document).foundation();
 </script>
 
+<script type="text/javascript">
+    ( function() {
+        var h, w, vid, wrappedVid, videos = document.querySelectorAll( 'iframe[src*="youtube.com"]' );
+        for ( var i = 0; i < videos.length; i++ ) {
+            vid = videos[ i ];
+            wrappedVid = document.createElement( 'div' );
+            wrappedVid.setAttribute('class', 'vid-wrap');
+
+            vid.parentNode.replaceChild( wrappedVid, vid );
+
+            wrappedVid.appendChild( vid );
+
+            h = parseInt( vid.getAttribute( 'height' ), 10 );
+            w = parseInt( vid.getAttribute( 'width' ), 10 );
+
+            wrappedVid.style.paddingTop = ( ( h / w ) * 100 ) + '%';
+        }
+    } )();
+</script>
+
 <script src="/components/highlightjs/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>    </body>
 </html>

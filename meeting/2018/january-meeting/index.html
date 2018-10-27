@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <title>Presentation by Kyle Waters &mdash; Utah PHP Usergroup &mdash; Where PHP Happens in Utah</title>
+    <title>An overview of object oriented programming in PHP by Kyle Waters &mdash; Utah PHP Usergroup &mdash; Where PHP Happens in Utah</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="/components/foundation/css/normalize.css" rel="stylesheet" type="text/css" />
@@ -48,7 +48,7 @@
     <div class="row">
         <div class="small-8 small-offset-2 columns">
         <header>
-            <h2>Presentation by Kyle Waters</h2>
+            <h2>An overview of object oriented programming in PHP by Kyle Waters</h2>
         </header>
         <div>
             <p>An overview of object oriented programming in PHP. Inheritance, polymorphism, abstract classes, and factories, come learn how and why to use them.</p>
@@ -114,6 +114,26 @@ Lehi, Utah 84043</p>
 <script src="/components/foundation/js/foundation.min.js"></script>
 <script>
     $(document).foundation();
+</script>
+
+<script type="text/javascript">
+    ( function() {
+        var h, w, vid, wrappedVid, videos = document.querySelectorAll( 'iframe[src*="youtube.com"]' );
+        for ( var i = 0; i < videos.length; i++ ) {
+            vid = videos[ i ];
+            wrappedVid = document.createElement( 'div' );
+            wrappedVid.setAttribute('class', 'vid-wrap');
+
+            vid.parentNode.replaceChild( wrappedVid, vid );
+
+            wrappedVid.appendChild( vid );
+
+            h = parseInt( vid.getAttribute( 'height' ), 10 );
+            w = parseInt( vid.getAttribute( 'width' ), 10 );
+
+            wrappedVid.style.paddingTop = ( ( h / w ) * 100 ) + '%';
+        }
+    } )();
 </script>
 
 <script src="/components/highlightjs/highlight.pack.js"></script>
