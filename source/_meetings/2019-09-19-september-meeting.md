@@ -3,8 +3,8 @@ layout: post
 status: publish
 published: true
 title: "BDD API Tests with Gherkin and Behat"
-presenter: Tom Anderson
-date: '2019-08-15 19:00:00'
+presenter: Mark Niebergall
+date: '2019-09-19 19:00:00'
 summary: |
     "BDD API Tests with Gherkin and Behat by Mark Niebergall"
 categories:
